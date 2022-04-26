@@ -9,11 +9,8 @@ dem = 0
 nameDict = 'dict.npy'
 read = "read.pdf"
 # Load
-try:
-    dct = np.load(nameDict, allow_pickle='TRUE').item()
-except Exception as e:
-    print("ERROR: ", e)
-    np.save(nameDict, dct)
+# np.save(nameDict, dct)   #Neu bao loi thi chay cau lenh nay truoc
+dct = np.load(nameDict, allow_pickle='TRUE').item()
 
 with fitz.open(read) as doc:
     for page in doc:
@@ -30,7 +27,7 @@ with fitz.open(read) as doc:
                 trans = trans.lower().strip()
                 dem += 1
             except Exception as e:
-                trans=word
+                trans = word
                 print("ERROR: ", e)
                 continue
             if trans == word:
