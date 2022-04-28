@@ -1,1 +1,1 @@
- python -m penelope -i .\dict.csv -j csv -p mobi -f en -t ve  --title "Eng-Viet Google Translate"-o dictEV --kindlegen-path "C:\Users\TRUNG\AppData\Local\Amazon\Kindle Previewer 3\lib\fc\bin\kindlegen.exe"
+ python -m penelope -i .\dict.csv -j csv -p mobi -f en -t ve  --title "Eng-Viet Google Translate"-o dictEV --kindlegen-path "kindlegen.exe"
