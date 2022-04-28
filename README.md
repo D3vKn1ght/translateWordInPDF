@@ -1,5 +1,5 @@
 # translateWordInPDF
-Đọc tất cả từ trong file pdf rồi dịch sang tiếng việt
+Đọc tất cả từ trong file pdf rồi dịch sang tiếng việt . Tạo một từ điển cho máy đọc sách kindle từ google dịch.
 
 
 Cách dùng : Copy các file pdf vào folder pdf. Chạy File main.py để tiến hành translate, để ghi ra file csv chạy file writeDictToTxt.py
