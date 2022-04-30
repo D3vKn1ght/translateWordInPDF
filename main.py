@@ -48,4 +48,4 @@ for pathFile in glob.glob('pdf/*.pdf'):
         if dem % 10 == 0:
             np.save(nameDict, dct)
             print("SAVE IN DICT")
-            time.sleep(random.randint(10, 30))
+            time.sleep(random.randint(10, 15))
