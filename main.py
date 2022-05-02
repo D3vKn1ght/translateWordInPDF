@@ -75,21 +75,23 @@ for pathFile in glob.glob('pdf/*.pdf'):
         dem += 1
         if check == False or add < 2:
             continue
-        trans = "Google: "+resultGoogle+"\tBing: " + \
-            resultBing+"\tMymemory: "+resultMyMemory
-        print("NEW:", word, ":", trans)
 
+        trans = ""
         value = "<div>"
-        if resultGoogle != "":
+        if resultGoogle != "" or resultGoogle != word:
             value += "<b>- Google :</b><br />&emsp;+ {0}<br/>".format(
                 resultGoogle.lower().strip().capitalize())
-        if resultBing != "":
+            trans = trans+"Google: "+resultGoogle + "\t"
+        if resultBing != "" or resultBing != word:
             value += "<b>- Bing :</b><br />&emsp;+ {0}<br/>".format(
                 resultBing.lower().strip().capitalize())
-        if resultMyMemory != "":
+            trans = trans+"Bing: " + resultBing+"\t"
+        if resultMyMemory != "" or resultMyMemory != word:
             value += "<b>- MyMemory :</b><br />&emsp;+ {0}<br/>".format(
                 resultMyMemory.lower().strip().capitalize())
+            trans = trans+"Mymemory: "+resultMyMemory
         value += "</div>"
+        print("NEW:", word, ":", trans)
         dct[word] = value
         if dem % 30 == 0:
             np.save(nameDict, dct)
