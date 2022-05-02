@@ -49,7 +49,8 @@ for pathFile in glob.glob('pdf/*.pdf'):
             continue
         if resultGoogle != word:
             add += 1
-
+        else:
+            continue
         try:
             resultBing = bingTranslate.translate(word)
             resultBing = resultBing.lower().strip()
@@ -71,6 +72,7 @@ for pathFile in glob.glob('pdf/*.pdf'):
             continue
         if resultMyMemory != word:
             add += 1
+        dem += 1
         if check == False or add < 2:
             continue
         trans = "Google: "+resultGoogle+"\tBing: " + \
@@ -88,9 +90,9 @@ for pathFile in glob.glob('pdf/*.pdf'):
             value += "<b>- MyMemory :</b><br />&emsp;+ {0}<br/>".format(
                 resultMyMemory.lower().strip().capitalize())
         value += "</div>"
-        dct[word] = value
-        dem += 1
-        if dem % 10 == 0:
+        dct[word] = value        
+        if dem % 30 == 0:
             np.save(nameDict, dct)
             print("SAVE IN DICT")
-            time.sleep(random.randint(5, 10))
+            print("Hien co ", len(dct), "tu")
+            time.sleep(random.randint(20, 30))
