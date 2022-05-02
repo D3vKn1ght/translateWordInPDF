@@ -90,7 +90,7 @@ for pathFile in glob.glob('pdf/*.pdf'):
             value += "<b>- MyMemory :</b><br />&emsp;+ {0}<br/>".format(
                 resultMyMemory.lower().strip().capitalize())
         value += "</div>"
-        dct[word] = value        
+        dct[word] = value
         if dem % 30 == 0:
             np.save(nameDict, dct)
             print("SAVE IN DICT")
