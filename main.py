@@ -38,6 +38,8 @@ for pathFile in glob.glob('pdf/*.pdf'):
         if word in dct:
             print(word, "da co trong tu dien")
             continue
+        trans = ""
+        value = "<div>"
         try:
             resultGoogle = googleTranslate.translate(
                 word, lang_src='en', lang_tgt='vi')
@@ -47,10 +49,14 @@ for pathFile in glob.glob('pdf/*.pdf'):
             resultGoogle = word
             print("Google translate error: ", e)
             continue
-        if resultGoogle != word:
+        if resultGoogle != "" and resultGoogle != word:
             add += 1
+            value += "<b>- Google :</b><br />&emsp;+ {0}<br/>".format(
+                resultGoogle.lower().strip().capitalize())
+            trans = trans+"Google: "+resultGoogle + "\t"
         else:
             continue
+
         try:
             resultBing = bingTranslate.translate(word)
             resultBing = resultBing.lower().strip()
@@ -58,9 +64,11 @@ for pathFile in glob.glob('pdf/*.pdf'):
         except Exception as e:
             resultBing = word
             print("Bing translate error: ", e)
-            continue
-        if resultBing != word:
+        if resultBing != "" and resultBing != word:
             add += 1
+            value += "<b>- Bing :</b><br />&emsp;+ {0}<br/>".format(
+                resultBing.lower().strip().capitalize())
+            trans = trans+"Bing: " + resultBing+"\t"
 
         try:
             resultMyMemory = myMemoryTranslate.translate(word)
@@ -69,31 +77,24 @@ for pathFile in glob.glob('pdf/*.pdf'):
         except Exception as e:
             resultMyMemory = word
             print("MyMemory translate error: ", e)
-        if resultMyMemory != word:
-            add += 1
-        dem += 1
-        if check == False or add < 2:
-            continue
-
-        trans = ""
-        value = "<div>"
-        if resultGoogle != "" and resultGoogle != word:
-            value += "<b>- Google :</b><br />&emsp;+ {0}<br/>".format(
-                resultGoogle.lower().strip().capitalize())
-            trans = trans+"Google: "+resultGoogle + "\t"
-        if resultBing != "" and resultBing != word:
-            value += "<b>- Bing :</b><br />&emsp;+ {0}<br/>".format(
-                resultBing.lower().strip().capitalize())
-            trans = trans+"Bing: " + resultBing+"\t"
         if resultMyMemory != "" and resultMyMemory != word:
+            add += 1
             value += "<b>- MyMemory :</b><br />&emsp;+ {0}<br/>".format(
                 resultMyMemory.lower().strip().capitalize())
             trans = trans+"Mymemory: "+resultMyMemory
         value += "</div>"
+
+        dem += 1
+        if check == False or add < 2:
+            continue
+
         print("NEW:", word, ":", trans)
         dct[word] = value
-        if dem % 30 == 0:
+        if dem % 10 == 0:
             np.save(nameDict, dct)
             print("SAVE IN DICT")
             print("Hien co ", len(dct), "tu")
-            time.sleep(random.randint(20, 30))
+            if dem % 30 == 0:
+                timeNgu = random.randint(20, 30)
+                print("Sleep ", timeNgu, "s")
+                time.sleep(timeNgu)
