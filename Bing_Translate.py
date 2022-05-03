@@ -28,10 +28,10 @@ class BingTranslate:
         try:
             url = "http://127.0.0.1:8989/translate?text=" + text
             r = requests.get(url)
-            if r.status_code == 200:
+            if r.status_code == 200 and r.text != "undefined":
                 return r.text
             else:
-                return text
+                return ""
         except Exception as e:
             print(e)
-            return text
+            return ""

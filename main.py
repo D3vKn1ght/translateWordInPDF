@@ -69,7 +69,6 @@ for pathFile in glob.glob('pdf/*.pdf'):
         except Exception as e:
             resultMyMemory = word
             print("MyMemory translate error: ", e)
-            continue
         if resultMyMemory != word:
             add += 1
         dem += 1
@@ -78,15 +77,15 @@ for pathFile in glob.glob('pdf/*.pdf'):
 
         trans = ""
         value = "<div>"
-        if resultGoogle != "" or resultGoogle != word:
+        if resultGoogle != "" and resultGoogle != word:
             value += "<b>- Google :</b><br />&emsp;+ {0}<br/>".format(
                 resultGoogle.lower().strip().capitalize())
             trans = trans+"Google: "+resultGoogle + "\t"
-        if resultBing != "" or resultBing != word:
+        if resultBing != "" and resultBing != word:
             value += "<b>- Bing :</b><br />&emsp;+ {0}<br/>".format(
                 resultBing.lower().strip().capitalize())
             trans = trans+"Bing: " + resultBing+"\t"
-        if resultMyMemory != "" or resultMyMemory != word:
+        if resultMyMemory != "" and resultMyMemory != word:
             value += "<b>- MyMemory :</b><br />&emsp;+ {0}<br/>".format(
                 resultMyMemory.lower().strip().capitalize())
             trans = trans+"Mymemory: "+resultMyMemory
