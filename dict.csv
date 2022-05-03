@@ -8980,3 +8980,978 @@ egg,<div><b>- Google :</b><br />&emsp;+ Trứng<br/><b>- Bing :</b><br />&emsp;+
 shelf,<div><b>- Google :</b><br />&emsp;+ Cái kệ<br/><b>- Bing :</b><br />&emsp;+ Giá<br/></div>
 angel,<div><b>- Google :</b><br />&emsp;+ Thiên thần<br/><b>- Bing :</b><br />&emsp;+ Thiên thần<br/></div>
 bottles,<div><b>- Google :</b><br />&emsp;+ Chai<br/><b>- Bing :</b><br />&emsp;+ Chai<br/></div>
+trading,<div><b>- Google :</b><br />&emsp;+ Thương mại<br/><b>- Bing :</b><br />&emsp;+ Kinh doanh<br/><b>- MyMemory :</b><br />&emsp;+ Kinh doanh, mua bán<br/></div>
+designated,<div><b>- Google :</b><br />&emsp;+ Chỉ định<br/><b>- Bing :</b><br />&emsp;+ Được chỉ định<br/><b>- MyMemory :</b><br />&emsp;+ Được chỉ định<br/></div>
+isolating,<div><b>- Google :</b><br />&emsp;+ Cô lập<br/><b>- MyMemory :</b><br />&emsp;+ Cách ly<br/></div>
+reprint,<div><b>- Google :</b><br />&emsp;+ In lại<br/><b>- Bing :</b><br />&emsp;+ Tái bản<br/><b>- MyMemory :</b><br />&emsp;+ In lại<br/></div>
+async,<div><b>- Google :</b><br />&emsp;+ Không đồng bộ<br/><b>- MyMemory :</b><br />&emsp;+ Làm đồng hồ<br/></div>
+conglomeration,<div><b>- Google :</b><br />&emsp;+ Tập đoàn<br/><b>- Bing :</b><br />&emsp;+ Tập hợp<br/><b>- MyMemory :</b><br />&emsp;+ Tập đoàn<br/></div>
+contacts,<div><b>- Google :</b><br />&emsp;+ Liên lạc<br/><b>- Bing :</b><br />&emsp;+ Liên hệ<br/><b>- MyMemory :</b><br />&emsp;+ Liên hệ<br/></div>
+periodically,<div><b>- Google :</b><br />&emsp;+ Định kỳ<br/><b>- Bing :</b><br />&emsp;+ Định kỳ<br/><b>- MyMemory :</b><br />&emsp;+ Thường kỳ<br/></div>
+reconverted,<div><b>- Google :</b><br />&emsp;+ Đổi lại<br/><b>- MyMemory :</b><br />&emsp;+ Được hoàn nguyên<br/></div>
+rst,<div><b>- Google :</b><br />&emsp;+ Đầu tiên<br/><b>- MyMemory :</b><br />&emsp;+ Đầu tiên<br/></div>
+solving,<div><b>- Google :</b><br />&emsp;+ Giải quyết<br/><b>- Bing :</b><br />&emsp;+ Giải quyết<br/><b>- MyMemory :</b><br />&emsp;+ Giải quyết<br/></div>
+costlier,<div><b>- Google :</b><br />&emsp;+ Tốn kém hơn<br/><b>- Bing :</b><br />&emsp;+ Tốn kém hơn<br/><b>- MyMemory :</b><br />&emsp;+ Người trả giá cao hơn<br/></div>
+fellow,<div><b>- Google :</b><br />&emsp;+ Đồng nghiệp<br/><b>- Bing :</b><br />&emsp;+ Thằng cha<br/><b>- MyMemory :</b><br />&emsp;+ Đồng chí<br/></div>
+possessed,<div><b>- Google :</b><br />&emsp;+ Sở hữu<br/><b>- Bing :</b><br />&emsp;+ Sở hữu<br/><b>- MyMemory :</b><br />&emsp;+ "bị ám" à?<br/></div>
+nished,<div><b>- Google :</b><br />&emsp;+ Người nành<br/><b>- MyMemory :</b><br />&emsp;+ Được nêm vào<br/></div>
+interleaving,<div><b>- Google :</b><br />&emsp;+ Xen kẽ<br/><b>- MyMemory :</b><br />&emsp;+ Sự xen kẽ<br/></div>
+tooth,<div><b>- Google :</b><br />&emsp;+ Răng<br/><b>- Bing :</b><br />&emsp;+ Răng<br/></div>
+stationed,<div><b>- Google :</b><br />&emsp;+ Đóng quân<br/><b>- Bing :</b><br />&emsp;+ Đóng<br/><b>- MyMemory :</b><br />&emsp;+ Đóng quân<br/></div>
+designation,<div><b>- Google :</b><br />&emsp;+ Chỉ định<br/><b>- Bing :</b><br />&emsp;+ Chỉ định<br/><b>- MyMemory :</b><br />&emsp;+ Chức danh<br/></div>
+happy,<div><b>- Google :</b><br />&emsp;+ Sung sướng<br/><b>- Bing :</b><br />&emsp;+ Vui vẻ<br/><b>- MyMemory :</b><br />&emsp;+ Hài lòng<br/></div>
+rightmost,<div><b>- Google :</b><br />&emsp;+ Bên phải<br/><b>- Bing :</b><br />&emsp;+ Ngoài cùng bên phải<br/><b>- MyMemory :</b><br />&emsp;+ Bên phải nhất<br/></div>
+revised,<div><b>- Google :</b><br />&emsp;+ Sửa đổi<br/><b>- Bing :</b><br />&emsp;+ Sửa đổi<br/><b>- MyMemory :</b><br />&emsp;+ Thời hạn điều chỉnh<br/></div>
+bands,<div><b>- Google :</b><br />&emsp;+ Ban nhạc<br/><b>- Bing :</b><br />&emsp;+ Ban nhạc<br/><b>- MyMemory :</b><br />&emsp;+ Băng, dải<br/></div>
+lowering,<div><b>- Google :</b><br />&emsp;+ Hạ thấp<br/><b>- Bing :</b><br />&emsp;+ Giảm<br/><b>- MyMemory :</b><br />&emsp;+ Sự giảm xuống<br/></div>
+aforementioned,<div><b>- Google :</b><br />&emsp;+ Đã nói ở trên<br/><b>- Bing :</b><br />&emsp;+ Nói trên<br/><b>- MyMemory :</b><br />&emsp;+ Nói trên<br/></div>
+kilobytes,<div><b>- Google :</b><br />&emsp;+ Kilobyte<br/><b>- Bing :</b><br />&emsp;+ Kilobyte<br/><b>- MyMemory :</b><br />&emsp;+ Kilobyte<br/></div>
+institutions,<div><b>- Google :</b><br />&emsp;+ Thể chế<br/><b>- Bing :</b><br />&emsp;+ Tổ chức<br/><b>- MyMemory :</b><br />&emsp;+ Của úc.<br/></div>
+sampled,<div><b>- Google :</b><br />&emsp;+ Lấy mẫu<br/><b>- Bing :</b><br />&emsp;+ Lấy mẫu<br/><b>- MyMemory :</b><br />&emsp;+ Lấy mẫu<br/></div>
+minicomputer,<div><b>- Google :</b><br />&emsp;+ Máy tính mini<br/><b>- Bing :</b><br />&emsp;+ Máy tính mini<br/><b>- MyMemory :</b><br />&emsp;+ Máy tính mini<br/></div>
+overlap,<div><b>- Google :</b><br />&emsp;+ Sự chồng chéo<br/><b>- Bing :</b><br />&emsp;+ Chồng chéo<br/><b>- MyMemory :</b><br />&emsp;+ Sự phủ chồng<br/></div>
+widened,<div><b>- Google :</b><br />&emsp;+ Mở rộng<br/><b>- Bing :</b><br />&emsp;+ Mở rộng<br/><b>- MyMemory :</b><br />&emsp;+ Mở rộng<br/></div>
+commamd,<div><b>- Google :</b><br />&emsp;+ Yêu cầu<br/><b>- Bing :</b><br />&emsp;+ Dấu phẩy<br/><b>- MyMemory :</b><br />&emsp;+ (có) lông tơ, (có) lông tơ<br/></div>
+upswing,<div><b>- Google :</b><br />&emsp;+ Lên cao<br/><b>- MyMemory :</b><br />&emsp;+ Tiến bộ<br/></div>
+cascaded,<div><b>- Google :</b><br />&emsp;+ Xếp tầng<br/><b>- Bing :</b><br />&emsp;+ Xếp tầng<br/><b>- MyMemory :</b><br />&emsp;+ Xếp tầng<br/></div>
+equivalence,<div><b>- Google :</b><br />&emsp;+ Tương đương<br/><b>- Bing :</b><br />&emsp;+ Tương đương<br/><b>- MyMemory :</b><br />&emsp;+ Tương đương<br/></div>
+capacitances,<div><b>- Google :</b><br />&emsp;+ Điện dung<br/><b>- Bing :</b><br />&emsp;+ Điện dung<br/><b>- MyMemory :</b><br />&emsp;+ Điện dung<br/></div>
+platter,<div><b>- Google :</b><br />&emsp;+ Đĩa<br/><b>- MyMemory :</b><br />&emsp;+ Đĩa<br/></div>
+revolutionary,<div><b>- Google :</b><br />&emsp;+ Cuộc cách mạng<br/><b>- Bing :</b><br />&emsp;+ Nhà cách mạng<br/><b>- MyMemory :</b><br />&emsp;+ Nhà cách mạng<br/></div>
+diskette,<div><b>- Google :</b><br />&emsp;+ Đĩa<br/><b>- Bing :</b><br />&emsp;+ Đĩa<br/><b>- MyMemory :</b><br />&emsp;+ Ổ đĩa mềm<br/></div>
+adhering,<div><b>- Google :</b><br />&emsp;+ Tuân thủ<br/><b>- Bing :</b><br />&emsp;+ Tôn trọng<br/><b>- MyMemory :</b><br />&emsp;+ Dính, dính<br/></div>
+purchaser,<div><b>- Google :</b><br />&emsp;+ Chủ đầu tư<br/><b>- Bing :</b><br />&emsp;+ Mua<br/><b>- MyMemory :</b><br />&emsp;+ Người mua<br/></div>
+computationally,<div><b>- Google :</b><br />&emsp;+ Tính toán<br/><b>- Bing :</b><br />&emsp;+ Tính toán<br/><b>- MyMemory :</b><br />&emsp;+ Tính toán<br/></div>
+assigning,<div><b>- Google :</b><br />&emsp;+ Chỉ định<br/><b>- Bing :</b><br />&emsp;+ Gán<br/><b>- MyMemory :</b><br />&emsp;+ Mô tả:<br/></div>
+emphasize,<div><b>- Google :</b><br />&emsp;+ Nhấn mạnh<br/><b>- Bing :</b><br />&emsp;+ Nhấn mạnh<br/><b>- MyMemory :</b><br />&emsp;+ Nhấn mạnh, làm nổi bật<br/></div>
+attracted,<div><b>- Google :</b><br />&emsp;+ Thu hút<br/><b>- Bing :</b><br />&emsp;+ Thu hút<br/><b>- MyMemory :</b><br />&emsp;+ Thu hút<br/></div>
+pipelining,<div><b>- Google :</b><br />&emsp;+ Đường ống<br/><b>- MyMemory :</b><br />&emsp;+ Sự tạo đường ống<br/></div>
+synchronous,<div><b>- Google :</b><br />&emsp;+ Đồng bộ<br/><b>- Bing :</b><br />&emsp;+ Đồng bộ<br/><b>- MyMemory :</b><br />&emsp;+ Tính đồng bộ<br/></div>
+circulated,<div><b>- Google :</b><br />&emsp;+ Lưu hành<br/><b>- Bing :</b><br />&emsp;+ Lưu hành<br/><b>- MyMemory :</b><br />&emsp;+ Được lưu hành<br/></div>
+flush,<div><b>- Google :</b><br />&emsp;+ Tuôn ra<br/><b>- MyMemory :</b><br />&emsp;+ Tia nước<br/></div>
+inactive,<div><b>- Google :</b><br />&emsp;+ Không hoạt động<br/><b>- Bing :</b><br />&emsp;+ Không hoạt động<br/><b>- MyMemory :</b><br />&emsp;+ Không hoạt động<br/></div>
+ree,<div><b>- Google :</b><br />&emsp;+ Cây<br/><b>- MyMemory :</b><br />&emsp;+ Ree!<br/></div>
+logarithmic,<div><b>- Google :</b><br />&emsp;+ Logarit<br/><b>- Bing :</b><br />&emsp;+ Logarit<br/><b>- MyMemory :</b><br />&emsp;+ & lôgarít<br/></div>
+multiplier,<div><b>- Google :</b><br />&emsp;+ Số nhân<br/><b>- Bing :</b><br />&emsp;+ Nhân<br/><b>- MyMemory :</b><br />&emsp;+ Thừa<br/></div>
+determin,<div><b>- Google :</b><br />&emsp;+ Quyết tâm<br/><b>- Bing :</b><br />&emsp;+ Xác định<br/><b>- MyMemory :</b><br />&emsp;+ Sự xác định, sự xác định<br/></div>
+grounding,<div><b>- Google :</b><br />&emsp;+ Nền tảng<br/><b>- Bing :</b><br />&emsp;+ Nền tảng<br/><b>- MyMemory :</b><br />&emsp;+ Sự mắc cạn (của tàu)<br/></div>
+latching,<div><b>- Google :</b><br />&emsp;+ Chốt<br/><b>- Bing :</b><br />&emsp;+ Chốt<br/><b>- MyMemory :</b><br />&emsp;+ Sự đóng chốt<br/></div>
+workstations,<div><b>- Google :</b><br />&emsp;+ Máy trạm<br/><b>- MyMemory :</b><br />&emsp;+ Máy trạm<br/></div>
+mized,<div><b>- Google :</b><br />&emsp;+ Bắt đầu<br/><b>- Bing :</b><br />&emsp;+ Cỡ m<br/></div>
+complement,<div><b>- Google :</b><br />&emsp;+ Bổ sung<br/><b>- Bing :</b><br />&emsp;+ Bổ sung<br/><b>- MyMemory :</b><br />&emsp;+ Số người biên chế quy định (trên tàu)<br/></div>
+wholeheartedly,<div><b>- Google :</b><br />&emsp;+ Hết lòng<br/><b>- Bing :</b><br />&emsp;+ Lòng<br/><b>- MyMemory :</b><br />&emsp;+ Hết lòng, hết sức<br/></div>
+masking,<div><b>- Google :</b><br />&emsp;+ Mặt nạ<br/><b>- Bing :</b><br />&emsp;+ Che<br/><b>- MyMemory :</b><br />&emsp;+ Che chắn (phần không sơn)<br/></div>
+factorial,<div><b>- Google :</b><br />&emsp;+ Yếu tố<br/><b>- Bing :</b><br />&emsp;+ Giai thừa<br/><b>- MyMemory :</b><br />&emsp;+ Giai thừa<br/></div>
+miniaturization,<div><b>- Google :</b><br />&emsp;+ Thu nhỏ<br/><b>- Bing :</b><br />&emsp;+ Thu nhỏ<br/><b>- MyMemory :</b><br />&emsp;+ Sự thu nhỏ<br/></div>
+nibbles,<div><b>- Google :</b><br />&emsp;+ Nhấm nháp<br/><b>- MyMemory :</b><br />&emsp;+ Bánh nibbles<br/></div>
+printer,<div><b>- Google :</b><br />&emsp;+ Máy in<br/><b>- Bing :</b><br />&emsp;+ Máy in<br/><b>- MyMemory :</b><br />&emsp;+ Máy in<br/></div>
+pairable,<div><b>- Google :</b><br />&emsp;+ Có thể ghép đôi<br/><b>- Bing :</b><br />&emsp;+ Có thể ghép nối<br/><b>- MyMemory :</b><br />&emsp;+ Có thể ghép đôi<br/></div>
+palindrome,<div><b>- Google :</b><br />&emsp;+ Palindrom<br/><b>- MyMemory :</b><br />&emsp;+ Vỏ não, áo não<br/></div>
+transceivers,<div><b>- Google :</b><br />&emsp;+ Transceers<br/><b>- Bing :</b><br />&emsp;+ Bộ thu phát<br/><b>- MyMemory :</b><br />&emsp;+ Bộ đàm<br/></div>
+dubbed,<div><b>- Google :</b><br />&emsp;+ Được lồng tiếng<br/><b>- Bing :</b><br />&emsp;+ Được đặt tên<br/><b>- MyMemory :</b><br />&emsp;+ Được đặt tên là<br/></div>
+lasts,<div><b>- Google :</b><br />&emsp;+ Kéo dài<br/><b>- Bing :</b><br />&emsp;+ Kéo dài<br/><b>- MyMemory :</b><br />&emsp;+ Cuối cùng<br/></div>
+outputting,<div><b>- Google :</b><br />&emsp;+ Xuất ra<br/><b>- Bing :</b><br />&emsp;+ Đầu ra<br/><b>- MyMemory :</b><br />&emsp;+ Đầu ra<br/></div>
+headway,<div><b>- Google :</b><br />&emsp;+ Đường đi<br/><b>- Bing :</b><br />&emsp;+ Hướng đi<br/><b>- MyMemory :</b><br />&emsp;+ Khoảng cách thời gian giữa 2 xe (headway)<br/></div>
+factor,<div><b>- Google :</b><br />&emsp;+ Nhân tố<br/><b>- Bing :</b><br />&emsp;+ Yếu tố<br/><b>- MyMemory :</b><br />&emsp;+ Nhân tố<br/></div>
+centralized,<div><b>- Google :</b><br />&emsp;+ Tập trung<br/><b>- Bing :</b><br />&emsp;+ Tập trung<br/><b>- MyMemory :</b><br />&emsp;+ Tập trung hóa<br/></div>
+wiped,<div><b>- Google :</b><br />&emsp;+ Bị xóa sổ<br/><b>- Bing :</b><br />&emsp;+ Xóa<br/><b>- MyMemory :</b><br />&emsp;+ Đã xóa<br/></div>
+cores,<div><b>- Google :</b><br />&emsp;+ Lõi<br/><b>- Bing :</b><br />&emsp;+ Màu sắc<br/><b>- MyMemory :</b><br />&emsp;+ Lõi<br/></div>
+promoter,<div><b>- Google :</b><br />&emsp;+ Người ủng hộ<br/><b>- MyMemory :</b><br />&emsp;+ Người phát động<br/></div>
+modul,<div><b>- Google :</b><br />&emsp;+ Mô đun<br/><b>- Bing :</b><br />&emsp;+ Module<br/><b>- MyMemory :</b><br />&emsp;+ Danh mục phân hệ<br/></div>
+mentioning,<div><b>- Google :</b><br />&emsp;+ Đề cập<br/><b>- Bing :</b><br />&emsp;+ Đề cập đến<br/><b>- MyMemory :</b><br />&emsp;+ Đề cập đến<br/></div>
+suitably,<div><b>- Google :</b><br />&emsp;+ Phù hợp<br/><b>- Bing :</b><br />&emsp;+ Phù hợp<br/><b>- MyMemory :</b><br />&emsp;+ Thích hợp<br/></div>
+disks,<div><b>- Google :</b><br />&emsp;+ Đĩa<br/><b>- Bing :</b><br />&emsp;+ Đĩa<br/><b>- MyMemory :</b><br />&emsp;+ Đi ̃ a<br/></div>
+salient,<div><b>- Google :</b><br />&emsp;+ Quan trọng<br/><b>- Bing :</b><br />&emsp;+ Nổi bật<br/><b>- MyMemory :</b><br />&emsp;+ Nổi bật<br/></div>
+spurious,<div><b>- Google :</b><br />&emsp;+ Giả mạo<br/><b>- Bing :</b><br />&emsp;+ Giả mạo<br/><b>- MyMemory :</b><br />&emsp;+ Không th? t<br/></div>
+pondicherry,<div><b>- Google :</b><br />&emsp;+ Pond richry<br/><b>- MyMemory :</b><br />&emsp;+ Nhà máy sản xuất thức ăn chăn nuôi<br/></div>
+varying,<div><b>- Google :</b><br />&emsp;+ Khác nhau<br/><b>- Bing :</b><br />&emsp;+ Khác nhau<br/><b>- MyMemory :</b><br />&emsp;+ Khác nhau<br/></div>
+width,<div><b>- Google :</b><br />&emsp;+ Chiều rộng<br/><b>- Bing :</b><br />&emsp;+ Chiều rộng<br/><b>- MyMemory :</b><br />&emsp;+ Bể rộng<br/></div>
+numbered,<div><b>- Google :</b><br />&emsp;+ Đánh số<br/><b>- Bing :</b><br />&emsp;+ Số<br/><b>- MyMemory :</b><br />&emsp;+ Đã đánh số<br/></div>
+irony,<div><b>- Google :</b><br />&emsp;+ Trớ trêu<br/><b>- MyMemory :</b><br />&emsp;+ Đúng là trớ trêu thật.<br/></div>
+continuation,<div><b>- Google :</b><br />&emsp;+ Tiếp tục<br/><b>- Bing :</b><br />&emsp;+ Tiếp tục<br/></div>
+computa,<div><b>- Google :</b><br />&emsp;+ Tính toán<br/><b>- Bing :</b><br />&emsp;+ Máy tính<br/><b>- MyMemory :</b><br />&emsp;+ Sự tính toán<br/></div>
+blanked,<div><b>- Google :</b><br />&emsp;+ Trống<br/><b>- Bing :</b><br />&emsp;+ Trống<br/><b>- MyMemory :</b><br />&emsp;+ Được để trống<br/></div>
+closures,<div><b>- Google :</b><br />&emsp;+ Đóng cửa<br/><b>- Bing :</b><br />&emsp;+ Đóng cửa<br/><b>- MyMemory :</b><br />&emsp;+ Đóng cửa<br/></div>
+stator,<div><b>- Google :</b><br />&emsp;+ Stato<br/><b>- MyMemory :</b><br />&emsp;+ Stato<br/></div>
+distances,<div><b>- Google :</b><br />&emsp;+ Khoảng cách<br/><b>- Bing :</b><br />&emsp;+ Xa<br/><b>- MyMemory :</b><br />&emsp;+ Khoảng cách<br/></div>
+notebooks,<div><b>- Google :</b><br />&emsp;+ Sổ ghi chép<br/><b>- Bing :</b><br />&emsp;+ Sổ ghi chép<br/><b>- MyMemory :</b><br />&emsp;+ Knotescomment<br/></div>
+chassis,<div><b>- Google :</b><br />&emsp;+ Khung gầm<br/><b>- Bing :</b><br />&emsp;+ Khung<br/><b>- MyMemory :</b><br />&emsp;+ Sự kiểm tra bằng con lăn đơn mặt sau<br/></div>
+solace,<div><b>- Google :</b><br />&emsp;+ Niềm an ủi<br/><b>- MyMemory :</b><br />&emsp;+ An ủi<br/></div>
+overrun,<div><b>- Google :</b><br />&emsp;+ Tràn ngập<br/><b>- MyMemory :</b><br />&emsp;+ Tràn<br/></div>
+accidental,<div><b>- Google :</b><br />&emsp;+ Tình cờ<br/><b>- Bing :</b><br />&emsp;+ Tình cờ<br/><b>- MyMemory :</b><br />&emsp;+ Tình cờ<br/></div>
+dictates,<div><b>- Google :</b><br />&emsp;+ Ra lệnh<br/><b>- Bing :</b><br />&emsp;+ Ra<br/><b>- MyMemory :</b><br />&emsp;+ Ra lệnh<br/></div>
+interleaved,<div><b>- Google :</b><br />&emsp;+ Xen kẽ<br/><b>- Bing :</b><br />&emsp;+ Xen kẽ<br/><b>- MyMemory :</b><br />&emsp;+ Xen kẽ<br/></div>
+accorded,<div><b>- Google :</b><br />&emsp;+ Phù hợp<br/><b>- MyMemory :</b><br />&emsp;+ Được cấp<br/></div>
+ghosting,<div><b>- Google :</b><br />&emsp;+ Ma<br/><b>- Bing :</b><br />&emsp;+ Bóng ma<br/><b>- MyMemory :</b><br />&emsp;+ (sự) hóa ma<br/></div>
+petition,<div><b>- Google :</b><br />&emsp;+ Đơn kiến ​​nghị<br/><b>- Bing :</b><br />&emsp;+ Kiến nghị<br/><b>- MyMemory :</b><br />&emsp;+ Sự thỉnh cầu<br/></div>
+researched,<div><b>- Google :</b><br />&emsp;+ Nghiên cứu<br/><b>- Bing :</b><br />&emsp;+ Nghiên cứu<br/><b>- MyMemory :</b><br />&emsp;+ Đã nghiên cứu<br/></div>
+resistors,<div><b>- Google :</b><br />&emsp;+ Điện trở<br/><b>- Bing :</b><br />&emsp;+ Trở<br/><b>- MyMemory :</b><br />&emsp;+ Điện trở hãm<br/></div>
+achievement,<div><b>- Google :</b><br />&emsp;+ Thành tích<br/><b>- Bing :</b><br />&emsp;+ Thành tựu<br/><b>- MyMemory :</b><br />&emsp;+ Thành tích<br/></div>
+multitudes,<div><b>- Google :</b><br />&emsp;+ Đa dạng<br/><b>- Bing :</b><br />&emsp;+ Đám đông<br/><b>- MyMemory :</b><br />&emsp;+ Đa số<br/></div>
+backlight,<div><b>- Google :</b><br />&emsp;+ Đèn nền<br/><b>- Bing :</b><br />&emsp;+ Đèn nền<br/><b>- MyMemory :</b><br />&emsp;+ Đèn nền<br/></div>
+tasking,<div><b>- Google :</b><br />&emsp;+ Nhiệm vụ<br/><b>- MyMemory :</b><br />&emsp;+ Phân công nhiệm vụ<br/></div>
+manufacturers,<div><b>- Google :</b><br />&emsp;+ Nhà sản xuất của<br/><b>- Bing :</b><br />&emsp;+ Nhà sản xuất<br/><b>- MyMemory :</b><br />&emsp;+ Nhà sản xuất<br/></div>
+cantly,<div><b>- Google :</b><br />&emsp;+ Không ngừng<br/><b>- MyMemory :</b><br />&emsp;+ Căng thẳng, căng thẳng<br/></div>
+manifested,<div><b>- Google :</b><br />&emsp;+ Biểu hiện<br/><b>- Bing :</b><br />&emsp;+ Hiện<br/><b>- MyMemory :</b><br />&emsp;+ Biểu hiện<br/></div>
+bitlines,<div><b>- Google :</b><br />&emsp;+ Dây chuyền bit<br/><b>- MyMemory :</b><br />&emsp;+ Bitline<br/></div>
+rupts,<div><b>- Google :</b><br />&emsp;+ Vỡ ra<br/><b>- MyMemory :</b><br />&emsp;+ Sự nứt vỡ<br/></div>
+motors,<div><b>- Google :</b><br />&emsp;+ Động cơ<br/><b>- MyMemory :</b><br />&emsp;+ Mô tơ<br/></div>
+emerges,<div><b>- Google :</b><br />&emsp;+ Nổi lên<br/><b>- Bing :</b><br />&emsp;+ Xuất hiện<br/><b>- MyMemory :</b><br />&emsp;+ Nổi lên<br/></div>
+separ,<div><b>- Google :</b><br />&emsp;+ Tách<br/><b>- Bing :</b><br />&emsp;+ Tách<br/><b>- MyMemory :</b><br />&emsp;+ Ngăn cách<br/></div>
+stepper,<div><b>- Google :</b><br />&emsp;+ Bước<br/><b>- MyMemory :</b><br />&emsp;+ Bậc thang<br/></div>
+parity,<div><b>- Google :</b><br />&emsp;+ Ngang bằng<br/><b>- Bing :</b><br />&emsp;+ Tính chẵn lẻ<br/><b>- MyMemory :</b><br />&emsp;+ Ngang giá<br/></div>
+manufactur,<div><b>- Google :</b><br />&emsp;+ Sản xuất<br/><b>- Bing :</b><br />&emsp;+ Sản xuất<br/><b>- MyMemory :</b><br />&emsp;+ Nhà chế tạo<br/></div>
+ultaneous,<div><b>- Google :</b><br />&emsp;+ Cuối cùng<br/><b>- MyMemory :</b><br />&emsp;+ Siêu âm<br/></div>
+shaft,<div><b>- Google :</b><br />&emsp;+ Trục<br/><b>- Bing :</b><br />&emsp;+ Trục<br/><b>- MyMemory :</b><br />&emsp;+ Trụ<br/></div>
+inconsistency,<div><b>- Google :</b><br />&emsp;+ Sự không nhất quán<br/><b>- Bing :</b><br />&emsp;+ Không nhất quán<br/><b>- MyMemory :</b><br />&emsp;+ Sự không nhất quán<br/></div>
+hill,<div><b>- Google :</b><br />&emsp;+ Đồi núi<br/><b>- Bing :</b><br />&emsp;+ Đồi<br/><b>- MyMemory :</b><br />&emsp;+ Đồi<br/></div>
+termed,<div><b>- Google :</b><br />&emsp;+ Được gọi là<br/><b>- Bing :</b><br />&emsp;+ Gọi<br/><b>- MyMemory :</b><br />&emsp;+ Có thời hạn<br/></div>
+temperory,<div><b>- Google :</b><br />&emsp;+ Tạm thời<br/><b>- MyMemory :</b><br />&emsp;+ Ôn đới<br/></div>
+granularity,<div><b>- Google :</b><br />&emsp;+ Độ chi tiết<br/><b>- MyMemory :</b><br />&emsp;+ Mức độ chi tiết<br/></div>
+clts,<div><b>- Google :</b><br />&emsp;+ Clt<br/><b>- MyMemory :</b><br />&emsp;+ (thuộc) vảy, (thuộc) v<br/></div>
+unwanted,<div><b>- Google :</b><br />&emsp;+ Không mong muốn<br/><b>- Bing :</b><br />&emsp;+ Không mong muốn<br/><b>- MyMemory :</b><br />&emsp;+ Không mong muốn<br/></div>
+dgroup,<div><b>- Google :</b><br />&emsp;+ Nhóm<br/><b>- Bing :</b><br />&emsp;+ Nhóm dgroup<br/></div>
+omnipresent,<div><b>- Google :</b><br />&emsp;+ Toàn diện<br/><b>- MyMemory :</b><br />&emsp;+ Hiện diện toàn diện<br/></div>
+correctness,<div><b>- Google :</b><br />&emsp;+ Sự đúng đắn<br/><b>- Bing :</b><br />&emsp;+ Đúng đắn<br/><b>- MyMemory :</b><br />&emsp;+ Tính đúng đắn<br/></div>
+interrupting,<div><b>- Google :</b><br />&emsp;+ Làm gián đoạn<br/><b>- Bing :</b><br />&emsp;+ Bị gián đoạn<br/><b>- MyMemory :</b><br />&emsp;+ Làm gián đoạn<br/></div>
+controllers,<div><b>- Google :</b><br />&emsp;+ Bộ điều khiển<br/><b>- Bing :</b><br />&emsp;+ Điều khiển<br/><b>- MyMemory :</b><br />&emsp;+ Điều khiển -- controllers<br/></div>
+retains,<div><b>- Google :</b><br />&emsp;+ Giữ lại<br/><b>- Bing :</b><br />&emsp;+ Giữ<br/><b>- MyMemory :</b><br />&emsp;+ Giữ lại<br/></div>
+resetting,<div><b>- Google :</b><br />&emsp;+ Đặt lại<br/><b>- Bing :</b><br />&emsp;+ Đặt lại<br/><b>- MyMemory :</b><br />&emsp;+ Đang đặt lại...<br/></div>
+typewriter,<div><b>- Google :</b><br />&emsp;+ Máy đánh chữ<br/><b>- Bing :</b><br />&emsp;+ Máy chữ<br/><b>- MyMemory :</b><br />&emsp;+ Máy đánh chữ<br/></div>
+operative,<div><b>- Google :</b><br />&emsp;+ Hoạt động<br/><b>- Bing :</b><br />&emsp;+ Tác<br/><b>- MyMemory :</b><br />&emsp;+ Đặc vụ<br/></div>
+composition,<div><b>- Google :</b><br />&emsp;+ Thành phần<br/><b>- Bing :</b><br />&emsp;+ Cấu tạo<br/><b>- MyMemory :</b><br />&emsp;+ Hợp<br/></div>
+upto,<div><b>- Google :</b><br />&emsp;+ Lên đến<br/><b>- Bing :</b><br />&emsp;+ Lên đến<br/><b>- MyMemory :</b><br />&emsp;+ Tối đa<br/></div>
+slices,<div><b>- Google :</b><br />&emsp;+ Lát<br/><b>- Bing :</b><br />&emsp;+ Lát<br/><b>- MyMemory :</b><br />&emsp;+ Lát mỏng<br/></div>
+microchips,<div><b>- Google :</b><br />&emsp;+ Vi mạch<br/><b>- Bing :</b><br />&emsp;+ Vi mạch<br/><b>- MyMemory :</b><br />&emsp;+ Vi chíp<br/></div>
+tuned,<div><b>- Google :</b><br />&emsp;+ Điều chỉnh<br/><b>- Bing :</b><br />&emsp;+ Điều chỉnh<br/><b>- MyMemory :</b><br />&emsp;+ Đươ ̣ c điê ̀ u chi ̉ nh<br/></div>
+granted,<div><b>- Google :</b><br />&emsp;+ Được cấp<br/><b>- Bing :</b><br />&emsp;+ Cấp<br/><b>- MyMemory :</b><br />&emsp;+ Đã đạt<br/></div>
+automotive,<div><b>- Google :</b><br />&emsp;+ Ô tô<br/><b>- Bing :</b><br />&emsp;+ Ô tô<br/><b>- MyMemory :</b><br />&emsp;+ Công nghiệp ô tô<br/></div>
+acquires,<div><b>- Google :</b><br />&emsp;+ Mua lại<br/><b>- MyMemory :</b><br />&emsp;+ Có được<br/></div>
+reliability,<div><b>- Google :</b><br />&emsp;+ Độ tin cậy<br/><b>- Bing :</b><br />&emsp;+ Độ tin cậy<br/><b>- MyMemory :</b><br />&emsp;+ Độ tin cậy<br/></div>
+branched,<div><b>- Google :</b><br />&emsp;+ Phân nhánh<br/><b>- Bing :</b><br />&emsp;+ Cành<br/><b>- MyMemory :</b><br />&emsp;+ Được chia nhánh<br/></div>
+additions,<div><b>- Google :</b><br />&emsp;+ Bổ sung<br/><b>- Bing :</b><br />&emsp;+ Bổ sung<br/><b>- MyMemory :</b><br />&emsp;+ Các tài sản có thêm<br/></div>
+retained,<div><b>- Google :</b><br />&emsp;+ Giữ lại<br/><b>- Bing :</b><br />&emsp;+ Giữ<br/></div>
+shuts,<div><b>- Google :</b><br />&emsp;+ Tắt<br/><b>- Bing :</b><br />&emsp;+ Đóng cửa<br/><b>- MyMemory :</b><br />&emsp;+ Sự đóng cửa<br/></div>
+matrices,<div><b>- Google :</b><br />&emsp;+ Ma trận<br/><b>- Bing :</b><br />&emsp;+ Ma trận<br/><b>- MyMemory :</b><br />&emsp;+ Ma trận<br/></div>
+prioritizes,<div><b>- Google :</b><br />&emsp;+ Ưu tiên<br/><b>- Bing :</b><br />&emsp;+ Ưu tiên<br/><b>- MyMemory :</b><br />&emsp;+ Ưu tiên<br/></div>
+unresolved,<div><b>- Google :</b><br />&emsp;+ Chưa được giải quyết<br/><b>- Bing :</b><br />&emsp;+ Chưa được giải quyết<br/><b>- MyMemory :</b><br />&emsp;+ Chưa giải quyết<br/></div>
+electro,<div><b>- Google :</b><br />&emsp;+ Điện<br/><b>- Bing :</b><br />&emsp;+ Điện<br/><b>- MyMemory :</b><br />&emsp;+ Điện tử<br/></div>
+pulsing,<div><b>- Google :</b><br />&emsp;+ Đập<br/><b>- Bing :</b><br />&emsp;+ Đập<br/><b>- MyMemory :</b><br />&emsp;+ Sự tạo xung<br/></div>
+joint,<div><b>- Google :</b><br />&emsp;+ Chung<br/><b>- Bing :</b><br />&emsp;+ Đốt<br/><b>- MyMemory :</b><br />&emsp;+ Chỗ nối, đầu nối<br/></div>
+trips,<div><b>- Google :</b><br />&emsp;+ Chuyến đi<br/><b>- Bing :</b><br />&emsp;+ Chuyến đi<br/><b>- MyMemory :</b><br />&emsp;+ Chuyến đi<br/></div>
+interfac,<div><b>- Google :</b><br />&emsp;+ Giao diện<br/><b>- Bing :</b><br />&emsp;+ Giao tiếp<br/><b>- MyMemory :</b><br />&emsp;+ Interac<br/></div>
+readability,<div><b>- Google :</b><br />&emsp;+ Khả năng đọc<br/><b>- MyMemory :</b><br />&emsp;+ Độ dễ đọc<br/></div>
+correspondance,<div><b>- Google :</b><br />&emsp;+ Tương tác<br/><b>- Bing :</b><br />&emsp;+ Thư<br/><b>- MyMemory :</b><br />&emsp;+ Sự tương ứng<br/></div>
+mult,<div><b>- Google :</b><br />&emsp;+ Nhiều<br/><b>- Bing :</b><br />&emsp;+ Nhiều<br/><b>- MyMemory :</b><br />&emsp;+ Nhiều<br/></div>
+pulsed,<div><b>- Google :</b><br />&emsp;+ Xung<br/><b>- Bing :</b><br />&emsp;+ Xung<br/><b>- MyMemory :</b><br />&emsp;+ (thuộc) mạch<br/></div>
+idle,<div><b>- Google :</b><br />&emsp;+ Nhàn rỗi<br/><b>- Bing :</b><br />&emsp;+ Dưng<br/><b>- MyMemory :</b><br />&emsp;+ Chế độ rảnh rỗi<br/></div>
+fans,<div><b>- Google :</b><br />&emsp;+ Người hâm mộ<br/><b>- Bing :</b><br />&emsp;+ Người hâm mộ<br/><b>- MyMemory :</b><br />&emsp;+ Người hâm mộ<br/></div>
+conference,<div><b>- Google :</b><br />&emsp;+ Hội nghị<br/><b>- Bing :</b><br />&emsp;+ Hội nghị<br/><b>- MyMemory :</b><br />&emsp;+ Hội nghị<br/></div>
+pot,<div><b>- Google :</b><br />&emsp;+ Nồi<br/><b>- Bing :</b><br />&emsp;+ Lọ<br/><b>- MyMemory :</b><br />&emsp;+ Can, bình, lọ...<br/></div>
+rages,<div><b>- Google :</b><br />&emsp;+ Cơn thịnh nộ<br/><b>- MyMemory :</b><br />&emsp;+ Cơn thịnh nộ<br/></div>
+license,<div><b>- Google :</b><br />&emsp;+ Giấy phép<br/><b>- Bing :</b><br />&emsp;+ Giấy phép<br/><b>- MyMemory :</b><br />&emsp;+ Cấp chứng chỉ, cấp bằng, cho phép<br/></div>
+dissipation,<div><b>- Google :</b><br />&emsp;+ Tiêu tan<br/><b>- Bing :</b><br />&emsp;+ Tiêu tan<br/><b>- MyMemory :</b><br />&emsp;+ Sự phung phí<br/></div>
+concentric,<div><b>- Google :</b><br />&emsp;+ Đồng tâm<br/><b>- Bing :</b><br />&emsp;+ Đồng tâm<br/><b>- MyMemory :</b><br />&emsp;+ Đồng tâm<br/></div>
+initiation,<div><b>- Google :</b><br />&emsp;+ Bắt đầu<br/><b>- Bing :</b><br />&emsp;+ Bắt đầu<br/><b>- MyMemory :</b><br />&emsp;+ Khởi xướng.<br/></div>
+confronted,<div><b>- Google :</b><br />&emsp;+ Đối mặt<br/><b>- Bing :</b><br />&emsp;+ Phải đối mặt<br/><b>- MyMemory :</b><br />&emsp;+ Đối mặt<br/></div>
+delineating,<div><b>- Google :</b><br />&emsp;+ Phân định<br/><b>- Bing :</b><br />&emsp;+ Phân định<br/><b>- MyMemory :</b><br />&emsp;+ Sự phân định ranh giới<br/></div>
+reserves,<div><b>- Google :</b><br />&emsp;+ Dự trữ<br/><b>- Bing :</b><br />&emsp;+ Dự trữ<br/><b>- MyMemory :</b><br />&emsp;+ Trữ lượng<br/></div>
+minologies,<div><b>- Google :</b><br />&emsp;+ Minology<br/><b>- MyMemory :</b><br />&emsp;+ Minologic<br/></div>
+neglected,<div><b>- Google :</b><br />&emsp;+ Bỏ bê<br/><b>- Bing :</b><br />&emsp;+ Bỏ rơi<br/><b>- MyMemory :</b><br />&emsp;+ Xestia castanea<br/></div>
+coupler,<div><b>- Google :</b><br />&emsp;+ Khớp nối<br/><b>- MyMemory :</b><br />&emsp;+ Khớp nối<br/></div>
+confuses,<div><b>- Google :</b><br />&emsp;+ Nhầm lẫn<br/><b>- MyMemory :</b><br />&emsp;+ Làm bối rối, làm rối trí<br/></div>
+tangent,<div><b>- Google :</b><br />&emsp;+ Đường tiếp tuyến<br/><b>- Bing :</b><br />&emsp;+ Tiếp tuyến<br/><b>- MyMemory :</b><br />&emsp;+ Tiếp tuyến<br/></div>
+optical,<div><b>- Google :</b><br />&emsp;+ Quang học<br/><b>- Bing :</b><br />&emsp;+ Quang học<br/><b>- MyMemory :</b><br />&emsp;+ Quang học<br/></div>
+degrees,<div><b>- Google :</b><br />&emsp;+ Độ<br/><b>- Bing :</b><br />&emsp;+ Độ<br/><b>- MyMemory :</b><br />&emsp;+ Bằng cấp<br/></div>
+voltage,<div><b>- Google :</b><br />&emsp;+ Vôn<br/><b>- Bing :</b><br />&emsp;+ Điện áp<br/><b>- MyMemory :</b><br />&emsp;+ Điện áp<br/></div>
+preprogrammed,<div><b>- Google :</b><br />&emsp;+ Được lập trình sẵn<br/><b>- Bing :</b><br />&emsp;+ Được lập trình sẵn<br/><b>- MyMemory :</b><br />&emsp;+ Được lập trình sẵn<br/></div>
+volt,<div><b>- Google :</b><br />&emsp;+ Vôn<br/><b>- Bing :</b><br />&emsp;+ Vôn<br/><b>- MyMemory :</b><br />&emsp;+ Vôn<br/></div>
+licensees,<div><b>- Google :</b><br />&emsp;+ Người được cấp phép<br/><b>- Bing :</b><br />&emsp;+ Người được cấp phép<br/><b>- MyMemory :</b><br />&emsp;+ Người được cấp phép<br/></div>
+claimed,<div><b>- Google :</b><br />&emsp;+ Tuyên bố<br/><b>- Bing :</b><br />&emsp;+ Tuyên bố<br/><b>- MyMemory :</b><br />&emsp;+ Xác nhận<br/></div>
+united,<div><b>- Google :</b><br />&emsp;+ Thống nhất<br/><b>- Bing :</b><br />&emsp;+ Thống nhất<br/><b>- MyMemory :</b><br />&emsp;+ Liên minh, đoàn kết<br/></div>
+currents,<div><b>- Google :</b><br />&emsp;+ Dòng điện<br/><b>- Bing :</b><br />&emsp;+ Dòng<br/><b>- MyMemory :</b><br />&emsp;+ Dòng điện<br/></div>
+partitioning,<div><b>- Google :</b><br />&emsp;+ Phân vùng<br/><b>- Bing :</b><br />&emsp;+ Phân vùng<br/><b>- MyMemory :</b><br />&emsp;+ Phân vùng<br/></div>
+quantify,<div><b>- Google :</b><br />&emsp;+ Định lượng<br/><b>- Bing :</b><br />&emsp;+ Định lượng<br/><b>- MyMemory :</b><br />&emsp;+ Xác định số lượng<br/></div>
+phrase,<div><b>- Google :</b><br />&emsp;+ Cụm từ<br/><b>- Bing :</b><br />&emsp;+ Cụm từ<br/><b>- MyMemory :</b><br />&emsp;+ Câu; thành ngữ, cụm từ<br/></div>
+transactions,<div><b>- Google :</b><br />&emsp;+ Giao dịch<br/><b>- Bing :</b><br />&emsp;+ Giao dịch<br/><b>- MyMemory :</b><br />&emsp;+ Doanh thu<br/></div>
+bibliography,<div><b>- Google :</b><br />&emsp;+ Thư mục<br/><b>- Bing :</b><br />&emsp;+ Thư mục<br/><b>- MyMemory :</b><br />&emsp;+ Tài liệu tham khảo<br/></div>
+diagrams,<div><b>- Google :</b><br />&emsp;+ Sơ đồ<br/><b>- Bing :</b><br />&emsp;+ Sơ đồ<br/><b>- MyMemory :</b><br />&emsp;+ Sơ đồ<br/></div>
+axially,<div><b>- Google :</b><br />&emsp;+ Theo tỷ lệ<br/><b>- MyMemory :</b><br />&emsp;+ Theo trục<br/></div>
+hierarchies,<div><b>- Google :</b><br />&emsp;+ Phân cấp<br/><b>- Bing :</b><br />&emsp;+ Hệ thống phân cấp<br/><b>- MyMemory :</b><br />&emsp;+ Phân cấp<br/></div>
+unconditionally,<div><b>- Google :</b><br />&emsp;+ Vô điều kiện<br/><b>- Bing :</b><br />&emsp;+ Vô điều kiện<br/></div>
+propagating,<div><b>- Google :</b><br />&emsp;+ Lan truyền<br/><b>- Bing :</b><br />&emsp;+ Tuyên truyền<br/><b>- MyMemory :</b><br />&emsp;+ Lan truyền<br/></div>
+lucidity,<div><b>- Google :</b><br />&emsp;+ Sáng suốt<br/><b>- Bing :</b><br />&emsp;+ Sáng suốt<br/><b>- MyMemory :</b><br />&emsp;+ Độ sáng<br/></div>
+appreciate,<div><b>- Google :</b><br />&emsp;+ Đánh giá cao<br/><b>- Bing :</b><br />&emsp;+ Cảm kích<br/><b>- MyMemory :</b><br />&emsp;+ Thấy rõ; nhận thức<br/></div>
+equivalents,<div><b>- Google :</b><br />&emsp;+ Tương đương<br/><b>- Bing :</b><br />&emsp;+ Tương đương<br/><b>- MyMemory :</b><br />&emsp;+ Các phương án tương đương<br/></div>
+osophy,<div><b>- Google :</b><br />&emsp;+ Thẩm thấu<br/><b>- MyMemory :</b><br />&emsp;+ Thực vật phù du<br/></div>
+hyphen,<div><b>- Google :</b><br />&emsp;+ Bắt gạch<br/><b>- Bing :</b><br />&emsp;+ Dấu gạch nối<br/><b>- MyMemory :</b><br />&emsp;+ Dấu nối<br/></div>
+female,<div><b>- Google :</b><br />&emsp;+ Giống cái<br/><b>- Bing :</b><br />&emsp;+ Cái<br/><b>- MyMemory :</b><br />&emsp;+ Nữ<br/></div>
+equitable,<div><b>- Google :</b><br />&emsp;+ Công bằng<br/><b>- Bing :</b><br />&emsp;+ Công bằng<br/><b>- MyMemory :</b><br />&emsp;+ Công bằng.<br/></div>
+wastes,<div><b>- Google :</b><br />&emsp;+ Chất thải<br/><b>- Bing :</b><br />&emsp;+ Chất thải<br/><b>- MyMemory :</b><br />&emsp;+ Chất thải<br/></div>
+dividend,<div><b>- Google :</b><br />&emsp;+ Cổ tức<br/><b>- Bing :</b><br />&emsp;+ Số bị chia<br/><b>- MyMemory :</b><br />&emsp;+ Tiền lãi cổ phần<br/></div>
+attains,<div><b>- Google :</b><br />&emsp;+ Đạt được<br/><b>- Bing :</b><br />&emsp;+ Đạt được<br/><b>- MyMemory :</b><br />&emsp;+ Đạt được<br/></div>
+releas,<div><b>- Google :</b><br />&emsp;+ Phát hành<br/><b>- Bing :</b><br />&emsp;+ Phát hành<br/><b>- MyMemory :</b><br />&emsp;+ Sự xuống hạng<br/></div>
+decrementing,<div><b>- Google :</b><br />&emsp;+ Giảm dần<br/><b>- MyMemory :</b><br />&emsp;+ Sự giảm dần<br/></div>
+grants,<div><b>- Google :</b><br />&emsp;+ Tài trợ<br/><b>- Bing :</b><br />&emsp;+ Cấp<br/><b>- MyMemory :</b><br />&emsp;+ Tài trợ<br/></div>
+addressability,<div><b>- Google :</b><br />&emsp;+ Địa chỉ<br/><b>- Bing :</b><br />&emsp;+ Tính địa chỉ<br/><b>- MyMemory :</b><br />&emsp;+ Khả năng định địa chỉ<br/></div>
+discerning,<div><b>- Google :</b><br />&emsp;+ Sành điệu<br/><b>- Bing :</b><br />&emsp;+ Sáng suốt<br/><b>- MyMemory :</b><br />&emsp;+ Sự phân biệt<br/></div>
+prom,<div><b>- Google :</b><br />&emsp;+ Dạ hội<br/><b>- MyMemory :</b><br />&emsp;+ -ồ! tớ...<br/></div>
+philosophies,<div><b>- Google :</b><br />&emsp;+ Triết lý<br/><b>- Bing :</b><br />&emsp;+ Triết lý<br/><b>- MyMemory :</b><br />&emsp;+ Các triết lý<br/></div>
+scarce,<div><b>- Google :</b><br />&emsp;+ Khan hiếm<br/><b>- Bing :</b><br />&emsp;+ Khan hiếm<br/><b>- MyMemory :</b><br />&emsp;+ Sự khan hiếm<br/></div>
+datasheet,<div><b>- Google :</b><br />&emsp;+ Bảng dữliệu<br/><b>- Bing :</b><br />&emsp;+ Biểu dữ liệu<br/><b>- MyMemory :</b><br />&emsp;+ Bảng dữ liệu<br/></div>
+layman,<div><b>- Google :</b><br />&emsp;+ Giáo dân<br/><b>- MyMemory :</b><br />&emsp;+ Tay ngang<br/></div>
+latched,<div><b>- Google :</b><br />&emsp;+ Bám lấy<br/><b>- MyMemory :</b><br />&emsp;+ Đã chốt<br/></div>
+enthusiasm,<div><b>- Google :</b><br />&emsp;+ Hăng hái<br/><b>- Bing :</b><br />&emsp;+ Sự nhiệt tình<br/><b>- MyMemory :</b><br />&emsp;+ Sự hăng hái, sự nhiệt tình<br/></div>
+thereafter,<div><b>- Google :</b><br />&emsp;+ Sau đó<br/><b>- Bing :</b><br />&emsp;+ Sau đó<br/><b>- MyMemory :</b><br />&emsp;+ Sau đó<br/></div>
+aimed,<div><b>- Google :</b><br />&emsp;+ Nhằm vào<br/><b>- Bing :</b><br />&emsp;+ Nhằm<br/><b>- MyMemory :</b><br />&emsp;+ Nhằm vào<br/></div>
+emphasized,<div><b>- Google :</b><br />&emsp;+ Nhấn mạnh<br/><b>- Bing :</b><br />&emsp;+ Nhấn mạnh<br/><b>- MyMemory :</b><br />&emsp;+ Nhấn mạnh<br/></div>
+conductors,<div><b>- Google :</b><br />&emsp;+ Nhạc trưởng<br/><b>- Bing :</b><br />&emsp;+ Dây dẫn<br/><b>- MyMemory :</b><br />&emsp;+ Dây dẫn<br/></div>
+srams,<div><b>- Google :</b><br />&emsp;+ Sram<br/><b>- MyMemory :</b><br />&emsp;+ Bánh srams<br/></div>
+anticlockwise,<div><b>- Google :</b><br />&emsp;+ Ngược chiều kim đồng hồ<br/><b>- Bing :</b><br />&emsp;+ Ngược chiều kim đồng hồ<br/><b>- MyMemory :</b><br />&emsp;+ Ngược chiều kim đồng hồ<br/></div>
+india,<div><b>- Google :</b><br />&emsp;+ Ấn độ<br/><b>- Bing :</b><br />&emsp;+ Ấn độ<br/><b>- MyMemory :</b><br />&emsp;+ Ấn độ<br/></div>
+schedule,<div><b>- Google :</b><br />&emsp;+ Lịch trình<br/><b>- Bing :</b><br />&emsp;+ Lịch<br/><b>- MyMemory :</b><br />&emsp;+ Lịch<br/></div>
+motherboard,<div><b>- Google :</b><br />&emsp;+ Bo mạch chủ<br/><b>- Bing :</b><br />&emsp;+ Bo mạch chủ<br/><b>- MyMemory :</b><br />&emsp;+ Bo mạch chủ<br/></div>
+volatile,<div><b>- Google :</b><br />&emsp;+ Bay hơi<br/><b>- Bing :</b><br />&emsp;+ Dễ bay hơi<br/><b>- MyMemory :</b><br />&emsp;+ Bay hơi<br/></div>
+cooperation,<div><b>- Google :</b><br />&emsp;+ Sự hợp tác<br/><b>- Bing :</b><br />&emsp;+ Sự hợp tác<br/><b>- MyMemory :</b><br />&emsp;+ Sự hợp tác<br/></div>
+eld,<div><b>- Google :</b><br />&emsp;+ Lớn tuổi<br/><b>- Bing :</b><br />&emsp;+ Lửa<br/><b>- MyMemory :</b><br />&emsp;+ Con trưởng thành<br/></div>
+represen,<div><b>- Google :</b><br />&emsp;+ Phản hồi<br/><b>- Bing :</b><br />&emsp;+ Đại diện<br/><b>- MyMemory :</b><br />&emsp;+ Bồi thường thiệt hại<br/></div>
+catering,<div><b>- Google :</b><br />&emsp;+ Phục vụ<br/><b>- Bing :</b><br />&emsp;+ Phục vụ<br/><b>- MyMemory :</b><br />&emsp;+ Sự phục vụ ăn<br/></div>
+cooling,<div><b>- Google :</b><br />&emsp;+ Làm mát<br/><b>- Bing :</b><br />&emsp;+ Làm mát<br/><b>- MyMemory :</b><br />&emsp;+ Thống<br/></div>
+motherboards,<div><b>- Google :</b><br />&emsp;+ Bo mạch chủ<br/><b>- Bing :</b><br />&emsp;+ Bo mạch chủ<br/><b>- MyMemory :</b><br />&emsp;+ Bo mạch chủ<br/></div>
+maintenance,<div><b>- Google :</b><br />&emsp;+ Sự bảo trì<br/><b>- Bing :</b><br />&emsp;+ Bảo trì<br/><b>- MyMemory :</b><br />&emsp;+ Bảo trì<br/></div>
+discretion,<div><b>- Google :</b><br />&emsp;+ Ý định<br/><b>- Bing :</b><br />&emsp;+ Thận trọng<br/><b>- MyMemory :</b><br />&emsp;+ Sự thận trọng<br/></div>
+photo,<div><b>- Google :</b><br />&emsp;+ Tấm ảnh<br/><b>- Bing :</b><br />&emsp;+ Ảnh<br/><b>- MyMemory :</b><br />&emsp;+ Ảnh chụp<br/></div>
+crossing,<div><b>- Google :</b><br />&emsp;+ Băng qua<br/><b>- Bing :</b><br />&emsp;+ Qua<br/><b>- MyMemory :</b><br />&emsp;+ Mua ngang bán tắt<br/></div>
+popularized,<div><b>- Google :</b><br />&emsp;+ Phổ biến<br/><b>- Bing :</b><br />&emsp;+ Phổ biến<br/><b>- MyMemory :</b><br />&emsp;+ Được phổ biến<br/></div>
+iteratively,<div><b>- Google :</b><br />&emsp;+ Lặp đi lặp lại<br/><b>- Bing :</b><br />&emsp;+ Lặp đi lặp lại<br/><b>- MyMemory :</b><br />&emsp;+ Lặp đi lặp lại<br/></div>
+necessity,<div><b>- Google :</b><br />&emsp;+ Sự cần thiết<br/><b>- Bing :</b><br />&emsp;+ Sự cần thiết<br/><b>- MyMemory :</b><br />&emsp;+ Hàng thiết yếu<br/></div>
+stationary,<div><b>- Google :</b><br />&emsp;+ Đứng im<br/><b>- Bing :</b><br />&emsp;+ Văn phòng phẩm<br/><b>- MyMemory :</b><br />&emsp;+ "dừng"<br/></div>
+sellers,<div><b>- Google :</b><br />&emsp;+ Người bán<br/><b>- Bing :</b><br />&emsp;+ Bán<br/><b>- MyMemory :</b><br />&emsp;+ Bên bán<br/></div>
+deposit,<div><b>- Google :</b><br />&emsp;+ Đặt cọc<br/><b>- Bing :</b><br />&emsp;+ Lắng<br/><b>- MyMemory :</b><br />&emsp;+ Tiền gửi, tiền đặt cọc<br/></div>
+freedom,<div><b>- Google :</b><br />&emsp;+ Sự tự do<br/><b>- Bing :</b><br />&emsp;+ Tự do<br/><b>- MyMemory :</b><br />&emsp;+ Nền tự do<br/></div>
+entrancy,<div><b>- Google :</b><br />&emsp;+ Vào<br/><b>- Bing :</b><br />&emsp;+ Nhập cảnh<br/><b>- MyMemory :</b><br />&emsp;+ Sự hấp dẫn<br/></div>
+conversions,<div><b>- Google :</b><br />&emsp;+ Chuyển đổi<br/><b>- Bing :</b><br />&emsp;+ Chuyển đổi<br/><b>- MyMemory :</b><br />&emsp;+ Chuyển đổi<br/></div>
+analogue,<div><b>- Google :</b><br />&emsp;+ Tương tự<br/><b>- Bing :</b><br />&emsp;+ Tương tự<br/><b>- MyMemory :</b><br />&emsp;+ Tương tự<br/></div>
+vated,<div><b>- Google :</b><br />&emsp;+ Vat<br/><b>- Bing :</b><br />&emsp;+ Đã đóng thùng<br/><b>- MyMemory :</b><br />&emsp;+ .<br/></div>
+horizontally,<div><b>- Google :</b><br />&emsp;+ Theo chiều ngang<br/><b>- Bing :</b><br />&emsp;+ Theo chiều ngang<br/><b>- MyMemory :</b><br />&emsp;+ Theo chiều ngang<br/></div>
+usa,<div><b>- Google :</b><br />&emsp;+ Hoa kỳ<br/><b>- Bing :</b><br />&emsp;+ Mỹ<br/><b>- MyMemory :</b><br />&emsp;+ Hoa kỳ<br/></div>
+multiprocess,<div><b>- Google :</b><br />&emsp;+ Đa xử lý<br/><b>- Bing :</b><br />&emsp;+ Đa bộ xử lý<br/><b>- MyMemory :</b><br />&emsp;+ Đa xử lý<br/></div>
+multiprocessors,<div><b>- Google :</b><br />&emsp;+ Bộ đa xử lý<br/><b>- Bing :</b><br />&emsp;+ Bộ đa bộ xử lý<br/><b>- MyMemory :</b><br />&emsp;+ Bộ đa xử lý<br/></div>
+prediction,<div><b>- Google :</b><br />&emsp;+ Sự dự đoán<br/><b>- Bing :</b><br />&emsp;+ Dự đoán<br/><b>- MyMemory :</b><br />&emsp;+ Dự báo<br/></div>
+illustrating,<div><b>- Google :</b><br />&emsp;+ Minh họa<br/><b>- Bing :</b><br />&emsp;+ Minh họa<br/><b>- MyMemory :</b><br />&emsp;+ Minh họa<br/></div>
+participated,<div><b>- Google :</b><br />&emsp;+ Tham gia<br/><b>- Bing :</b><br />&emsp;+ Tham gia<br/><b>- MyMemory :</b><br />&emsp;+ Đã tham gia<br/></div>
+inadequacy,<div><b>- Google :</b><br />&emsp;+ Không thỏa đáng<br/><b>- Bing :</b><br />&emsp;+ Thiếu<br/><b>- MyMemory :</b><br />&emsp;+ Sự thiếu<br/></div>
+contribution,<div><b>- Google :</b><br />&emsp;+ Sự đóng góp<br/><b>- Bing :</b><br />&emsp;+ Đóng góp<br/><b>- MyMemory :</b><br />&emsp;+ Sự đóng góp, sự góp phần<br/></div>
+transition,<div><b>- Google :</b><br />&emsp;+ Chuyển đổi<br/><b>- Bing :</b><br />&emsp;+ Chuyển<br/><b>- MyMemory :</b><br />&emsp;+ Chuyển tiếp<br/></div>
+sentence,<div><b>- Google :</b><br />&emsp;+ Kết án<br/><b>- Bing :</b><br />&emsp;+ Câu<br/><b>- MyMemory :</b><br />&emsp;+ Câu<br/></div>
+transmitter,<div><b>- Google :</b><br />&emsp;+ Hệ thống điều khiển<br/><b>- Bing :</b><br />&emsp;+ Máy phát<br/><b>- MyMemory :</b><br />&emsp;+ Máy truyền hiệu<br/></div>
+medium,<div><b>- Google :</b><br />&emsp;+ Trung bình<br/><b>- Bing :</b><br />&emsp;+ Đau vừa<br/><b>- MyMemory :</b><br />&emsp;+ Trung bình<br/></div>
+newline,<div><b>- Google :</b><br />&emsp;+ Dòng mới<br/><b>- MyMemory :</b><br />&emsp;+ Dã²ng má»i<br/></div>
+behalf,<div><b>- Google :</b><br />&emsp;+ Thay mặt<br/><b>- Bing :</b><br />&emsp;+ Thay mặt<br/><b>- MyMemory :</b><br />&emsp;+ Sự thay mặt<br/></div>
+logarithm,<div><b>- Google :</b><br />&emsp;+ Logarit<br/><b>- Bing :</b><br />&emsp;+ Đối số<br/><b>- MyMemory :</b><br />&emsp;+ Logarit<br/></div>
+interruption,<div><b>- Google :</b><br />&emsp;+ Gián đoạn<br/><b>- Bing :</b><br />&emsp;+ Bị gián đoạn<br/><b>- MyMemory :</b><br />&emsp;+ Gián đoạn, ngắt lời<br/></div>
+mediate,<div><b>- Google :</b><br />&emsp;+ Trung gian<br/><b>- Bing :</b><br />&emsp;+ Hoà giải<br/><b>- MyMemory :</b><br />&emsp;+ Hòa giải<br/></div>
+runner,<div><b>- Google :</b><br />&emsp;+ Á hậu<br/><b>- MyMemory :</b><br />&emsp;+ Người chạy<br/></div>
+generality,<div><b>- Google :</b><br />&emsp;+ Tính tổng quát<br/><b>- Bing :</b><br />&emsp;+ Tính tổng quát<br/><b>- MyMemory :</b><br />&emsp;+ Tính tổng quát<br/></div>
+literary,<div><b>- Google :</b><br />&emsp;+ Văn học<br/><b>- Bing :</b><br />&emsp;+ Văn học<br/><b>- MyMemory :</b><br />&emsp;+ Văn chương<br/></div>
+replenished,<div><b>- Google :</b><br />&emsp;+ Bổ sung<br/><b>- Bing :</b><br />&emsp;+ Bổ sung<br/><b>- MyMemory :</b><br />&emsp;+ Được bổ sung<br/></div>
+selectively,<div><b>- Google :</b><br />&emsp;+ Có chọn lọc<br/><b>- Bing :</b><br />&emsp;+ Chọn lọc<br/><b>- MyMemory :</b><br />&emsp;+ Chọn lọc<br/></div>
+speculative,<div><b>- Google :</b><br />&emsp;+ Đầu cơ<br/><b>- Bing :</b><br />&emsp;+ Suy đoán<br/><b>- MyMemory :</b><br />&emsp;+ Đầu cơ<br/></div>
+dealt,<div><b>- Google :</b><br />&emsp;+ Xử lý<br/><b>- Bing :</b><br />&emsp;+ Xử lý<br/><b>- MyMemory :</b><br />&emsp;+ Giao dịch<br/></div>
+distinguishes,<div><b>- Google :</b><br />&emsp;+ Phân biệt<br/><b>- Bing :</b><br />&emsp;+ Phân biệt<br/><b>- MyMemory :</b><br />&emsp;+ Phân biệt<br/></div>
+professionalism,<div><b>- Google :</b><br />&emsp;+ Chuyên nghiệp<br/><b>- Bing :</b><br />&emsp;+ Chuyên nghiệp<br/><b>- MyMemory :</b><br />&emsp;+ Đặc tính, tác phong, tinh thần nghề nghiệp<br/></div>
+translator,<div><b>- Google :</b><br />&emsp;+ Dịch<br/><b>- Bing :</b><br />&emsp;+ Thông dịch viên<br/><b>- MyMemory :</b><br />&emsp;+ Phiên dịch viên<br/></div>
+ampli,<div><b>- Google :</b><br />&emsp;+ Khuếch đại<br/><b>- Bing :</b><br />&emsp;+ Rộng<br/></div>
+associative,<div><b>- Google :</b><br />&emsp;+ Kết hợp<br/><b>- Bing :</b><br />&emsp;+ Liên kết<br/><b>- MyMemory :</b><br />&emsp;+ Kết hợp<br/></div>
+untested,<div><b>- Google :</b><br />&emsp;+ Chưa được kiểm tra<br/><b>- Bing :</b><br />&emsp;+ Chưa được kiểm tra<br/><b>- MyMemory :</b><br />&emsp;+ Chưa được kiểm nghiệm<br/></div>
+priorities,<div><b>- Google :</b><br />&emsp;+ Ưu tiên<br/><b>- Bing :</b><br />&emsp;+ Ưu tiên<br/><b>- MyMemory :</b><br />&emsp;+ Những vấn đề ưu tiên<br/></div>
+impedance,<div><b>- Google :</b><br />&emsp;+ Trở kháng<br/><b>- Bing :</b><br />&emsp;+ Trở kháng<br/><b>- MyMemory :</b><br />&emsp;+ Trở kháng<br/></div>
+caches,<div><b>- Google :</b><br />&emsp;+ Bộ nhớ cache<br/><b>- Bing :</b><br />&emsp;+ Cache<br/><b>- MyMemory :</b><br />&emsp;+ Bộ nhớ cache<br/></div>
+guides,<div><b>- Google :</b><br />&emsp;+ Hướng dẫn<br/><b>- Bing :</b><br />&emsp;+ Hướng dẫn<br/><b>- MyMemory :</b><br />&emsp;+ Đường căn<br/></div>
+workshops,<div><b>- Google :</b><br />&emsp;+ Hội thảo<br/><b>- Bing :</b><br />&emsp;+ Hội thảo<br/><b>- MyMemory :</b><br />&emsp;+ Hội thảo<br/></div>
+resembled,<div><b>- Google :</b><br />&emsp;+ Giống như<br/><b>- Bing :</b><br />&emsp;+ Giống như<br/><b>- MyMemory :</b><br />&emsp;+ Giống nhau<br/></div>
+social,<div><b>- Google :</b><br />&emsp;+ Xã hội<br/><b>- Bing :</b><br />&emsp;+ Xã hội<br/><b>- MyMemory :</b><br />&emsp;+ Có tính xã hội<br/></div>
+subprograms,<div><b>- Google :</b><br />&emsp;+ Chương trình con<br/><b>- Bing :</b><br />&emsp;+ Lập trình con<br/><b>- MyMemory :</b><br />&emsp;+ Chương trình con<br/></div>
+merit,<div><b>- Google :</b><br />&emsp;+ N: xứng đáng<br/><b>- Bing :</b><br />&emsp;+ Công<br/><b>- MyMemory :</b><br />&emsp;+ Giá trị<br/></div>
+pentiums,<div><b>- Google :</b><br />&emsp;+ Pentium<br/><b>- MyMemory :</b><br />&emsp;+ Pentium<br/></div>
+presentation,<div><b>- Google :</b><br />&emsp;+ Bài thuyết trình<br/><b>- Bing :</b><br />&emsp;+ Trình bày<br/><b>- MyMemory :</b><br />&emsp;+ Bài thuyết trình, trình diện, giới thiệu<br/></div>
+expands,<div><b>- Google :</b><br />&emsp;+ Mở rộng<br/><b>- Bing :</b><br />&emsp;+ Mở rộng<br/><b>- MyMemory :</b><br />&emsp;+ Mở rộng<br/></div>
+attends,<div><b>- Google :</b><br />&emsp;+ Tham dự<br/><b>- Bing :</b><br />&emsp;+ Tham dự<br/><b>- MyMemory :</b><br />&emsp;+ Tham dự<br/></div>
+hub,<div><b>- Google :</b><br />&emsp;+ Trung tâm<br/><b>- Bing :</b><br />&emsp;+ Trung tâm<br/><b>- MyMemory :</b><br />&emsp;+ Trung tâm (hoạt động)<br/></div>
+downstream,<div><b>- Google :</b><br />&emsp;+ Hạ lưu<br/><b>- Bing :</b><br />&emsp;+ Hạ lưu<br/><b>- MyMemory :</b><br />&emsp;+ Xuôi dòng<br/></div>
+designations,<div><b>- Google :</b><br />&emsp;+ Chỉ định<br/><b>- Bing :</b><br />&emsp;+ Chỉ định<br/><b>- MyMemory :</b><br />&emsp;+ Chức danh<br/></div>
+roles,<div><b>- Google :</b><br />&emsp;+ Vai trò<br/><b>- Bing :</b><br />&emsp;+ Vai trò<br/><b>- MyMemory :</b><br />&emsp;+ &#10;<br/></div>
+compensation,<div><b>- Google :</b><br />&emsp;+ Đền bù<br/><b>- Bing :</b><br />&emsp;+ Bồi thường<br/><b>- MyMemory :</b><br />&emsp;+ Bù trừ<br/></div>
+slowest,<div><b>- Google :</b><br />&emsp;+ Chậm nhất<br/><b>- Bing :</b><br />&emsp;+ Chậm nhất<br/><b>- MyMemory :</b><br />&emsp;+ Chậm nhất<br/></div>
+uparrow,<div><b>- Google :</b><br />&emsp;+ Mũi tên lên<br/><b>- MyMemory :</b><br />&emsp;+ Thu hẹp<br/></div>
+revolution,<div><b>- Google :</b><br />&emsp;+ Cuộc cách mạng<br/><b>- Bing :</b><br />&emsp;+ Cuộc cách mạng<br/><b>- MyMemory :</b><br />&emsp;+ Vòng quay<br/></div>
+universal,<div><b>- Google :</b><br />&emsp;+ Phổ cập<br/><b>- Bing :</b><br />&emsp;+ Phổ<br/><b>- MyMemory :</b><br />&emsp;+ Phổ dụng<br/></div>
+denominator,<div><b>- Google :</b><br />&emsp;+ Mẫu số<br/><b>- Bing :</b><br />&emsp;+ Mẫu số<br/><b>- MyMemory :</b><br />&emsp;+ Mẫu số<br/></div>
+crunch,<div><b>- Google :</b><br />&emsp;+ Giòn giã<br/><b>- Bing :</b><br />&emsp;+ Khủng hoảng<br/><b>- MyMemory :</b><br />&emsp;+ - rắc!<br/></div>
+incurs,<div><b>- Google :</b><br />&emsp;+ Xuất phát<br/><b>- Bing :</b><br />&emsp;+ Xâm nhập<br/><b>- MyMemory :</b><br />&emsp;+ Phát sinh<br/></div>
+frequent,<div><b>- Google :</b><br />&emsp;+ Thường xuyên<br/><b>- Bing :</b><br />&emsp;+ Thường<br/><b>- MyMemory :</b><br />&emsp;+ Thường xuyên<br/></div>
+experiments,<div><b>- Google :</b><br />&emsp;+ Thí nghiệm<br/><b>- Bing :</b><br />&emsp;+ Thử nghiệm<br/><b>- MyMemory :</b><br />&emsp;+ Thí nghiệm<br/></div>
+disturbed,<div><b>- Google :</b><br />&emsp;+ Bị làm phiền<br/><b>- Bing :</b><br />&emsp;+ Băn khoăn<br/><b>- MyMemory :</b><br />&emsp;+ Bồn chồn<br/></div>
+thereto,<div><b>- Google :</b><br />&emsp;+ Có<br/><b>- MyMemory :</b><br />&emsp;+ Đến đó.<br/></div>
+defi,<div><b>- Google :</b><br />&emsp;+ Xác định<br/><b>- Bing :</b><br />&emsp;+ Thách thức<br/></div>
+phys,<div><b>- Google :</b><br />&emsp;+ Vật lý<br/><b>- Bing :</b><br />&emsp;+ Vật lý trị liệu<br/><b>- MyMemory :</b><br />&emsp;+ Vật lý học<br/></div>
+borrowing,<div><b>- Google :</b><br />&emsp;+ Vay<br/><b>- Bing :</b><br />&emsp;+ Vay<br/><b>- MyMemory :</b><br />&emsp;+ Vay tiền<br/></div>
+scaled,<div><b>- Google :</b><br />&emsp;+ Vảy<br/><b>- Bing :</b><br />&emsp;+ Thu nhỏ<br/><b>- MyMemory :</b><br />&emsp;+ Co dãn<br/></div>
+leftarrow,<div><b>- Google :</b><br />&emsp;+ Trái<br/><b>- MyMemory :</b><br />&emsp;+ Mũi tên trái<br/></div>
+scrolls,<div><b>- Google :</b><br />&emsp;+ Cuộn<br/><b>- MyMemory :</b><br />&emsp;+ Cuộn<br/></div>
+bases,<div><b>- Google :</b><br />&emsp;+ Cơ sở<br/><b>- Bing :</b><br />&emsp;+ Căn cứ<br/><b>- MyMemory :</b><br />&emsp;+ Căn cử:<br/></div>
+multiplexed,<div><b>- Google :</b><br />&emsp;+ Đa kênh<br/><b>- MyMemory :</b><br />&emsp;+ Đa tạp<br/></div>
+simplex,<div><b>- Google :</b><br />&emsp;+ Đơn giản<br/><b>- MyMemory :</b><br />&emsp;+ Chiều đơn<br/></div>
+asynchronously,<div><b>- Google :</b><br />&emsp;+ Không đồng bộ<br/><b>- Bing :</b><br />&emsp;+ Không đồng bộ<br/><b>- MyMemory :</b><br />&emsp;+ Không đồng bộ<br/></div>
+centered,<div><b>- Google :</b><br />&emsp;+ Tập trung<br/><b>- Bing :</b><br />&emsp;+ Trung tâm<br/><b>- MyMemory :</b><br />&emsp;+ Giữa<br/></div>
+approximately,<div><b>- Google :</b><br />&emsp;+ Xấp xỉ<br/><b>- Bing :</b><br />&emsp;+ Khoảng<br/><b>- MyMemory :</b><br />&emsp;+ Khoảng chừng<br/></div>
+mainline,<div><b>- Google :</b><br />&emsp;+ Đường chính<br/><b>- Bing :</b><br />&emsp;+ Đường trục chính<br/><b>- MyMemory :</b><br />&emsp;+ Dòng chính.<br/></div>
+boards,<div><b>- Google :</b><br />&emsp;+ Bảng<br/><b>- Bing :</b><br />&emsp;+ Ban<br/><b>- MyMemory :</b><br />&emsp;+ Bảng<br/></div>
+equ,<div><b>- Google :</b><br />&emsp;+ Em<br/><b>- MyMemory :</b><br />&emsp;+ (equ)<br/></div>
+curriculum,<div><b>- Google :</b><br />&emsp;+ Chương trình giáo dục<br/><b>- Bing :</b><br />&emsp;+ Chương trình giảng dạy<br/><b>- MyMemory :</b><br />&emsp;+ Chương trình học<br/></div>
+caters,<div><b>- Google :</b><br />&emsp;+ Phục vụ<br/><b>- Bing :</b><br />&emsp;+ Phục vụ<br/><b>- MyMemory :</b><br />&emsp;+ Phục vụ<br/></div>
+acquainted,<div><b>- Google :</b><br />&emsp;+ Hiểu biết<br/><b>- Bing :</b><br />&emsp;+ Quen<br/><b>- MyMemory :</b><br />&emsp;+ Làm quen?<br/></div>
+vertically,<div><b>- Google :</b><br />&emsp;+ Theo chiều dọc<br/><b>- Bing :</b><br />&emsp;+ Theo chiều dọc<br/><b>- MyMemory :</b><br />&emsp;+ Theo chiều dọc<br/></div>
+survival,<div><b>- Google :</b><br />&emsp;+ Sự sống còn<br/><b>- Bing :</b><br />&emsp;+ Sống<br/><b>- MyMemory :</b><br />&emsp;+ Sự sống còn<br/></div>
+upgraded,<div><b>- Google :</b><br />&emsp;+ Nâng cấp<br/><b>- Bing :</b><br />&emsp;+ Nâng cấp<br/><b>- MyMemory :</b><br />&emsp;+ Đã nâng cấp<br/></div>
+electromagnetic,<div><b>- Google :</b><br />&emsp;+ Điện từ<br/><b>- Bing :</b><br />&emsp;+ Điện từ<br/><b>- MyMemory :</b><br />&emsp;+ Điện từ<br/></div>
+acronym,<div><b>- Google :</b><br />&emsp;+ Từ viết tắt<br/><b>- Bing :</b><br />&emsp;+ Viết tắt<br/><b>- MyMemory :</b><br />&emsp;+ Từ viết tắt từ chữ đầu<br/></div>
+keyp,<div><b>- Google :</b><br />&emsp;+ Bàn phím<br/><b>- MyMemory :</b><br />&emsp;+ Phím bấm<br/></div>
+tenth,<div><b>- Google :</b><br />&emsp;+ Thứ mười<br/><b>- Bing :</b><br />&emsp;+ Thứ mười<br/><b>- MyMemory :</b><br />&emsp;+ 10番目<br/></div>
+equipments,<div><b>- Google :</b><br />&emsp;+ Thiết bị<br/><b>- Bing :</b><br />&emsp;+ Thiết bị<br/><b>- MyMemory :</b><br />&emsp;+ Thiết bị<br/></div>
+benefi,<div><b>- Google :</b><br />&emsp;+ Lợi ích<br/><b>- MyMemory :</b><br />&emsp;+ Benefiti<br/></div>
+facili,<div><b>- Google :</b><br />&emsp;+ Tạo điều kiện<br/><b>- Bing :</b><br />&emsp;+ Dễ<br/></div>
+externally,<div><b>- Google :</b><br />&emsp;+ Bên ngoài<br/><b>- Bing :</b><br />&emsp;+ Bên ngoài<br/><b>- MyMemory :</b><br />&emsp;+ Ảnh hưởng ngoại lai<br/></div>
+culties,<div><b>- Google :</b><br />&emsp;+ Văn hóa<br/><b>- Bing :</b><br />&emsp;+ Giáo phái<br/><b>- MyMemory :</b><br />&emsp;+ Các giáo phái<br/></div>
+duty,<div><b>- Google :</b><br />&emsp;+ Nghĩa vụ<br/><b>- Bing :</b><br />&emsp;+ Nhiệm vụ<br/><b>- MyMemory :</b><br />&emsp;+ Sự tôn kính, bổn phận, trách nhiệm<br/></div>
+blanking,<div><b>- Google :</b><br />&emsp;+ Trống rỗng<br/><b>- Bing :</b><br />&emsp;+ Trống<br/><b>- MyMemory :</b><br />&emsp;+ Tẩy trắng<br/></div>
+observable,<div><b>- Google :</b><br />&emsp;+ Có thể quan sát được<br/><b>- Bing :</b><br />&emsp;+ Quan sát<br/><b>- MyMemory :</b><br />&emsp;+ Có thể quan sát được<br/></div>
+inadequacies,<div><b>- Google :</b><br />&emsp;+ Bất cập<br/><b>- Bing :</b><br />&emsp;+ Bất cập<br/><b>- MyMemory :</b><br />&emsp;+ Những bất cập<br/></div>
+intrasegment,<div><b>- Google :</b><br />&emsp;+ Nội dung<br/><b>- MyMemory :</b><br />&emsp;+ Sự xâm nhập<br/></div>
+triggerable,<div><b>- Google :</b><br />&emsp;+ Có thể kích hoạt<br/><b>- Bing :</b><br />&emsp;+ Có thể kích hoạt<br/><b>- MyMemory :</b><br />&emsp;+ Có thể kích hoạt<br/></div>
+scaler,<div><b>- Google :</b><br />&emsp;+ Người mở rộng<br/><b>- MyMemory :</b><br />&emsp;+ Máy cạo vảy<br/></div>
+compete,<div><b>- Google :</b><br />&emsp;+ Tranh đua<br/><b>- Bing :</b><br />&emsp;+ Cạnh tranh<br/><b>- MyMemory :</b><br />&emsp;+ Đua tranh, ganh đua, cạnh tranh<br/></div>
+maintaining,<div><b>- Google :</b><br />&emsp;+ Duy trì<br/><b>- Bing :</b><br />&emsp;+ Duy trì<br/><b>- MyMemory :</b><br />&emsp;+ Duy trì<br/></div>
+margin,<div><b>- Google :</b><br />&emsp;+ Lề<br/><b>- Bing :</b><br />&emsp;+ Lề<br/><b>- MyMemory :</b><br />&emsp;+ Lề<br/></div>
+industries,<div><b>- Google :</b><br />&emsp;+ Các ngành nghề<br/><b>- Bing :</b><br />&emsp;+ Ngành công nghiệp<br/><b>- MyMemory :</b><br />&emsp;+ Các ngành công nghiệp<br/></div>
+lane,<div><b>- Google :</b><br />&emsp;+ Làn đường<br/><b>- Bing :</b><br />&emsp;+ Làn<br/><b>- MyMemory :</b><br />&emsp;+ Đường nhỏ<br/></div>
+philosophical,<div><b>- Google :</b><br />&emsp;+ Triết học<br/><b>- Bing :</b><br />&emsp;+ Triết học<br/><b>- MyMemory :</b><br />&emsp;+ Triết học<br/></div>
+descending,<div><b>- Google :</b><br />&emsp;+ Giảm dần<br/><b>- Bing :</b><br />&emsp;+ Giảm dần<br/><b>- MyMemory :</b><br />&emsp;+ Giảm dần<br/></div>
+circumference,<div><b>- Google :</b><br />&emsp;+ Đường tròn<br/><b>- Bing :</b><br />&emsp;+ Chu vi<br/><b>- MyMemory :</b><br />&emsp;+ Chu vi<br/></div>
+statusword,<div><b>- Google :</b><br />&emsp;+ Từ trạng thái<br/><b>- MyMemory :</b><br />&emsp;+ Trạng từ<br/></div>
+multiplex,<div><b>- Google :</b><br />&emsp;+ Ghép kênh<br/><b>- MyMemory :</b><br />&emsp;+ Bội số<br/></div>
+concluded,<div><b>- Google :</b><br />&emsp;+ Kết thúc<br/><b>- Bing :</b><br />&emsp;+ Kết thúc<br/><b>- MyMemory :</b><br />&emsp;+ Đã kết thúc<br/></div>
+funded,<div><b>- Google :</b><br />&emsp;+ Tài trợ<br/><b>- Bing :</b><br />&emsp;+ Tài trợ<br/><b>- MyMemory :</b><br />&emsp;+ Tài trợ<br/></div>
+pout,<div><b>- Google :</b><br />&emsp;+ Bĩu môi<br/><b>- Bing :</b><br />&emsp;+ Bĩu<br/><b>- MyMemory :</b><br />&emsp;+ Bĩu môi, bĩu môi<br/></div>
+exponentiation,<div><b>- Google :</b><br />&emsp;+ Số mũ<br/><b>- Bing :</b><br />&emsp;+ Số mũ<br/><b>- MyMemory :</b><br />&emsp;+ Lũy thừa<br/></div>
+foreseen,<div><b>- Google :</b><br />&emsp;+ Dự đoán<br/><b>- Bing :</b><br />&emsp;+ Dự đoán<br/><b>- MyMemory :</b><br />&emsp;+ Được dự đoán trước<br/></div>
+sod,<div><b>- Google :</b><br />&emsp;+ Cỏ nhân tạo<br/><b>- MyMemory :</b><br />&emsp;+ Lớp đất mặt<br/></div>
+electronics,<div><b>- Google :</b><br />&emsp;+ Thiết bị điện tử<br/><b>- Bing :</b><br />&emsp;+ Điện tử học<br/><b>- MyMemory :</b><br />&emsp;+ Điện tử học .<br/></div>
+deliberately,<div><b>- Google :</b><br />&emsp;+ Thong thả<br/><b>- Bing :</b><br />&emsp;+ Cố<br/><b>- MyMemory :</b><br />&emsp;+ Thận trọng, cân nhắc<br/></div>
+uppermost,<div><b>- Google :</b><br />&emsp;+ Cao nhất<br/><b>- Bing :</b><br />&emsp;+ Trên cùng<br/><b>- MyMemory :</b><br />&emsp;+ Cao nhất<br/></div>
+arbiter,<div><b>- Google :</b><br />&emsp;+ Trọng tài<br/><b>- Bing :</b><br />&emsp;+ Trọng tài<br/><b>- MyMemory :</b><br />&emsp;+ Trọng tài viên<br/></div>
+cables,<div><b>- Google :</b><br />&emsp;+ Dây cáp<br/><b>- Bing :</b><br />&emsp;+ Cáp<br/><b>- MyMemory :</b><br />&emsp;+ Văn thể điện báo<br/></div>
+latches,<div><b>- Google :</b><br />&emsp;+ Chốt<br/><b>- Bing :</b><br />&emsp;+ Chốt<br/><b>- MyMemory :</b><br />&emsp;+ Chốt<br/></div>
+primitives,<div><b>- Google :</b><br />&emsp;+ Nguyên thủy<br/><b>- Bing :</b><br />&emsp;+ Nguyên thủy<br/><b>- MyMemory :</b><br />&emsp;+ Nguyên thủy<br/></div>
+recollect,<div><b>- Google :</b><br />&emsp;+ Hồi tưởng<br/><b>- MyMemory :</b><br />&emsp;+ Thu hồi<br/></div>
+compactness,<div><b>- Google :</b><br />&emsp;+ Sự nén chặt<br/><b>- Bing :</b><br />&emsp;+ Độ nén<br/><b>- MyMemory :</b><br />&emsp;+ Tính compac<br/></div>
+revision,<div><b>- Google :</b><br />&emsp;+ Ôn tập<br/><b>- Bing :</b><br />&emsp;+ Phiên bản<br/><b>- MyMemory :</b><br />&emsp;+ Phiên bản<br/></div>
+rebinary,<div><b>- Google :</b><br />&emsp;+ Phản hồi<br/><b>- MyMemory :</b><br />&emsp;+ Sự giảm giá<br/></div>
+china,<div><b>- Google :</b><br />&emsp;+ Trung quốc<br/><b>- Bing :</b><br />&emsp;+ Trung quốc<br/><b>- MyMemory :</b><br />&emsp;+ Trung quốc<br/></div>
+pipelined,<div><b>- Google :</b><br />&emsp;+ Đường ống<br/><b>- Bing :</b><br />&emsp;+ Đường ống<br/><b>- MyMemory :</b><br />&emsp;+ Đường ống dẫn<br/></div>
+carriage,<div><b>- Google :</b><br />&emsp;+ Xe<br/><b>- Bing :</b><br />&emsp;+ Xe ngựa<br/><b>- MyMemory :</b><br />&emsp;+ Xe (lửa) chở khách<br/></div>
+dies,<div><b>- Google :</b><br />&emsp;+ Chết<br/><b>- Bing :</b><br />&emsp;+ Này<br/><b>- MyMemory :</b><br />&emsp;+ Răng bắt chặt<br/></div>
+institute,<div><b>- Google :</b><br />&emsp;+ Học viện<br/><b>- Bing :</b><br />&emsp;+ Viện<br/><b>- MyMemory :</b><br />&emsp;+ Viện, học viện<br/></div>
+acquisitions,<div><b>- Google :</b><br />&emsp;+ Mua lại<br/><b>- Bing :</b><br />&emsp;+ Mua lại<br/><b>- MyMemory :</b><br />&emsp;+ Tiếp nhận<br/></div>
+strapped,<div><b>- Google :</b><br />&emsp;+ Dây đeo<br/><b>- MyMemory :</b><br />&emsp;+ Thắt dây an toàn<br/></div>
+colleagues,<div><b>- Google :</b><br />&emsp;+ Đồng nghiệp<br/><b>- Bing :</b><br />&emsp;+ Đồng nghiệp<br/><b>- MyMemory :</b><br />&emsp;+ Đồng nghiệp của họ.<br/></div>
+intersil,<div><b>- Google :</b><br />&emsp;+ Giao nhau<br/><b>- MyMemory :</b><br />&emsp;+ Liên lớp<br/></div>
+residing,<div><b>- Google :</b><br />&emsp;+ Cư trú<br/><b>- Bing :</b><br />&emsp;+ Cư trú<br/><b>- MyMemory :</b><br />&emsp;+ Nhà<br/></div>
+humility,<div><b>- Google :</b><br />&emsp;+ Khiêm tốn<br/><b>- Bing :</b><br />&emsp;+ Khiêm tốn<br/><b>- MyMemory :</b><br />&emsp;+ Khiêm tốn<br/></div>
+erasable,<div><b>- Google :</b><br />&emsp;+ Có thể xóa được<br/><b>- Bing :</b><br />&emsp;+ Có thể xóa được<br/><b>- MyMemory :</b><br />&emsp;+ Có thể xóa được<br/></div>
+composite,<div><b>- Google :</b><br />&emsp;+ Tổng hợp<br/><b>- MyMemory :</b><br />&emsp;+ Ghép lại<br/></div>
+tination,<div><b>- Google :</b><br />&emsp;+ Sự tấn công<br/><b>- Bing :</b><br />&emsp;+ Màu<br/><b>- MyMemory :</b><br />&emsp;+ Thiếc hóa<br/></div>
+accompanied,<div><b>- Google :</b><br />&emsp;+ Đi cùng<br/><b>- Bing :</b><br />&emsp;+ Kèm theo<br/><b>- MyMemory :</b><br />&emsp;+ Sự sắp xếp lại<br/></div>
+reloading,<div><b>- Google :</b><br />&emsp;+ Tải lại<br/><b>- MyMemory :</b><br />&emsp;+ Sự chất hàng<br/></div>
+fad,<div><b>- Google :</b><br />&emsp;+ Ham mê<br/><b>- Bing :</b><br />&emsp;+ Mốt<br/></div>
+assigns,<div><b>- Google :</b><br />&emsp;+ Chỉ định<br/><b>- Bing :</b><br />&emsp;+ Gán<br/><b>- MyMemory :</b><br />&emsp;+ Chỉ định<br/></div>
+adaptor,<div><b>- Google :</b><br />&emsp;+ Bộ chuyển đổi<br/><b>- Bing :</b><br />&emsp;+ Bộ chuyển đổi<br/><b>- MyMemory :</b><br />&emsp;+ Người thích hợp<br/></div>
+seizes,<div><b>- Google :</b><br />&emsp;+ Nắm bắt<br/><b>- Bing :</b><br />&emsp;+ Thu giữ<br/><b>- MyMemory :</b><br />&emsp;+ Nắm giữ<br/></div>
+indeterminate,<div><b>- Google :</b><br />&emsp;+ Không xác định<br/><b>- Bing :</b><br />&emsp;+ Không xác định<br/><b>- MyMemory :</b><br />&emsp;+ Không xác định<br/></div>
+converters,<div><b>- Google :</b><br />&emsp;+ Bộ chuyển đổi<br/><b>- Bing :</b><br />&emsp;+ Trình chuyển đổi<br/><b>- MyMemory :</b><br />&emsp;+ Chuyển đổi<br/></div>
+balanced,<div><b>- Google :</b><br />&emsp;+ Cân bằng<br/><b>- Bing :</b><br />&emsp;+ Cân bằng<br/><b>- MyMemory :</b><br />&emsp;+ Cân bằng<br/></div>
+leaps,<div><b>- Google :</b><br />&emsp;+ Nhảy<br/><b>- Bing :</b><br />&emsp;+ Nhảy<br/><b>- MyMemory :</b><br />&emsp;+ Những bước nhảy vọt<br/></div>
+assert,<div><b>- Google :</b><br />&emsp;+ Khẳng định<br/><b>- Bing :</b><br />&emsp;+ Khẳng định<br/><b>- MyMemory :</b><br />&emsp;+ Khẳng  định; giữ vững; bảo vệ<br/></div>
+buyers,<div><b>- Google :</b><br />&emsp;+ Người mua<br/><b>- Bing :</b><br />&emsp;+ Mua<br/><b>- MyMemory :</b><br />&emsp;+ Người mua<br/></div>
+converter,<div><b>- Google :</b><br />&emsp;+ Bộ chuyển đổi<br/><b>- MyMemory :</b><br />&emsp;+ Thiết bị đường hóa<br/></div>
+erentiate,<div><b>- Google :</b><br />&emsp;+ Erentiat<br/><b>- MyMemory :</b><br />&emsp;+ Làm xói mòn<br/></div>
+pullup,<div><b>- Google :</b><br />&emsp;+ Kéo lên<br/><b>- MyMemory :</b><br />&emsp;+ Kéo lên<br/></div>
+resets,<div><b>- Google :</b><br />&emsp;+ Đặt lại<br/><b>- MyMemory :</b><br />&emsp;+ Cài lại<br/></div>
+oll,<div><b>- Google :</b><br />&emsp;+ All<br/><b>- Bing :</b><br />&emsp;+ Tất cả<br/></div>
+classically,<div><b>- Google :</b><br />&emsp;+ Kinh điển<br/><b>- Bing :</b><br />&emsp;+ Cổ điển<br/><b>- MyMemory :</b><br />&emsp;+ Cổ điển<br/></div>
+sought,<div><b>- Google :</b><br />&emsp;+ Tìm kiếm<br/><b>- Bing :</b><br />&emsp;+ Tìm<br/><b>- MyMemory :</b><br />&emsp;+ Tìm kiếm<br/></div>
+unasserted,<div><b>- Google :</b><br />&emsp;+ Không được xác nhận<br/><b>- Bing :</b><br />&emsp;+ Không được khẳng định<br/><b>- MyMemory :</b><br />&emsp;+ Chưa được xác nhận<br/></div>
+max,<div><b>- Google :</b><br />&emsp;+ Tối đa<br/><b>- MyMemory :</b><br />&emsp;+ Lớn nhất<br/></div>
+constitutes,<div><b>- Google :</b><br />&emsp;+ Cấu thành<br/><b>- Bing :</b><br />&emsp;+ Tạo<br/><b>- MyMemory :</b><br />&emsp;+ Cấu thành<br/></div>
+weights,<div><b>- Google :</b><br />&emsp;+ Trọng lượng<br/><b>- Bing :</b><br />&emsp;+ Trọng lượng<br/><b>- MyMemory :</b><br />&emsp;+ Khối lượng<br/></div>
+mulator,<div><b>- Google :</b><br />&emsp;+ Vận động viên<br/><b>- MyMemory :</b><br />&emsp;+ Máy nghiền<br/></div>
+shades,<div><b>- Google :</b><br />&emsp;+ Sắc thái<br/><b>- MyMemory :</b><br />&emsp;+ - bỏ kính ra đi!<br/></div>
+magnetized,<div><b>- Google :</b><br />&emsp;+ Từ hóa<br/><b>- Bing :</b><br />&emsp;+ Từ hóa<br/><b>- MyMemory :</b><br />&emsp;+ Từ hóa<br/></div>
+serially,<div><b>- Google :</b><br />&emsp;+ Nối tiếp<br/><b>- Bing :</b><br />&emsp;+ Nối tiếp<br/><b>- MyMemory :</b><br />&emsp;+ Nối tiếp<br/></div>
+sequential,<div><b>- Google :</b><br />&emsp;+ Tuần tự<br/><b>- MyMemory :</b><br />&emsp;+ Tuần tự<br/></div>
+interchange,<div><b>- Google :</b><br />&emsp;+ Trao đổi<br/><b>- MyMemory :</b><br />&emsp;+ Xen kẽ<br/></div>
+totally,<div><b>- Google :</b><br />&emsp;+ Tổng cộng<br/><b>- Bing :</b><br />&emsp;+ Hoàn toàn<br/><b>- MyMemory :</b><br />&emsp;+ Hoàn toàn<br/></div>
+courtesy,<div><b>- Google :</b><br />&emsp;+ Lịch sự<br/><b>- Bing :</b><br />&emsp;+ Sự lịch sự<br/><b>- MyMemory :</b><br />&emsp;+ Xã giao.<br/></div>
+solved,<div><b>- Google :</b><br />&emsp;+ Đã giải quyết<br/><b>- Bing :</b><br />&emsp;+ Giải quyết<br/><b>- MyMemory :</b><br />&emsp;+ Đã giải quyết<br/></div>
+comprises,<div><b>- Google :</b><br />&emsp;+ Bao gồm<br/><b>- Bing :</b><br />&emsp;+ Bao gồm<br/><b>- MyMemory :</b><br />&emsp;+ Bao gồm<br/></div>
+suppressing,<div><b>- Google :</b><br />&emsp;+ Đàn áp<br/><b>- Bing :</b><br />&emsp;+ Đàn áp<br/><b>- MyMemory :</b><br />&emsp;+ Sự triệt tiêu<br/></div>
+compounded,<div><b>- Google :</b><br />&emsp;+ Gộp lại<br/><b>- Bing :</b><br />&emsp;+ Phức tạp<br/><b>- MyMemory :</b><br />&emsp;+ Kết hợp<br/></div>
+pleasing,<div><b>- Google :</b><br />&emsp;+ Làm hài lòng<br/><b>- Bing :</b><br />&emsp;+ Lòng<br/><b>- MyMemory :</b><br />&emsp;+ Mang lại niềm vui thích; dễ chịu<br/></div>
+tempo,<div><b>- Google :</b><br />&emsp;+ Nhịp độ<br/><b>- Bing :</b><br />&emsp;+ Thời gian<br/><b>- MyMemory :</b><br />&emsp;+ Nhịp độ<br/></div>
+aim,<div><b>- Google :</b><br />&emsp;+ Mục đích<br/><b>- Bing :</b><br />&emsp;+ Nhắm<br/><b>- MyMemory :</b><br />&emsp;+ Sự nhắm (bắn), mục tiêu, ý định; nhắm, tập trung, hướng vào<br/></div>
+mobile,<div><b>- Google :</b><br />&emsp;+ Di động<br/><b>- Bing :</b><br />&emsp;+ Di động<br/><b>- MyMemory :</b><br />&emsp;+ Điện thoại đi động<br/></div>
+acknowledged,<div><b>- Google :</b><br />&emsp;+ Thừa nhận<br/><b>- Bing :</b><br />&emsp;+ Thừa nhận<br/><b>- MyMemory :</b><br />&emsp;+ Ghi điểm.<br/></div>
+signaled,<div><b>- Google :</b><br />&emsp;+ Báo hiệu<br/><b>- Bing :</b><br />&emsp;+ Báo hiệu<br/><b>- MyMemory :</b><br />&emsp;+ Ra hiệu<br/></div>
+shield,<div><b>- Google :</b><br />&emsp;+ Cái khiên<br/><b>- Bing :</b><br />&emsp;+ Khiên<br/><b>- MyMemory :</b><br />&emsp;+ Yếm<br/></div>
+manufacture,<div><b>- Google :</b><br />&emsp;+ Sản xuất<br/><b>- Bing :</b><br />&emsp;+ Chế<br/><b>- MyMemory :</b><br />&emsp;+ Sản xuất ,chế tạo<br/></div>
+era,<div><b>- Google :</b><br />&emsp;+ Kỷ nguyên<br/><b>- Bing :</b><br />&emsp;+ Kỷ nguyên<br/><b>- MyMemory :</b><br />&emsp;+ Thời kỳ<br/></div>
+physically,<div><b>- Google :</b><br />&emsp;+ Thể chất<br/><b>- Bing :</b><br />&emsp;+ Vật lý<br/><b>- MyMemory :</b><br />&emsp;+ Về thân thể, theo luật tự nhiên<br/></div>
+nonmaskable,<div><b>- Google :</b><br />&emsp;+ Không thể tin được<br/><b>- Bing :</b><br />&emsp;+ Không đeo khẩu trang<br/><b>- MyMemory :</b><br />&emsp;+ Không thể ăn được<br/></div>
+buildings,<div><b>- Google :</b><br />&emsp;+ Các tòa nhà<br/><b>- Bing :</b><br />&emsp;+ Tòa nhà<br/><b>- MyMemory :</b><br />&emsp;+ Tòa nhà<br/></div>
+segmentation,<div><b>- Google :</b><br />&emsp;+ Phân đoạn<br/><b>- Bing :</b><br />&emsp;+ Phân đoạn<br/><b>- MyMemory :</b><br />&emsp;+ Phân khúc<br/></div>
+amounted,<div><b>- Google :</b><br />&emsp;+ Lên tới<br/><b>- Bing :</b><br />&emsp;+ Số lượng<br/><b>- MyMemory :</b><br />&emsp;+ Số tiền<br/></div>
+admissible,<div><b>- Google :</b><br />&emsp;+ Chấp nhận được<br/><b>- Bing :</b><br />&emsp;+ Được chấp nhận<br/><b>- MyMemory :</b><br />&emsp;+ Chấp nhận được<br/></div>
+supplements,<div><b>- Google :</b><br />&emsp;+ Bổ sung<br/><b>- Bing :</b><br />&emsp;+ Bổ sung<br/><b>- MyMemory :</b><br />&emsp;+ Chất bổ sung<br/></div>
+encoder,<div><b>- Google :</b><br />&emsp;+ Mã hoá<br/><b>- MyMemory :</b><br />&emsp;+ Người lập mã (thông tin)<br/></div>
+promising,<div><b>- Google :</b><br />&emsp;+ Hứa hẹn<br/><b>- Bing :</b><br />&emsp;+ Hứa hẹn<br/><b>- MyMemory :</b><br />&emsp;+ Hứa hẹn.<br/></div>
+degraded,<div><b>- Google :</b><br />&emsp;+ Giảm sút chất lượng<br/><b>- Bing :</b><br />&emsp;+ Suy thoái<br/><b>- MyMemory :</b><br />&emsp;+ Xuống cấp<br/></div>
+lifestyle,<div><b>- Google :</b><br />&emsp;+ Cách sống<br/><b>- MyMemory :</b><br />&emsp;+ Và năng động.<br/></div>
+utilization,<div><b>- Google :</b><br />&emsp;+ Sử dụng<br/><b>- Bing :</b><br />&emsp;+ Sử dụng<br/><b>- MyMemory :</b><br />&emsp;+ Sự sử dụng<br/></div>
+theme,<div><b>- Google :</b><br />&emsp;+ Chủ đề<br/><b>- Bing :</b><br />&emsp;+ Đề tài<br/><b>- MyMemory :</b><br />&emsp;+ Chủ đề<br/></div>
+nonconforming,<div><b>- Google :</b><br />&emsp;+ Không phù hợp<br/><b>- Bing :</b><br />&emsp;+ Không phù hợp<br/><b>- MyMemory :</b><br />&emsp;+ Không phù hợp<br/></div>
+identity,<div><b>- Google :</b><br />&emsp;+ Xác thực<br/><b>- Bing :</b><br />&emsp;+ Căn cước<br/><b>- MyMemory :</b><br />&emsp;+ Nhận dạng; tính đồng nhất, giống hệt<br/></div>
+transistor,<div><b>- Google :</b><br />&emsp;+ Bóng bán dẫn<br/><b>- Bing :</b><br />&emsp;+ Bóng bán dẫn<br/><b>- MyMemory :</b><br />&emsp;+ Tranzito<br/></div>
+upwards,<div><b>- Google :</b><br />&emsp;+ Lên trên<br/><b>- Bing :</b><br />&emsp;+ Lên<br/><b>- MyMemory :</b><br />&emsp;+ Hướng lên<br/></div>
+camcorders,<div><b>- Google :</b><br />&emsp;+ Máy quay phim<br/><b>- Bing :</b><br />&emsp;+ Máy quay phim<br/><b>- MyMemory :</b><br />&emsp;+ Máy quay phim<br/></div>
+complexities,<div><b>- Google :</b><br />&emsp;+ Sự phức tạp<br/><b>- Bing :</b><br />&emsp;+ Phức tạp<br/><b>- MyMemory :</b><br />&emsp;+ Tính phức tạp<br/></div>
+marketing,<div><b>- Google :</b><br />&emsp;+ Tiếp thị<br/><b>- MyMemory :</b><br />&emsp;+ Tiếp thị<br/></div>
+nologies,<div><b>- Google :</b><br />&emsp;+ Nology<br/><b>- MyMemory :</b><br />&emsp;+ Bộ sưu tập.<br/></div>
+concerns,<div><b>- Google :</b><br />&emsp;+ Mối quan tâm<br/><b>- Bing :</b><br />&emsp;+ Mối quan tâm<br/><b>- MyMemory :</b><br />&emsp;+ Những nỗi lo<br/></div>
+disp,<div><b>- Google :</b><br />&emsp;+ Phân tán<br/><b>- MyMemory :</b><br />&emsp;+ Disp.<br/></div>
+bugging,<div><b>- Google :</b><br />&emsp;+ Làm phiền<br/><b>- MyMemory :</b><br />&emsp;+ Nghe lén<br/></div>
+optimized,<div><b>- Google :</b><br />&emsp;+ Tối ưu hóa<br/><b>- Bing :</b><br />&emsp;+ Tối ưu hóa<br/><b>- MyMemory :</b><br />&emsp;+ Đã nén<br/></div>
+organizational,<div><b>- Google :</b><br />&emsp;+ Tổ chức<br/><b>- Bing :</b><br />&emsp;+ Tổ chức<br/><b>- MyMemory :</b><br />&emsp;+ Tổ chức<br/></div>
+gereral,<div><b>- Google :</b><br />&emsp;+ Chung<br/><b>- MyMemory :</b><br />&emsp;+ Lão hóa<br/></div>
+spin,<div><b>- Google :</b><br />&emsp;+ Quay<br/><b>- Bing :</b><br />&emsp;+ Quay<br/><b>- MyMemory :</b><br />&emsp;+ Quay, quay tròn<br/></div>
+accomplishes,<div><b>- Google :</b><br />&emsp;+ Hoàn thành<br/><b>- Bing :</b><br />&emsp;+ Hoàn thành<br/><b>- MyMemory :</b><br />&emsp;+ Đạt được<br/></div>
+resumed,<div><b>- Google :</b><br />&emsp;+ Tiếp tục<br/><b>- Bing :</b><br />&emsp;+ Tiếp tục<br/><b>- MyMemory :</b><br />&emsp;+ Đã tiếp tục lại<br/></div>
+density,<div><b>- Google :</b><br />&emsp;+ Tỉ trọng<br/><b>- Bing :</b><br />&emsp;+ Mật độ<br/><b>- MyMemory :</b><br />&emsp;+ Mật độ<br/></div>
+paragraphs,<div><b>- Google :</b><br />&emsp;+ Đoạn văn<br/><b>- Bing :</b><br />&emsp;+ Đoạn văn<br/><b>- MyMemory :</b><br />&emsp;+ Các đoạn văn<br/></div>
+institution,<div><b>- Google :</b><br />&emsp;+ Tổ chức<br/><b>- Bing :</b><br />&emsp;+ Viện<br/><b>- MyMemory :</b><br />&emsp;+ Thành lập, lập; cơ quan, trụ sở<br/></div>
+incandescent,<div><b>- Google :</b><br />&emsp;+ Sợi đốt<br/><b>- Bing :</b><br />&emsp;+ Sáng chói<br/><b>- MyMemory :</b><br />&emsp;+ Nến<br/></div>
+buff,<div><b>- Google :</b><br />&emsp;+ Danh bong<br/><b>- MyMemory :</b><br />&emsp;+ Được buff<br/></div>
+understands,<div><b>- Google :</b><br />&emsp;+ Hiểu<br/><b>- Bing :</b><br />&emsp;+ Hiểu<br/><b>- MyMemory :</b><br />&emsp;+ Hiểu<br/></div>
+conversant,<div><b>- Google :</b><br />&emsp;+ Thân giao<br/><b>- Bing :</b><br />&emsp;+ Trò chuyện<br/><b>- MyMemory :</b><br />&emsp;+ Người đối thoại<br/></div>
+channeled,<div><b>- Google :</b><br />&emsp;+ Kênh<br/><b>- MyMemory :</b><br />&emsp;+ Được phân luồng<br/></div>
+perween,<div><b>- Google :</b><br />&emsp;+ Mọi lúc<br/><b>- MyMemory :</b><br />&emsp;+ Xung quanh<br/></div>
+unavilable,<div><b>- Google :</b><br />&emsp;+ Không có sẵn<br/><b>- Bing :</b><br />&emsp;+ Không thể chấp nhận được<br/><b>- MyMemory :</b><br />&emsp;+ Bất khả xâm phạm<br/></div>
+disaster,<div><b>- Google :</b><br />&emsp;+ Thảm họa<br/><b>- Bing :</b><br />&emsp;+ Hoạ<br/><b>- MyMemory :</b><br />&emsp;+ Thảm họa<br/></div>
+innovations,<div><b>- Google :</b><br />&emsp;+ Đổi mới<br/><b>- Bing :</b><br />&emsp;+ Sáng kiến<br/><b>- MyMemory :</b><br />&emsp;+ Đổi mới<br/></div>
+incompatibility,<div><b>- Google :</b><br />&emsp;+ Không tương thích<br/><b>- Bing :</b><br />&emsp;+ Không tương thích<br/><b>- MyMemory :</b><br />&emsp;+ Sự tương-khắc<br/></div>
+mismatch,<div><b>- Google :</b><br />&emsp;+ Không phù hợp<br/><b>- MyMemory :</b><br />&emsp;+ Sự lệch kỳ hạn<br/></div>
+relays,<div><b>- Google :</b><br />&emsp;+ Rơle<br/><b>- MyMemory :</b><br />&emsp;+ Rơ le<br/></div>
+partitions,<div><b>- Google :</b><br />&emsp;+ Phân vùng<br/><b>- Bing :</b><br />&emsp;+ Phân vùng<br/><b>- MyMemory :</b><br />&emsp;+ Số phân vùng<br/></div>
+vectors,<div><b>- Google :</b><br />&emsp;+ Vectơ<br/><b>- Bing :</b><br />&emsp;+ Vectơ<br/><b>- MyMemory :</b><br />&emsp;+ Vectơ<br/></div>
+rewritten,<div><b>- Google :</b><br />&emsp;+ Viết lại<br/><b>- Bing :</b><br />&emsp;+ Viết lại<br/><b>- MyMemory :</b><br />&emsp;+ Viết lại<br/></div>
+positional,<div><b>- Google :</b><br />&emsp;+ Vị trí<br/><b>- Bing :</b><br />&emsp;+ Vị trí<br/><b>- MyMemory :</b><br />&emsp;+ Theo vị trí -- positional<br/></div>
+centre,<div><b>- Google :</b><br />&emsp;+ Trung tâm<br/><b>- Bing :</b><br />&emsp;+ Trung tâm<br/><b>- MyMemory :</b><br />&emsp;+ Trung tâm, trung ương<br/></div>
+weakened,<div><b>- Google :</b><br />&emsp;+ Suy yếu<br/><b>- Bing :</b><br />&emsp;+ Suy yếu<br/><b>- MyMemory :</b><br />&emsp;+ Suy yếu<br/></div>
+carrier,<div><b>- Google :</b><br />&emsp;+ Vận chuyển<br/><b>- Bing :</b><br />&emsp;+ Vận chuyển<br/><b>- MyMemory :</b><br />&emsp;+ Vật mang<br/></div>
+occupies,<div><b>- Google :</b><br />&emsp;+ Nơi làm việc<br/><b>- Bing :</b><br />&emsp;+ Chiếm<br/><b>- MyMemory :</b><br />&emsp;+ Chiếm giữ, chiếm giữ<br/></div>
+slumber,<div><b>- Google :</b><br />&emsp;+ Giấc ngủ<br/><b>- Bing :</b><br />&emsp;+ Giấc<br/><b>- MyMemory :</b><br />&emsp;+ Ngủ<br/></div>
+pairing,<div><b>- Google :</b><br />&emsp;+ Ghép đôi<br/><b>- Bing :</b><br />&emsp;+ Ghép<br/><b>- MyMemory :</b><br />&emsp;+ Ghép<br/></div>
+alliance,<div><b>- Google :</b><br />&emsp;+ Liên minh<br/><b>- MyMemory :</b><br />&emsp;+ Sự liên minh<br/></div>
+nurturing,<div><b>- Google :</b><br />&emsp;+ Nuôi dưỡng<br/><b>- Bing :</b><br />&emsp;+ Nuôi dưỡng<br/><b>- MyMemory :</b><br />&emsp;+ Sự nuôi dưỡng<br/></div>
+invalidate,<div><b>- Google :</b><br />&emsp;+ Vô hiệu hóa<br/><b>- Bing :</b><br />&emsp;+ Vô hiệu hóa<br/><b>- MyMemory :</b><br />&emsp;+ Vô hiệu hóa<br/></div>
+dependant,<div><b>- Google :</b><br />&emsp;+ Phụ thuộc<br/><b>- Bing :</b><br />&emsp;+ Người phụ thuộc<br/><b>- MyMemory :</b><br />&emsp;+ Phụ thuộc<br/></div>
+spatial,<div><b>- Google :</b><br />&emsp;+ Không gian<br/><b>- Bing :</b><br />&emsp;+ Không gian<br/><b>- MyMemory :</b><br />&emsp;+ Không gian<br/></div>
+promoted,<div><b>- Google :</b><br />&emsp;+ Thăng chức<br/><b>- Bing :</b><br />&emsp;+ Thăng<br/><b>- MyMemory :</b><br />&emsp;+ Quảng bá<br/></div>
+lookaside,<div><b>- Google :</b><br />&emsp;+ Nhìn sang một bên<br/><b>- MyMemory :</b><br />&emsp;+ Mặt ngoài<br/></div>
+advancement,<div><b>- Google :</b><br />&emsp;+ Tiến bộ<br/><b>- Bing :</b><br />&emsp;+ Tiến bộ<br/><b>- MyMemory :</b><br />&emsp;+ Tiền (người thừa kế) được nhận trước<br/></div>
+depletion,<div><b>- Google :</b><br />&emsp;+ Suy giảm<br/><b>- Bing :</b><br />&emsp;+ Cạn kiệt<br/><b>- MyMemory :</b><br />&emsp;+ Thời điểm suy kiệt<br/></div>
+enquires,<div><b>- Google :</b><br />&emsp;+ Hỏi<br/><b>- Bing :</b><br />&emsp;+ Yêu cầu<br/><b>- MyMemory :</b><br />&emsp;+ Truy vấn<br/></div>
+dual,<div><b>- Google :</b><br />&emsp;+ Hai<br/><b>- Bing :</b><br />&emsp;+ Kép<br/><b>- MyMemory :</b><br />&emsp;+ Đôi<br/></div>
+settles,<div><b>- Google :</b><br />&emsp;+ Giải quyết<br/><b>- Bing :</b><br />&emsp;+ Giải quyết<br/><b>- MyMemory :</b><br />&emsp;+ Đã ổn định<br/></div>
+sequencing,<div><b>- Google :</b><br />&emsp;+ Trình tự<br/><b>- Bing :</b><br />&emsp;+ Giải trình tự<br/><b>- MyMemory :</b><br />&emsp;+ Xác định trình tự<br/></div>
+inbuilt,<div><b>- Google :</b><br />&emsp;+ Sẵn sàng<br/><b>- MyMemory :</b><br />&emsp;+ Đã xây dựng<br/></div>
+displaced,<div><b>- Google :</b><br />&emsp;+ Di dời<br/><b>- Bing :</b><br />&emsp;+ Dời<br/><b>- MyMemory :</b><br />&emsp;+ Dịch chuyển<br/></div>
+activation,<div><b>- Google :</b><br />&emsp;+ Kích hoạt<br/><b>- Bing :</b><br />&emsp;+ Kích hoạt<br/><b>- MyMemory :</b><br />&emsp;+ Kích hoạt<br/></div>
+honored,<div><b>- Google :</b><br />&emsp;+ Vinh dự<br/><b>- Bing :</b><br />&emsp;+ Vinh dự<br/><b>- MyMemory :</b><br />&emsp;+ Thật vinh hạnh.<br/></div>
+merged,<div><b>- Google :</b><br />&emsp;+ Hợp nhất<br/><b>- Bing :</b><br />&emsp;+ Sáp nhập<br/><b>- MyMemory :</b><br />&emsp;+ Sáp nhập<br/></div>
+toggled,<div><b>- Google :</b><br />&emsp;+ Chuyển đổi<br/><b>- MyMemory :</b><br />&emsp;+ Toled<br/></div>
+durability,<div><b>- Google :</b><br />&emsp;+ Độ bền<br/><b>- Bing :</b><br />&emsp;+ Độ bền<br/><b>- MyMemory :</b><br />&emsp;+ Độ bền<br/></div>
+rises,<div><b>- Google :</b><br />&emsp;+ Mọc<br/><b>- Bing :</b><br />&emsp;+ Tăng<br/><b>- MyMemory :</b><br />&emsp;+ Tăng lên, tăng lên<br/></div>
+obey,<div><b>- Google :</b><br />&emsp;+ Tuân theo<br/><b>- Bing :</b><br />&emsp;+ Tuân<br/><b>- MyMemory :</b><br />&emsp;+ Vâng lời , tuân lệnh<br/></div>
+cpus,<div><b>- Google :</b><br />&emsp;+ Cpu<br/><b>- Bing :</b><br />&emsp;+ Cpu<br/></div>
+unpacking,<div><b>- Google :</b><br />&emsp;+ Giải nén<br/><b>- Bing :</b><br />&emsp;+ Giải nén<br/><b>- MyMemory :</b><br />&emsp;+ Việc dỡ tách (công te nơ)<br/></div>
+partitioned,<div><b>- Google :</b><br />&emsp;+ Phân vùng<br/><b>- Bing :</b><br />&emsp;+ Phân vùng<br/><b>- MyMemory :</b><br />&emsp;+ Phân vùng<br/></div>
+competitors,<div><b>- Google :</b><br />&emsp;+ Đối thủ cạnh tranh<br/><b>- Bing :</b><br />&emsp;+ Đối thủ<br/><b>- MyMemory :</b><br />&emsp;+ Đối thủ cạnh tranh<br/></div>
+studied,<div><b>- Google :</b><br />&emsp;+ Đã học<br/><b>- Bing :</b><br />&emsp;+ Nghiên cứu<br/><b>- MyMemory :</b><br />&emsp;+ Đã học<br/></div>
+household,<div><b>- Google :</b><br />&emsp;+ Hộ gia đình<br/><b>- Bing :</b><br />&emsp;+ Gia đình<br/><b>- MyMemory :</b><br />&emsp;+ Hộ, gia đình<br/></div>
+boast,<div><b>- Google :</b><br />&emsp;+ Khoe khoang<br/><b>- Bing :</b><br />&emsp;+ Khoe<br/><b>- MyMemory :</b><br />&emsp;+ Lời nói khoe khoang<br/></div>
+border,<div><b>- Google :</b><br />&emsp;+ Biên giới<br/><b>- Bing :</b><br />&emsp;+ Biên giới<br/><b>- MyMemory :</b><br />&emsp;+ Bờ, mép, vỉa, lể (đường)<br/></div>
+normalization,<div><b>- Google :</b><br />&emsp;+ Bình thường hóa<br/><b>- Bing :</b><br />&emsp;+ Bình thường hóa<br/><b>- MyMemory :</b><br />&emsp;+ Bình thường hóa<br/></div>
+decreasing,<div><b>- Google :</b><br />&emsp;+ Giảm<br/><b>- Bing :</b><br />&emsp;+ Giảm<br/><b>- MyMemory :</b><br />&emsp;+ Hàm số đơn điệu<br/></div>
+interrogate,<div><b>- Google :</b><br />&emsp;+ Thẩm vấn<br/><b>- Bing :</b><br />&emsp;+ Chất vấn<br/><b>- MyMemory :</b><br />&emsp;+ Thẩm vấn<br/></div>
+cabinets,<div><b>- Google :</b><br />&emsp;+ Tủ<br/><b>- Bing :</b><br />&emsp;+ Tủ<br/><b>- MyMemory :</b><br />&emsp;+ Tấm màn hình<br/></div>
+whereby,<div><b>- Google :</b><br />&emsp;+ Theo đó<br/><b>- Bing :</b><br />&emsp;+ Theo đó<br/><b>- MyMemory :</b><br />&emsp;+ Tức<br/></div>
+provision,<div><b>- Google :</b><br />&emsp;+ Sự cung cấp<br/><b>- Bing :</b><br />&emsp;+ Cung cấp<br/><b>- MyMemory :</b><br />&emsp;+ Tiền dự phòng<br/></div>
+carries,<div><b>- Google :</b><br />&emsp;+ Mang theo<br/><b>- Bing :</b><br />&emsp;+ Mang<br/><b>- MyMemory :</b><br />&emsp;+ Mang theo<br/></div>
+asserts,<div><b>- Google :</b><br />&emsp;+ Khẳng định<br/><b>- Bing :</b><br />&emsp;+ Khẳng định<br/><b>- MyMemory :</b><br />&emsp;+ Khẳng định<br/></div>
+programmble,<div><b>- Google :</b><br />&emsp;+ Có thể lập trình<br/><b>- Bing :</b><br />&emsp;+ Lập trình<br/><b>- MyMemory :</b><br />&emsp;+ Lập trình viên<br/></div>
+refreshing,<div><b>- Google :</b><br />&emsp;+ Làm mới<br/><b>- Bing :</b><br />&emsp;+ Làm mới<br/><b>- MyMemory :</b><br />&emsp;+ Sự làm tươi mát<br/></div>
+prioritize,<div><b>- Google :</b><br />&emsp;+ Ưu tiên<br/><b>- Bing :</b><br />&emsp;+ Ưu tiên<br/><b>- MyMemory :</b><br />&emsp;+ Ưu tiên<br/></div>
+thrust,<div><b>- Google :</b><br />&emsp;+ Đẩy<br/><b>- Bing :</b><br />&emsp;+ Đẩy<br/><b>- MyMemory :</b><br />&emsp;+ Lực đẩy<br/></div>
+reception,<div><b>- Google :</b><br />&emsp;+ Thu nhận<br/><b>- Bing :</b><br />&emsp;+ Lễ tân<br/><b>- MyMemory :</b><br />&emsp;+ Tiếp nhận, đón tiếp<br/></div>
+theirs,<div><b>- Google :</b><br />&emsp;+ Của họ<br/><b>- Bing :</b><br />&emsp;+ Họ<br/><b>- MyMemory :</b><br />&emsp;+ Của chúng , của họ<br/></div>
+classifi,<div><b>- Google :</b><br />&emsp;+ Phân loại<br/><b>- MyMemory :</b><br />&emsp;+ Sự phân loại<br/></div>
+suggestions,<div><b>- Google :</b><br />&emsp;+ Đề xuất<br/><b>- Bing :</b><br />&emsp;+ Gợi ý<br/><b>- MyMemory :</b><br />&emsp;+ Đề xuất<br/></div>
+hardwired,<div><b>- Google :</b><br />&emsp;+ Dây cứng<br/><b>- MyMemory :</b><br />&emsp;+ Có dây cứng<br/></div>
+learner,<div><b>- Google :</b><br />&emsp;+ Người học<br/><b>- MyMemory :</b><br />&emsp;+ Người học<br/></div>
+policy,<div><b>- Google :</b><br />&emsp;+ Chính sách<br/><b>- Bing :</b><br />&emsp;+ Chính sách<br/><b>- MyMemory :</b><br />&emsp;+ Chính sách<br/></div>
+corporation,<div><b>- Google :</b><br />&emsp;+ Tập đoàn<br/><b>- Bing :</b><br />&emsp;+ Công ty<br/><b>- MyMemory :</b><br />&emsp;+ Pháp nhân (nhiều người hành xử chức quyền như một người)<br/></div>
+outn,<div><b>- Google :</b><br />&emsp;+ Vượt trội<br/><b>- MyMemory :</b><br />&emsp;+ Vượt trội hơn<br/></div>
+divisions,<div><b>- Google :</b><br />&emsp;+ Bộ phận<br/><b>- Bing :</b><br />&emsp;+ Đơn vị<br/><b>- MyMemory :</b><br />&emsp;+ Bộ môn<br/></div>
+thermocouple,<div><b>- Google :</b><br />&emsp;+ Cặp nhiệt điện<br/><b>- Bing :</b><br />&emsp;+ Cặp nhiệt điện<br/><b>- MyMemory :</b><br />&emsp;+ Cặp nhiệt điện<br/></div>
+concatenated,<div><b>- Google :</b><br />&emsp;+ Liên kết<br/><b>- Bing :</b><br />&emsp;+ Liên kết<br/><b>- MyMemory :</b><br />&emsp;+ Kết hợp<br/></div>
+figs,<div><b>- Google :</b><br />&emsp;+ Hình<br/><b>- MyMemory :</b><br />&emsp;+ Hình.<br/></div>
+prevailing,<div><b>- Google :</b><br />&emsp;+ Thịnh hành<br/><b>- Bing :</b><br />&emsp;+ Phổ biến<br/><b>- MyMemory :</b><br />&emsp;+ Thường thấy<br/></div>
+measurement,<div><b>- Google :</b><br />&emsp;+ Đo đạc<br/><b>- Bing :</b><br />&emsp;+ Kích thước<br/><b>- MyMemory :</b><br />&emsp;+ Đo lường, phép đo<br/></div>
+mysteries,<div><b>- Google :</b><br />&emsp;+ Bí ẩn<br/><b>- Bing :</b><br />&emsp;+ Bí ẩn<br/><b>- MyMemory :</b><br />&emsp;+ Chúng rất bí ẩn.<br/></div>
+reacts,<div><b>- Google :</b><br />&emsp;+ Phản ứng<br/><b>- Bing :</b><br />&emsp;+ Phản ứng<br/><b>- MyMemory :</b><br />&emsp;+ Phản ứng<br/></div>
+fragmented,<div><b>- Google :</b><br />&emsp;+ Phân mảnh<br/><b>- Bing :</b><br />&emsp;+ Phân mảnh<br/><b>- MyMemory :</b><br />&emsp;+ Rời rạc, vun vén, chắp vá<br/></div>
+commenced,<div><b>- Google :</b><br />&emsp;+ Bắt đầu<br/><b>- Bing :</b><br />&emsp;+ Bắt đầu<br/><b>- MyMemory :</b><br />&emsp;+ Đã bắt đầu<br/></div>
+switched,<div><b>- Google :</b><br />&emsp;+ Chuyển đổi<br/><b>- Bing :</b><br />&emsp;+ Chuyển sang<br/><b>- MyMemory :</b><br />&emsp;+ Các khóa điện<br/></div>
+diodes,<div><b>- Google :</b><br />&emsp;+ Điốt<br/><b>- Bing :</b><br />&emsp;+ Điốt<br/><b>- MyMemory :</b><br />&emsp;+ Điốt<br/></div>
+variation,<div><b>- Google :</b><br />&emsp;+ Sự thay đổi<br/><b>- Bing :</b><br />&emsp;+ Biến thể<br/><b>- MyMemory :</b><br />&emsp;+ Biến thể<br/></div>
+inputting,<div><b>- Google :</b><br />&emsp;+ Vào<br/><b>- Bing :</b><br />&emsp;+ Nhập liệu<br/><b>- MyMemory :</b><br />&emsp;+ Nhập liệu<br/></div>
+battery,<div><b>- Google :</b><br />&emsp;+ Pin<br/><b>- Bing :</b><br />&emsp;+ Pin<br/><b>- MyMemory :</b><br />&emsp;+ Pin<br/></div>
+society,<div><b>- Google :</b><br />&emsp;+ Xã hội<br/><b>- Bing :</b><br />&emsp;+ Xã hội<br/></div>
+elaborate,<div><b>- Google :</b><br />&emsp;+ Phức tạp<br/><b>- Bing :</b><br />&emsp;+ Xây dựng<br/><b>- MyMemory :</b><br />&emsp;+ Tỉ mỉ<br/></div>
+rightarrow,<div><b>- Google :</b><br />&emsp;+ Mũi tên bên phải<br/><b>- MyMemory :</b><br />&emsp;+ Thu hẹp bên phải<br/></div>
+ash,<div><b>- Google :</b><br />&emsp;+ Tro<br/><b>- Bing :</b><br />&emsp;+ Tro<br/><b>- MyMemory :</b><br />&emsp;+ Tro<br/></div>
+exhaustive,<div><b>- Google :</b><br />&emsp;+ Toàn diện<br/><b>- Bing :</b><br />&emsp;+ Đầy đủ<br/><b>- MyMemory :</b><br />&emsp;+ Kiệt quệ, kiệt quệ<br/></div>
+passage,<div><b>- Google :</b><br />&emsp;+ Đoạn văn<br/><b>- Bing :</b><br />&emsp;+ Đoạn văn<br/><b>- MyMemory :</b><br />&emsp;+ Đi qua, trôi qua; hành lang<br/></div>
+uplow,<div><b>- Google :</b><br />&emsp;+ Lên lên<br/><b>- MyMemory :</b><br />&emsp;+ Dòng chảy ngược<br/></div>
+requisite,<div><b>- Google :</b><br />&emsp;+ Cần thiết<br/><b>- Bing :</b><br />&emsp;+ Cần thiết<br/><b>- MyMemory :</b><br />&emsp;+ Vật cần thiết<br/></div>
+ict,<div><b>- Google :</b><br />&emsp;+ Cntt<br/><b>- MyMemory :</b><br />&emsp;+ Ict.<br/></div>
+phases,<div><b>- Google :</b><br />&emsp;+ Giai đoạn<br/><b>- Bing :</b><br />&emsp;+ Giai đoạn<br/><b>- MyMemory :</b><br />&emsp;+ Các pha<br/></div>
+lowers,<div><b>- Google :</b><br />&emsp;+ Hạ thấp<br/><b>- Bing :</b><br />&emsp;+ Giảm<br/><b>- MyMemory :</b><br />&emsp;+ Hạ thấp<br/></div>
+unambiguous,<div><b>- Google :</b><br />&emsp;+ Không rõ ràng<br/><b>- Bing :</b><br />&emsp;+ Rõ ràng<br/><b>- MyMemory :</b><br />&emsp;+ Không rõ ràng<br/></div>
+markets,<div><b>- Google :</b><br />&emsp;+ Chợ<br/><b>- MyMemory :</b><br />&emsp;+ Thị trường<br/></div>
+overlapped,<div><b>- Google :</b><br />&emsp;+ Chồng chéo<br/><b>- Bing :</b><br />&emsp;+ Chồng chéo<br/><b>- MyMemory :</b><br />&emsp;+ Chồm<br/></div>
+owed,<div><b>- Google :</b><br />&emsp;+ Nợ<br/><b>- Bing :</b><br />&emsp;+ Nợ<br/><b>- MyMemory :</b><br />&emsp;+ Nợ<br/></div>
+radically,<div><b>- Google :</b><br />&emsp;+ Triệt để<br/><b>- Bing :</b><br />&emsp;+ Triệt<br/><b>- MyMemory :</b><br />&emsp;+ Triệt để<br/></div>
+magnets,<div><b>- Google :</b><br />&emsp;+ Nam châm<br/><b>- Bing :</b><br />&emsp;+ Nam châm<br/><b>- MyMemory :</b><br />&emsp;+ Nam châm<br/></div>
+releasing,<div><b>- Google :</b><br />&emsp;+ Phát hành<br/><b>- Bing :</b><br />&emsp;+ Phát hành<br/><b>- MyMemory :</b><br />&emsp;+ Giải phóng<br/></div>
+adhere,<div><b>- Google :</b><br />&emsp;+ Tuân thủ<br/><b>- Bing :</b><br />&emsp;+ Quyện<br/><b>- MyMemory :</b><br />&emsp;+ Dính chặt<br/></div>
+meter,<div><b>- Google :</b><br />&emsp;+ Mét<br/><b>- Bing :</b><br />&emsp;+ Mét<br/><b>- MyMemory :</b><br />&emsp;+ Mét<br/></div>
+noteworthy,<div><b>- Google :</b><br />&emsp;+ Đáng chú ý<br/><b>- Bing :</b><br />&emsp;+ Đáng chú ý<br/></div>
+paragraph,<div><b>- Google :</b><br />&emsp;+ Đoạn văn<br/><b>- Bing :</b><br />&emsp;+ Đoạn<br/></div>
+sine,<div><b>- Google :</b><br />&emsp;+ Sin<br/><b>- Bing :</b><br />&emsp;+ Của nó<br/></div>
+stringent,<div><b>- Google :</b><br />&emsp;+ Nghiêm khắc<br/><b>- Bing :</b><br />&emsp;+ Nghiêm ngặt<br/></div>
+circumvent,<div><b>- Google :</b><br />&emsp;+ Chặn<br/><b>- Bing :</b><br />&emsp;+ Phá vỡ<br/></div>
+intermediary,<div><b>- Google :</b><br />&emsp;+ Người trung gian<br/><b>- Bing :</b><br />&emsp;+ Trung gian<br/></div>
+plunge,<div><b>- Google :</b><br />&emsp;+ Lao xuống<br/><b>- Bing :</b><br />&emsp;+ Lao<br/></div>
+moreover,<div><b>- Google :</b><br />&emsp;+ Hơn thế nữa<br/><b>- Bing :</b><br />&emsp;+ Hơn nữa<br/></div>
+redundant,<div><b>- Google :</b><br />&emsp;+ Dư thừa<br/><b>- Bing :</b><br />&emsp;+ Dư thừa<br/></div>
+photographed,<div><b>- Google :</b><br />&emsp;+ Chụp ảnh<br/><b>- Bing :</b><br />&emsp;+ Chụp ảnh<br/></div>
+durable,<div><b>- Google :</b><br />&emsp;+ Bền chặt<br/><b>- Bing :</b><br />&emsp;+ Bền<br/></div>
+anodes,<div><b>- Google :</b><br />&emsp;+ Cực dương<br/><b>- Bing :</b><br />&emsp;+ Cực dương<br/></div>
+downwards,<div><b>- Google :</b><br />&emsp;+ Xuống dưới<br/><b>- Bing :</b><br />&emsp;+ Xuống<br/></div>
+costp,<div><b>- Google :</b><br />&emsp;+ Chi phí<br/><b>- Bing :</b><br />&emsp;+ Chi phí<br/></div>
+float,<div><b>- Google :</b><br />&emsp;+ Trôi nổi<br/><b>- Bing :</b><br />&emsp;+ Nổi<br/><b>- MyMemory :</b><br />&emsp;+ Nồi, trôi, lơ lửng<br/></div>
+philosophy,<div><b>- Google :</b><br />&emsp;+ Triết học<br/><b>- Bing :</b><br />&emsp;+ Triết học<br/><b>- MyMemory :</b><br />&emsp;+ Triết học, triết lý<br/></div>
+successor,<div><b>- Google :</b><br />&emsp;+ Kế thừa<br/><b>- Bing :</b><br />&emsp;+ Kế<br/><b>- MyMemory :</b><br />&emsp;+ Người thừa kế<br/></div>
+patible,<div><b>- Google :</b><br />&emsp;+ Có thể đánh giá<br/><b>- MyMemory :</b><br />&emsp;+ Có thể chấp nhận được<br/></div>
+discused,<div><b>- Google :</b><br />&emsp;+ Thảo luận<br/><b>- Bing :</b><br />&emsp;+ Cá dĩa<br/><b>- MyMemory :</b><br />&emsp;+ Không được phép<br/></div>
+advent,<div><b>- Google :</b><br />&emsp;+ Mùa vọng<br/><b>- MyMemory :</b><br />&emsp;+ Mùa vọng<br/></div>
+reciprocal,<div><b>- Google :</b><br />&emsp;+ Đối ứng<br/><b>- Bing :</b><br />&emsp;+ Tình trạng<br/><b>- MyMemory :</b><br />&emsp;+ Nghịch đảo (toán học)<br/></div>
+intertwining,<div><b>- Google :</b><br />&emsp;+ Đan xen<br/><b>- Bing :</b><br />&emsp;+ Đan xen<br/><b>- MyMemory :</b><br />&emsp;+ Sự đan xen<br/></div>
+appreciation,<div><b>- Google :</b><br />&emsp;+ Sự đánh giá<br/><b>- MyMemory :</b><br />&emsp;+ Sự tăng giá<br/></div>
+nitely,<div><b>- Google :</b><br />&emsp;+ Khó chịu<br/><b>- MyMemory :</b><br />&emsp;+ Vô hạn<br/></div>
+blended,<div><b>- Google :</b><br />&emsp;+ Trộn lẫn<br/><b>- Bing :</b><br />&emsp;+ Pha trộn<br/><b>- MyMemory :</b><br />&emsp;+ Pha đấu<br/></div>
+standardized,<div><b>- Google :</b><br />&emsp;+ Tiêu chuẩn hóa<br/><b>- Bing :</b><br />&emsp;+ Tiêu chuẩn<br/><b>- MyMemory :</b><br />&emsp;+ Đạt chuẩn<br/></div>
+costly,<div><b>- Google :</b><br />&emsp;+ Tốn kém<br/><b>- Bing :</b><br />&emsp;+ Đắt<br/><b>- MyMemory :</b><br />&emsp;+ Tốn kém<br/></div>
+undoubt,<div><b>- Google :</b><br />&emsp;+ Không thể nghi ngờ<br/><b>- Bing :</b><br />&emsp;+ Hoàn tác<br/><b>- MyMemory :</b><br />&emsp;+ Chắc chắn<br/></div>
+grabbing,<div><b>- Google :</b><br />&emsp;+ Chộp lấy<br/><b>- MyMemory :</b><br />&emsp;+ Tóm lấy.<br/></div>
+latencies,<div><b>- Google :</b><br />&emsp;+ Độ trễ<br/><b>- Bing :</b><br />&emsp;+ Độ trễ<br/><b>- MyMemory :</b><br />&emsp;+ Thời gian chờ<br/></div>
+cathodes,<div><b>- Google :</b><br />&emsp;+ Catốt<br/><b>- MyMemory :</b><br />&emsp;+ Catốt<br/></div>
+polices,<div><b>- Google :</b><br />&emsp;+ Chính sách<br/><b>- Bing :</b><br />&emsp;+ Phông<br/><b>- MyMemory :</b><br />&emsp;+ Chính trị gia<br/></div>
+practices,<div><b>- Google :</b><br />&emsp;+ Thực hành<br/><b>- Bing :</b><br />&emsp;+ Thực tiễn<br/><b>- MyMemory :</b><br />&emsp;+ Hoạt động tốt<br/></div>
+provisions,<div><b>- Google :</b><br />&emsp;+ Điều khoản<br/><b>- Bing :</b><br />&emsp;+ Quy định<br/><b>- MyMemory :</b><br />&emsp;+ Đồ cung cấp<br/></div>
+cycling,<div><b>- Google :</b><br />&emsp;+ Đi xe đạp<br/><b>- Bing :</b><br />&emsp;+ Đi xe đạp<br/><b>- MyMemory :</b><br />&emsp;+ Đi xe đạp<br/></div>
+therein,<div><b>- Google :</b><br />&emsp;+ Trong đó<br/><b>- Bing :</b><br />&emsp;+ Trong đó<br/><b>- MyMemory :</b><br />&emsp;+ Trong đó<br/></div>
+feeding,<div><b>- Google :</b><br />&emsp;+ Cho ăn<br/><b>- Bing :</b><br />&emsp;+ Ăn<br/><b>- MyMemory :</b><br />&emsp;+ Sự nuôi<br/></div>
+ordinate,<div><b>- Google :</b><br />&emsp;+ Phong chức<br/><b>- Bing :</b><br />&emsp;+ Tung độ<br/><b>- MyMemory :</b><br />&emsp;+ Tung độ<br/></div>
+constituents,<div><b>- Google :</b><br />&emsp;+ Thành phần<br/><b>- Bing :</b><br />&emsp;+ Thành phần<br/><b>- MyMemory :</b><br />&emsp;+ Các thành phần: ................................................... ................................................... .....................................<br/></div>
+confl,<div><b>- Google :</b><br />&emsp;+ Xung đột<br/><b>- MyMemory :</b><br />&emsp;+ Sự trộn lẫn<br/></div>
+ensuing,<div><b>- Google :</b><br />&emsp;+ Tiếp theo<br/><b>- Bing :</b><br />&emsp;+ Tiếp theo<br/><b>- MyMemory :</b><br />&emsp;+ Sau đó<br/></div>
+numerical,<div><b>- Google :</b><br />&emsp;+ Số<br/><b>- Bing :</b><br />&emsp;+ Số<br/><b>- MyMemory :</b><br />&emsp;+ Về số lượng<br/></div>
+exponential,<div><b>- Google :</b><br />&emsp;+ Số mũ<br/><b>- Bing :</b><br />&emsp;+ Thuộc số mũ<br/><b>- MyMemory :</b><br />&emsp;+ Hàm mũ<br/></div>
+paved,<div><b>- Google :</b><br />&emsp;+ Mở<br/><b>- Bing :</b><br />&emsp;+ Lát<br/><b>- MyMemory :</b><br />&emsp;+ Lát đường<br/></div>
+lags,<div><b>- Google :</b><br />&emsp;+ Trễ<br/><b>- Bing :</b><br />&emsp;+ Chậm<br/><b>- MyMemory :</b><br />&emsp;+ Sự chậm trễ<br/></div>
+ditional,<div><b>- Google :</b><br />&emsp;+ Điều kiện<br/><b>- MyMemory :</b><br />&emsp;+ Điều kiện<br/></div>
+numerically,<div><b>- Google :</b><br />&emsp;+ Số lượng<br/><b>- MyMemory :</b><br />&emsp;+ Về mặt số học<br/></div>
+redesign,<div><b>- Google :</b><br />&emsp;+ Thiết kế lại<br/><b>- MyMemory :</b><br />&emsp;+ Thiết kế lại<br/></div>
+elaboration,<div><b>- Google :</b><br />&emsp;+ Xây dựng<br/><b>- Bing :</b><br />&emsp;+ Xây dựng<br/><b>- MyMemory :</b><br />&emsp;+ Tỉ mỉ<br/></div>
+modular,<div><b>- Google :</b><br />&emsp;+ Mô -đun<br/><b>- MyMemory :</b><br />&emsp;+ Môđun<br/></div>
+invent,<div><b>- Google :</b><br />&emsp;+ Phát minh<br/><b>- Bing :</b><br />&emsp;+ Phát minh<br/><b>- MyMemory :</b><br />&emsp;+ Phát minh, sáng chế<br/></div>
+impart,<div><b>- Google :</b><br />&emsp;+ Truyền đạt<br/><b>- Bing :</b><br />&emsp;+ Truyền đạt<br/><b>- MyMemory :</b><br />&emsp;+ Truyền đạt<br/></div>
+acknowledgement,<div><b>- Google :</b><br />&emsp;+ Nhìn nhận<br/><b>- Bing :</b><br />&emsp;+ Thừa nhận<br/><b>- MyMemory :</b><br />&emsp;+ Quan tâm<br/></div>
+concurrent,<div><b>- Google :</b><br />&emsp;+ Đồng thời<br/><b>- Bing :</b><br />&emsp;+ Đồng thời<br/><b>- MyMemory :</b><br />&emsp;+ Đồng thời<br/></div>
+latency,<div><b>- Google :</b><br />&emsp;+ Độ trễ<br/><b>- Bing :</b><br />&emsp;+ Trễ<br/><b>- MyMemory :</b><br />&emsp;+ (tính)âm ỉ, (tính) tiềm tàng, (tính) nghỉ<br/></div>
+dip,<div><b>- Google :</b><br />&emsp;+ Nhúng<br/><b>- Bing :</b><br />&emsp;+ Nhúng<br/><b>- MyMemory :</b><br />&emsp;+ Quãng trũng<br/></div>
+boost,<div><b>- Google :</b><br />&emsp;+ Tăng<br/><b>- Bing :</b><br />&emsp;+ Tăng<br/><b>- MyMemory :</b><br />&emsp;+ Thúc đẩy<br/></div>
+timings,<div><b>- Google :</b><br />&emsp;+ Thời gian<br/><b>- MyMemory :</b><br />&emsp;+ Thời gian<br/></div>
+interactively,<div><b>- Google :</b><br />&emsp;+ Tương tác<br/><b>- Bing :</b><br />&emsp;+ Tương tác<br/><b>- MyMemory :</b><br />&emsp;+ Tương tác<br/></div>
+abandoning,<div><b>- Google :</b><br />&emsp;+ Từ bỏ<br/><b>- Bing :</b><br />&emsp;+ Bỏ<br/><b>- MyMemory :</b><br />&emsp;+ Từ bỏ<br/></div>
+arbitration,<div><b>- Google :</b><br />&emsp;+ Trọng tài<br/><b>- Bing :</b><br />&emsp;+ Trọng tài<br/><b>- MyMemory :</b><br />&emsp;+ Xét định<br/></div>
+palette,<div><b>- Google :</b><br />&emsp;+ Bảng màu<br/><b>- Bing :</b><br />&emsp;+ Bảng<br/><b>- MyMemory :</b><br />&emsp;+ Bảng màu<br/></div>
+specialty,<div><b>- Google :</b><br />&emsp;+ Chuyên môn<br/><b>- Bing :</b><br />&emsp;+ Đặc biệt<br/><b>- MyMemory :</b><br />&emsp;+ Các sản phẩm đặc biệt<br/></div>
+craze,<div><b>- Google :</b><br />&emsp;+ Cơn sốt<br/><b>- MyMemory :</b><br />&emsp;+ Vạch ngấn của thùng đong<br/></div>
+disseminating,<div><b>- Google :</b><br />&emsp;+ Phổ biến<br/><b>- Bing :</b><br />&emsp;+ Phổ biến<br/><b>- MyMemory :</b><br />&emsp;+ Phổ biến<br/></div>
+sealed,<div><b>- Google :</b><br />&emsp;+ Niêm phong<br/><b>- Bing :</b><br />&emsp;+ Kín<br/><b>- MyMemory :</b><br />&emsp;+ Hàn<br/></div>
+court,<div><b>- Google :</b><br />&emsp;+ Tòa án<br/><b>- Bing :</b><br />&emsp;+ Sân<br/><b>- MyMemory :</b><br />&emsp;+ Tòa án, phiên tòa<br/></div>
+pulses,<div><b>- Google :</b><br />&emsp;+ Xung<br/><b>- Bing :</b><br />&emsp;+ Xung<br/><b>- MyMemory :</b><br />&emsp;+ Các xung<br/></div>
+senses,<div><b>- Google :</b><br />&emsp;+ Giác quan<br/><b>- MyMemory :</b><br />&emsp;+ Giác<br/></div>
+considerations,<div><b>- Google :</b><br />&emsp;+ Cân nhắc<br/><b>- Bing :</b><br />&emsp;+ Cân nhắc<br/></div>
+advancements,<div><b>- Google :</b><br />&emsp;+ Tiến bộ<br/><b>- Bing :</b><br />&emsp;+ Tiến bộ<br/><b>- MyMemory :</b><br />&emsp;+ Tạm ứng<br/></div>
+glow,<div><b>- Google :</b><br />&emsp;+ Ánh sáng<br/><b>- Bing :</b><br />&emsp;+ Chiếu sáng<br/><b>- MyMemory :</b><br />&emsp;+ Hừng sáng<br/></div>
+serviced,<div><b>- Google :</b><br />&emsp;+ Phục vụ<br/><b>- MyMemory :</b><br />&emsp;+ Phục vụ<br/></div>
+wires,<div><b>- Google :</b><br />&emsp;+ Dây điện<br/><b>- Bing :</b><br />&emsp;+ Dây<br/><b>- MyMemory :</b><br />&emsp;+ Dây điện<br/></div>
+standardization,<div><b>- Google :</b><br />&emsp;+ Tiêu chuẩn hóa<br/><b>- Bing :</b><br />&emsp;+ Tiêu chuẩn hóa<br/><b>- MyMemory :</b><br />&emsp;+ Tiêu chuẩn hóa<br/></div>
+autofeed,<div><b>- Google :</b><br />&emsp;+ Tự động<br/><b>- Bing :</b><br />&emsp;+ Nguồn cấp tự động<br/><b>- MyMemory :</b><br />&emsp;+ Tự động nạp<br/></div>
+predecessor,<div><b>- Google :</b><br />&emsp;+ Người tiền nhiệm<br/><b>- Bing :</b><br />&emsp;+ Người tiền nhiệm<br/><b>- MyMemory :</b><br />&emsp;+ Người tiền nhiệm<br/></div>
+alternating,<div><b>- Google :</b><br />&emsp;+ Xen kẽ<br/><b>- Bing :</b><br />&emsp;+ Xen<br/><b>- MyMemory :</b><br />&emsp;+ Xen kẽ<br/></div>
+descrip,<div><b>- Google :</b><br />&emsp;+ Mô tả<br/><b>- MyMemory :</b><br />&emsp;+ Mô tả<br/></div>
+approximation,<div><b>- Google :</b><br />&emsp;+ Xấp xỉ<br/><b>- Bing :</b><br />&emsp;+ Xấp xỉ<br/><b>- MyMemory :</b><br />&emsp;+ Ước chừng<br/></div>
+availability,<div><b>- Google :</b><br />&emsp;+ Khả dụng<br/><b>- Bing :</b><br />&emsp;+ Sẵn sàng<br/><b>- MyMemory :</b><br />&emsp;+ Tình trạng hàng hóa sẵn có<br/></div>
+teristics,<div><b>- Google :</b><br />&emsp;+ Teristic<br/><b>- MyMemory :</b><br />&emsp;+ Địa hình<br/></div>
+junction,<div><b>- Google :</b><br />&emsp;+ Giao lộ<br/><b>- MyMemory :</b><br />&emsp;+ Điện thế nối<br/></div>
+roughout,<div><b>- Google :</b><br />&emsp;+ Chạy ra ngoài<br/><b>- MyMemory :</b><br />&emsp;+ Sự gồ ghề<br/></div>
+concurrency,<div><b>- Google :</b><br />&emsp;+ Đồng thời<br/><b>- Bing :</b><br />&emsp;+ Đồng thời<br/><b>- MyMemory :</b><br />&emsp;+ Đồng tiền tệ<br/></div>
+microchip,<div><b>- Google :</b><br />&emsp;+ Vi mạch<br/><b>- MyMemory :</b><br />&emsp;+ Vi chíp<br/></div>
+erasure,<div><b>- Google :</b><br />&emsp;+ Xóa<br/><b>- MyMemory :</b><br />&emsp;+ Vết xóa<br/></div>
+inactivating,<div><b>- Google :</b><br />&emsp;+ Bất hoạt<br/><b>- Bing :</b><br />&emsp;+ Bất hoạt<br/><b>- MyMemory :</b><br />&emsp;+ Làm bất hoạt<br/></div>
+leaks,<div><b>- Google :</b><br />&emsp;+ Rò rỉ<br/><b>- Bing :</b><br />&emsp;+ Rò rỉ<br/><b>- MyMemory :</b><br />&emsp;+ Sự rò rỉ<br/></div>
+necessitate,<div><b>- Google :</b><br />&emsp;+ Cần thiết<br/><b>- Bing :</b><br />&emsp;+ Cần thiết<br/><b>- MyMemory :</b><br />&emsp;+ Cần thiết<br/></div>
+inhibit,<div><b>- Google :</b><br />&emsp;+ Ức chế<br/><b>- Bing :</b><br />&emsp;+ Ức chế<br/><b>- MyMemory :</b><br />&emsp;+ Ức chế<br/></div>
+mathematically,<div><b>- Google :</b><br />&emsp;+ Về mặt toán học<br/><b>- Bing :</b><br />&emsp;+ Toán học<br/><b>- MyMemory :</b><br />&emsp;+ Toán học<br/></div>
+prof,<div><b>- Google :</b><br />&emsp;+ Giáo sư<br/><b>- Bing :</b><br />&emsp;+ Giáo sư<br/><b>- MyMemory :</b><br />&emsp;+ Giáo sư<br/></div>
+retriggerable,<div><b>- Google :</b><br />&emsp;+ Có thể thu hồi được<br/><b>- MyMemory :</b><br />&emsp;+ Có thể kích hoạt lại<br/></div>
+improvements,<div><b>- Google :</b><br />&emsp;+ Cải tiến<br/><b>- Bing :</b><br />&emsp;+ Cải tiến<br/><b>- MyMemory :</b><br />&emsp;+ Cải tiến<br/></div>
+uninitial,<div><b>- Google :</b><br />&emsp;+ Unininitial<br/><b>- Bing :</b><br />&emsp;+ Không quen thuộc<br/><b>- MyMemory :</b><br />&emsp;+ Không khởi đầu<br/></div>
+imposes,<div><b>- Google :</b><br />&emsp;+ Áp đặt<br/><b>- Bing :</b><br />&emsp;+ Áp đặt<br/><b>- MyMemory :</b><br />&emsp;+ Áp đặt<br/></div>
+rectangular,<div><b>- Google :</b><br />&emsp;+ Hình hộp chữ nhật<br/><b>- Bing :</b><br />&emsp;+ Hình chữ nhật<br/><b>- MyMemory :</b><br />&emsp;+ Hình chữ nhật<br/></div>
+grammar,<div><b>- Google :</b><br />&emsp;+ Ngữ pháp<br/><b>- Bing :</b><br />&emsp;+ Ngữ pháp<br/><b>- MyMemory :</b><br />&emsp;+ Văn phạm<br/></div>
+ddrs,<div><b>- Google :</b><br />&emsp;+ Ddr<br/><b>- MyMemory :</b><br />&emsp;+ © ddrs.<br/></div>
+prerequisite,<div><b>- Google :</b><br />&emsp;+ Điều kiện tiên quyết<br/><b>- Bing :</b><br />&emsp;+ Điều kiện tiên quyết<br/><b>- MyMemory :</b><br />&emsp;+ Điều kiện tiên quyết<br/></div>
+architectural,<div><b>- Google :</b><br />&emsp;+ Kiến trúc<br/><b>- Bing :</b><br />&emsp;+ Kiến trúc<br/><b>- MyMemory :</b><br />&emsp;+ Kiến trúc<br/></div>
+subsidiary,<div><b>- Google :</b><br />&emsp;+ Công ty con<br/><b>- Bing :</b><br />&emsp;+ Chi nhánh<br/><b>- MyMemory :</b><br />&emsp;+ Thứ yếu<br/></div>
+niche,<div><b>- Google :</b><br />&emsp;+ Thích hợp<br/><b>- Bing :</b><br />&emsp;+ Thích hợp<br/><b>- MyMemory :</b><br />&emsp;+ Ổ sinh thái<br/></div>
+inactivated,<div><b>- Google :</b><br />&emsp;+ Bất hoạt<br/><b>- Bing :</b><br />&emsp;+ Bất hoạt<br/><b>- MyMemory :</b><br />&emsp;+ Bị vô hiệu hóa<br/></div>
+loadable,<div><b>- Google :</b><br />&emsp;+ Có thể tải<br/><b>- Bing :</b><br />&emsp;+ Có thể tải được<br/><b>- MyMemory :</b><br />&emsp;+ Có thể chịu tải<br/></div>
+locatable,<div><b>- Google :</b><br />&emsp;+ Định vị<br/><b>- Bing :</b><br />&emsp;+ Có thể định vị<br/><b>- MyMemory :</b><br />&emsp;+ Có thể xác định vị trí<br/></div>
+slots,<div><b>- Google :</b><br />&emsp;+ Khe cắm<br/><b>- Bing :</b><br />&emsp;+ Khe<br/><b>- MyMemory :</b><br />&emsp;+ Chỗ<br/></div>
+puting,<div><b>- Google :</b><br />&emsp;+ Đặt<br/><b>- Bing :</b><br />&emsp;+ Núm vú<br/><b>- MyMemory :</b><br />&emsp;+ Sự đặt<br/></div>
+nil,<div><b>- Google :</b><br />&emsp;+ Không<br/><b>- Bing :</b><br />&emsp;+ Không<br/><b>- MyMemory :</b><br />&emsp;+ Không<br/></div>
+declare,<div><b>- Google :</b><br />&emsp;+ Tuyên bố<br/><b>- Bing :</b><br />&emsp;+ Tuyên bố<br/><b>- MyMemory :</b><br />&emsp;+ Tuyên bố, công bố<br/></div>
+parasitic,<div><b>- Google :</b><br />&emsp;+ Ký sinh trùng<br/><b>- Bing :</b><br />&emsp;+ Ký sinh trùng<br/><b>- MyMemory :</b><br />&emsp;+ Ký sinh<br/></div>
+signalling,<div><b>- Google :</b><br />&emsp;+ Báo hiệu<br/><b>- Bing :</b><br />&emsp;+ Tín hiệu<br/><b>- MyMemory :</b><br />&emsp;+ Phát tín hiệu<br/></div>
+geometry,<div><b>- Google :</b><br />&emsp;+ Hình học<br/><b>- Bing :</b><br />&emsp;+ Hình học<br/><b>- MyMemory :</b><br />&emsp;+ Hình học<br/></div>
+transistors,<div><b>- Google :</b><br />&emsp;+ Linh kiện bán dẫn<br/><b>- Bing :</b><br />&emsp;+ Bóng bán dẫn<br/><b>- MyMemory :</b><br />&emsp;+ Linh kiện bán dẫn<br/></div>
+multimedia,<div><b>- Google :</b><br />&emsp;+ Đa phương tiện<br/><b>- Bing :</b><br />&emsp;+ Đa phương tiện<br/><b>- MyMemory :</b><br />&emsp;+ Đa phương tiện<br/></div>
+mainstream,<div><b>- Google :</b><br />&emsp;+ Xu hướng<br/><b>- Bing :</b><br />&emsp;+ Chính<br/><b>- MyMemory :</b><br />&emsp;+ Xu hướng<br/></div>
+erentially,<div><b>- Google :</b><br />&emsp;+ Nghiêm khắc<br/><b>- MyMemory :</b><br />&emsp;+ Theo chiều dọc, theo chiều ngang<br/></div>
+appliance,<div><b>- Google :</b><br />&emsp;+ Thiết bị<br/><b>- Bing :</b><br />&emsp;+ Thiết bị<br/><b>- MyMemory :</b><br />&emsp;+ Thiết bị gia dụng<br/></div>
+memories,<div><b>- Google :</b><br />&emsp;+ Ký ức<br/><b>- Bing :</b><br />&emsp;+ Kỷ niệm<br/><b>- MyMemory :</b><br />&emsp;+ Kỉ niệm<br/></div>
+spec,<div><b>- Google :</b><br />&emsp;+ Thông số kỹ thuật<br/><b>- MyMemory :</b><br />&emsp;+ Đầu cơ<br/></div>
+vectored,<div><b>- Google :</b><br />&emsp;+ Vectơ<br/><b>- Bing :</b><br />&emsp;+ Vectơ<br/><b>- MyMemory :</b><br />&emsp;+ Đã lưu chiểu<br/></div>
+slanting,<div><b>- Google :</b><br />&emsp;+ Xiên<br/><b>- Bing :</b><br />&emsp;+ Chéo<br/><b>- MyMemory :</b><br />&emsp;+ Nghiêng<br/></div>
+avatar,<div><b>- Google :</b><br />&emsp;+ Hình đại diện<br/><b>- MyMemory :</b><br />&emsp;+ Hiện thân<br/></div>
+multipro,<div><b>- Google :</b><br />&emsp;+ Đa<br/><b>- MyMemory :</b><br />&emsp;+ Đa bội<br/></div>
+immed,<div><b>- Google :</b><br />&emsp;+ Ngay lập tức<br/><b>- MyMemory :</b><br />&emsp;+ Chụp ảnh<br/></div>
+calculators,<div><b>- Google :</b><br />&emsp;+ Máy tính<br/><b>- Bing :</b><br />&emsp;+ Máy tính<br/><b>- MyMemory :</b><br />&emsp;+ Máy tính<br/></div>
+demerits,<div><b>- Google :</b><br />&emsp;+ Tuyệt vời<br/><b>- MyMemory :</b><br />&emsp;+ Sự phá sản<br/></div>
+inconsistencies,<div><b>- Google :</b><br />&emsp;+ Sự không nhất quán<br/><b>- Bing :</b><br />&emsp;+ Mâu thuẫn<br/><b>- MyMemory :</b><br />&emsp;+ Sự không nhất quán<br/></div>
+sync,<div><b>- Google :</b><br />&emsp;+ Đồng bộ hóa<br/><b>- MyMemory :</b><br />&emsp;+ Đồng bộ<br/></div>
+electromagnets,<div><b>- Google :</b><br />&emsp;+ Điện độc<br/><b>- Bing :</b><br />&emsp;+ Nam châm điện<br/><b>- MyMemory :</b><br />&emsp;+ Nam châm điện<br/></div>
+prescaled,<div><b>- Google :</b><br />&emsp;+ Nói trước<br/><b>- Bing :</b><br />&emsp;+ Được đánh giá sẵn<br/><b>- MyMemory :</b><br />&emsp;+ Được định trước<br/></div>
+declares,<div><b>- Google :</b><br />&emsp;+ Tuyên bố<br/><b>- Bing :</b><br />&emsp;+ Tuyên bố<br/><b>- MyMemory :</b><br />&emsp;+ Tuyên bố<br/></div>
+cycle,<div><b>- Google :</b><br />&emsp;+ Xe đạp<br/><b>- Bing :</b><br />&emsp;+ Xe đạp<br/><b>- MyMemory :</b><br />&emsp;+ Chu kỳ, chu trình<br/></div>
+supplemented,<div><b>- Google :</b><br />&emsp;+ Bổ sung<br/><b>- Bing :</b><br />&emsp;+ Bổ sung<br/><b>- MyMemory :</b><br />&emsp;+ Được bổ sung<br/></div>
+organizing,<div><b>- Google :</b><br />&emsp;+ Tổ chức<br/><b>- Bing :</b><br />&emsp;+ Tổ chức<br/><b>- MyMemory :</b><br />&emsp;+ Tổ chức<br/></div>
+monochrome,<div><b>- Google :</b><br />&emsp;+ Đơn sắc<br/><b>- Bing :</b><br />&emsp;+ Đơn sắc<br/><b>- MyMemory :</b><br />&emsp;+ Đơn sắc<br/></div>
+capacitance,<div><b>- Google :</b><br />&emsp;+ Điện dung<br/><b>- Bing :</b><br />&emsp;+ Điện dung<br/><b>- MyMemory :</b><br />&emsp;+ Điện dung<br/></div>
+versatility,<div><b>- Google :</b><br />&emsp;+ Tính linh hoạt<br/><b>- Bing :</b><br />&emsp;+ Linh hoạt<br/><b>- MyMemory :</b><br />&emsp;+ Tính linh hoạt<br/></div>
+clockwise,<div><b>- Google :</b><br />&emsp;+ Theo chiều kim đồng hồ<br/><b>- MyMemory :</b><br />&emsp;+ Theo chiều kim đồng hồ<br/></div>
+strobe,<div><b>- Google :</b><br />&emsp;+ Nhấp nháy<br/><b>- MyMemory :</b><br />&emsp;+ Ánh sáng nhấp nháy<br/></div>
+advertising,<div><b>- Google :</b><br />&emsp;+ Quảng cáo<br/><b>- Bing :</b><br />&emsp;+ Quảng cáo<br/><b>- MyMemory :</b><br />&emsp;+ Quảng cáo, nghề quảng cáo<br/></div>
+optics,<div><b>- Google :</b><br />&emsp;+ Quang học<br/><b>- Bing :</b><br />&emsp;+ Quang học<br/><b>- MyMemory :</b><br />&emsp;+ Quang học<br/></div>
+organizer,<div><b>- Google :</b><br />&emsp;+ Người tổ chức<br/><b>- Bing :</b><br />&emsp;+ Tổ chức<br/><b>- MyMemory :</b><br />&emsp;+ Người tổ chức<br/></div>
+restin,<div><b>- Google :</b><br />&emsp;+ Phần còn lại trong<br/><b>- Bing :</b><br />&emsp;+ Vẫn<br/><b>- MyMemory :</b><br />&emsp;+ Phần còn lại<br/></div>
+doubts,<div><b>- Google :</b><br />&emsp;+ Nghi ngờ<br/><b>- Bing :</b><br />&emsp;+ Nghi ngờ<br/><b>- MyMemory :</b><br />&emsp;+ Lưỡng lự?<br/></div>
+dated,<div><b>- Google :</b><br />&emsp;+ Ngày tháng<br/><b>- Bing :</b><br />&emsp;+ Ngày<br/><b>- MyMemory :</b><br />&emsp;+ Quá đát<br/></div>
+exibility,<div><b>- Google :</b><br />&emsp;+ Sự linh hoạt<br/><b>- Bing :</b><br />&emsp;+ Khả năng tồn tại<br/><b>- MyMemory :</b><br />&emsp;+ Tính khả thi<br/></div>
+lectures,<div><b>- Google :</b><br />&emsp;+ Bài giảng<br/><b>- Bing :</b><br />&emsp;+ Bài giảng<br/><b>- MyMemory :</b><br />&emsp;+ Bài giảng<br/></div>
+catered,<div><b>- Google :</b><br />&emsp;+ Phục vụ<br/><b>- Bing :</b><br />&emsp;+ Phục vụ<br/><b>- MyMemory :</b><br />&emsp;+ Được phục vụ<br/></div>
+rated,<div><b>- Google :</b><br />&emsp;+ Được đánh giá<br/><b>- Bing :</b><br />&emsp;+ Xếp hạng<br/><b>- MyMemory :</b><br />&emsp;+ Bình chọn<br/></div>
+plication,<div><b>- Google :</b><br />&emsp;+ Tính cách<br/><b>- Bing :</b><br />&emsp;+ Nhân<br/><b>- MyMemory :</b><br />&emsp;+ Tạo nêp gấp<br/></div>
+optimizations,<div><b>- Google :</b><br />&emsp;+ Tối ưu hóa<br/><b>- Bing :</b><br />&emsp;+ Tối ưu hóa<br/><b>- MyMemory :</b><br />&emsp;+ Tối ưu hóa<br/></div>
+precision,<div><b>- Google :</b><br />&emsp;+ Độ chính xác<br/><b>- Bing :</b><br />&emsp;+ Chính xác<br/><b>- MyMemory :</b><br />&emsp;+ Sự chính xác<br/></div>
+radius,<div><b>- Google :</b><br />&emsp;+ Bán kính<br/><b>- Bing :</b><br />&emsp;+ Bán kính<br/><b>- MyMemory :</b><br />&emsp;+ Bán kính<br/></div>
+dozens,<div><b>- Google :</b><br />&emsp;+ Hàng chục<br/><b>- Bing :</b><br />&emsp;+ Hàng chục<br/><b>- MyMemory :</b><br />&emsp;+ Chục<br/></div>
+compromises,<div><b>- Google :</b><br />&emsp;+ Thỏa hiệp<br/><b>- Bing :</b><br />&emsp;+ Thỏa hiệp<br/><b>- MyMemory :</b><br />&emsp;+ Thỏa hiệp<br/></div>
+reduction,<div><b>- Google :</b><br />&emsp;+ Sự giảm bớt<br/><b>- Bing :</b><br />&emsp;+ Sự hạ giá<br/><b>- MyMemory :</b><br />&emsp;+ Giảm giá<br/></div>
+semantically,<div><b>- Google :</b><br />&emsp;+ Về mặt ngữ nghĩa<br/><b>- Bing :</b><br />&emsp;+ Ngữ nghĩa<br/><b>- MyMemory :</b><br />&emsp;+ Theo ngữ nghĩa<br/></div>
+multiprocessing,<div><b>- Google :</b><br />&emsp;+ Đa xử lý<br/><b>- Bing :</b><br />&emsp;+ Đa xử lý<br/><b>- MyMemory :</b><br />&emsp;+ Sự đa xử lý (máy điện toán)<br/></div>
+programmable,<div><b>- Google :</b><br />&emsp;+ Có thể lập trình<br/><b>- Bing :</b><br />&emsp;+ Có thể lập trình<br/><b>- MyMemory :</b><br />&emsp;+ Có thể lập trình<br/></div>
+quotes,<div><b>- Google :</b><br />&emsp;+ Trích dẫn<br/><b>- MyMemory :</b><br />&emsp;+ Các trích dẫn<br/></div>
+stabilized,<div><b>- Google :</b><br />&emsp;+ Ổn định<br/><b>- Bing :</b><br />&emsp;+ Ổn định<br/><b>- MyMemory :</b><br />&emsp;+ Được ổn định<br/></div>
+claim,<div><b>- Google :</b><br />&emsp;+ Yêu cầu<br/><b>- Bing :</b><br />&emsp;+ Đòi<br/><b>- MyMemory :</b><br />&emsp;+ Yêu sách<br/></div>
+intersegment,<div><b>- Google :</b><br />&emsp;+ Sự xen kẽ<br/><b>- MyMemory :</b><br />&emsp;+ Đoạn giao nhau<br/></div>
+blanks,<div><b>- Google :</b><br />&emsp;+ Khoảng trống<br/><b>- Bing :</b><br />&emsp;+ Khoảng trống<br/><b>- MyMemory :</b><br />&emsp;+ Chẳng có viên đạn nào<br/></div>
+endeavor,<div><b>- Google :</b><br />&emsp;+ Nỗ lực<br/><b>- Bing :</b><br />&emsp;+ Nỗ lực<br/><b>- MyMemory :</b><br />&emsp;+ Nỗ lực<br/></div>
+favor,<div><b>- Google :</b><br />&emsp;+ Ủng hộ<br/><b>- Bing :</b><br />&emsp;+ Ưu tiên<br/><b>- MyMemory :</b><br />&emsp;+ Chiếu cố?<br/></div>
+clarify,<div><b>- Google :</b><br />&emsp;+ Làm rõ<br/><b>- Bing :</b><br />&emsp;+ Làm rõ<br/><b>- MyMemory :</b><br />&emsp;+ Làm rõ<br/></div>
+contracted,<div><b>- Google :</b><br />&emsp;+ Ký hợp đồng<br/><b>- Bing :</b><br />&emsp;+ Đã ký hợp đồng<br/><b>- MyMemory :</b><br />&emsp;+ Đã mắc phải {0}<br/></div>
+duo,<div><b>- Google :</b><br />&emsp;+ Cặp đôi<br/><b>- Bing :</b><br />&emsp;+ Bộ đôi<br/><b>- MyMemory :</b><br />&emsp;+ Bộ đôi<br/></div>
+manageable,<div><b>- Google :</b><br />&emsp;+ Có thể quản lý được<br/><b>- Bing :</b><br />&emsp;+ Quản lý<br/><b>- MyMemory :</b><br />&emsp;+ Có thể quản lý<br/></div>
+fun,<div><b>- Google :</b><br />&emsp;+ Niềm vui<br/><b>- Bing :</b><br />&emsp;+ Vui vẻ<br/><b>- MyMemory :</b><br />&emsp;+ Vui đùa, vui thích; hài hước<br/></div>
+digress,<div><b>- Google :</b><br />&emsp;+ Lạc đề<br/><b>- MyMemory :</b><br />&emsp;+ Người đào bới<br/></div>
+numb,<div><b>- Google :</b><br />&emsp;+ Tê<br/><b>- Bing :</b><br />&emsp;+ Tê<br/><b>- MyMemory :</b><br />&emsp;+ Tê cóng<br/></div>
+coil,<div><b>- Google :</b><br />&emsp;+ Xôn xao<br/><b>- Bing :</b><br />&emsp;+ Cuộn<br/><b>- MyMemory :</b><br />&emsp;+ Quấn<br/></div>
+initializa,<div><b>- Google :</b><br />&emsp;+ Khởi tạo<br/><b>- MyMemory :</b><br />&emsp;+ Ban đầu, khởi đầu, khởi đầu<br/></div>
+uninterruptedly,<div><b>- Google :</b><br />&emsp;+ Không ngừng nghỉ<br/><b>- Bing :</b><br />&emsp;+ Liên tục<br/><b>- MyMemory :</b><br />&emsp;+ Không gián đoạn<br/></div>
+concurrently,<div><b>- Google :</b><br />&emsp;+ Kiêm nhiệm<br/><b>- Bing :</b><br />&emsp;+ Đồng thời<br/><b>- MyMemory :</b><br />&emsp;+ Kiêm nhiệm<br/></div>
+vacant,<div><b>- Google :</b><br />&emsp;+ Trống<br/><b>- Bing :</b><br />&emsp;+ Trống<br/><b>- MyMemory :</b><br />&emsp;+ Bỏ trống<br/></div>
+negate,<div><b>- Google :</b><br />&emsp;+ Phủ nhận<br/><b>- Bing :</b><br />&emsp;+ Phủ nhận<br/><b>- MyMemory :</b><br />&emsp;+ Phủ nhận<br/></div>
+fistp,<div><b>- Google :</b><br />&emsp;+ Nắm đấm<br/><b>- Bing :</b><br />&emsp;+ Nắm đấm<br/><b>- MyMemory :</b><br />&emsp;+ Nắm đấm<br/></div>
+subsystems,<div><b>- Google :</b><br />&emsp;+ Hệ thống con<br/><b>- Bing :</b><br />&emsp;+ Hệ thống con<br/><b>- MyMemory :</b><br />&emsp;+ Hệ thống phụ<br/></div>
+possess,<div><b>- Google :</b><br />&emsp;+ Sở hữu<br/><b>- Bing :</b><br />&emsp;+ Có<br/><b>- MyMemory :</b><br />&emsp;+ Có, chiếm hữu<br/></div>
+dormant,<div><b>- Google :</b><br />&emsp;+ Nằm im<br/><b>- MyMemory :</b><br />&emsp;+ Trạng thái ngủ, thụ động<br/></div>
+deciding,<div><b>- Google :</b><br />&emsp;+ Quyết định<br/><b>- Bing :</b><br />&emsp;+ Quyết định<br/><b>- MyMemory :</b><br />&emsp;+ Quyết định<br/></div>
+burden,<div><b>- Google :</b><br />&emsp;+ Gánh nặng<br/><b>- Bing :</b><br />&emsp;+ Gánh nặng<br/><b>- MyMemory :</b><br />&emsp;+ Trọng tải<br/></div>
+conjunction,<div><b>- Google :</b><br />&emsp;+ Liên từ<br/><b>- Bing :</b><br />&emsp;+ Liên từ<br/><b>- MyMemory :</b><br />&emsp;+ Sự liên hợp;<br/></div>
+rupt,<div><b>- Google :</b><br />&emsp;+ Vỡ ra<br/><b>- Bing :</b><br />&emsp;+ Rách<br/><b>- MyMemory :</b><br />&emsp;+ Bị vỡ, bị vỡ<br/></div>
+shuttling,<div><b>- Google :</b><br />&emsp;+ Con thoi<br/><b>- MyMemory :</b><br />&emsp;+ Máy đóng gói<br/></div>
+permitting,<div><b>- Google :</b><br />&emsp;+ Cho phép<br/><b>- Bing :</b><br />&emsp;+ Cho phép<br/><b>- MyMemory :</b><br />&emsp;+ Sự cho phép<br/></div>
+introduces,<div><b>- Google :</b><br />&emsp;+ Giới thiệu<br/><b>- Bing :</b><br />&emsp;+ Giới thiệu<br/><b>- MyMemory :</b><br />&emsp;+ Giới thiệu<br/></div>
+necessitates,<div><b>- Google :</b><br />&emsp;+ Cần thiết<br/><b>- Bing :</b><br />&emsp;+ Đòi<br/><b>- MyMemory :</b><br />&emsp;+ Những thứ cần thiết<br/></div>
+quency,<div><b>- Google :</b><br />&emsp;+ Qucen<br/><b>- MyMemory :</b><br />&emsp;+ .<br/></div>
+scienti,<div><b>- Google :</b><br />&emsp;+ Khoa học<br/><b>- MyMemory :</b><br />&emsp;+ Thiền tông<br/></div>
+optimality,<div><b>- Google :</b><br />&emsp;+ Sự tối ưu<br/><b>- Bing :</b><br />&emsp;+ Độ tối ưu<br/><b>- MyMemory :</b><br />&emsp;+ Tối ưu hóa<br/></div>
+eases,<div><b>- Google :</b><br />&emsp;+ Giảm bớt<br/><b>- MyMemory :</b><br />&emsp;+ Giúp giảm bớt<br/></div>
+overcame,<div><b>- Google :</b><br />&emsp;+ Đã vượt qua<br/><b>- Bing :</b><br />&emsp;+ Vượt qua<br/><b>- MyMemory :</b><br />&emsp;+ Vượt qua, vượt qua<br/></div>
+multiplicands,<div><b>- Google :</b><br />&emsp;+ Bultiplicands<br/><b>- MyMemory :</b><br />&emsp;+ Bội số<br/></div>
+interconnecting,<div><b>- Google :</b><br />&emsp;+ Kết nối<br/><b>- Bing :</b><br />&emsp;+ Kết nối<br/><b>- MyMemory :</b><br />&emsp;+ Liên thông?<br/></div>
+cussing,<div><b>- Google :</b><br />&emsp;+ Chửi rủa<br/><b>- MyMemory :</b><br />&emsp;+ Chửi bới<br/></div>
+adhered,<div><b>- Google :</b><br />&emsp;+ Tuân thủ<br/><b>- Bing :</b><br />&emsp;+ Tôn trọng<br/><b>- MyMemory :</b><br />&emsp;+ Dính chặt vào nhau<br/></div>
+contributions,<div><b>- Google :</b><br />&emsp;+ Đóng góp<br/><b>- Bing :</b><br />&emsp;+ Đóng góp<br/><b>- MyMemory :</b><br />&emsp;+ Đánh giá<br/></div>
+male,<div><b>- Google :</b><br />&emsp;+ Nam<br/><b>- Bing :</b><br />&emsp;+ Đực<br/><b>- MyMemory :</b><br />&emsp;+ Nam<br/></div>
+plotters,<div><b>- Google :</b><br />&emsp;+ Người vẽ đồ họa<br/><b>- MyMemory :</b><br />&emsp;+ Máy vẽ đồ thị<br/></div>
+conferences,<div><b>- Google :</b><br />&emsp;+ Hội nghị<br/><b>- Bing :</b><br />&emsp;+ Hội nghị<br/><b>- MyMemory :</b><br />&emsp;+ Hội nghị<br/></div>
+ponder,<div><b>- Google :</b><br />&emsp;+ Suy ngẫm<br/><b>- Bing :</b><br />&emsp;+ Suy nghĩ<br/><b>- MyMemory :</b><br />&emsp;+ Suy ngẫm<br/></div>
+cube,<div><b>- Google :</b><br />&emsp;+ Khối lập phương<br/><b>- Bing :</b><br />&emsp;+ Hình lập phương<br/><b>- MyMemory :</b><br />&emsp;+ Miếng hình khối<br/></div>
+instated,<div><b>- Google :</b><br />&emsp;+ Đã ngắm<br/><b>- MyMemory :</b><br />&emsp;+ Được kích thích<br/></div>
+linkers,<div><b>- Google :</b><br />&emsp;+ Người liên kết<br/><b>- Bing :</b><br />&emsp;+ Nối kết<br/><b>- MyMemory :</b><br />&emsp;+ Trình liên kết<br/></div>
+resolver,<div><b>- Google :</b><br />&emsp;+ Người giải quyết<br/><b>- Bing :</b><br />&emsp;+ Giải quyết<br/></div>
+embarking,<div><b>- Google :</b><br />&emsp;+ Bắt đầu<br/><b>- Bing :</b><br />&emsp;+ Bắt tay<br/><b>- MyMemory :</b><br />&emsp;+ Bắt đầu khởi hành<br/></div>
+repetition,<div><b>- Google :</b><br />&emsp;+ Sự lặp lại<br/><b>- Bing :</b><br />&emsp;+ Lặp lại<br/><b>- MyMemory :</b><br />&emsp;+ Lặp lại<br/></div>
+imperative,<div><b>- Google :</b><br />&emsp;+ Bắt buộc<br/><b>- Bing :</b><br />&emsp;+ Bắt buộc<br/><b>- MyMemory :</b><br />&emsp;+ Yêu cầu bắt buộc:<br/></div>
+accumulator,<div><b>- Google :</b><br />&emsp;+ Người tích lũy<br/><b>- Bing :</b><br />&emsp;+ Bình điện<br/><b>- MyMemory :</b><br />&emsp;+ Bộ nhớ<br/></div>
+deactivates,<div><b>- Google :</b><br />&emsp;+ Vô hiệu hóa<br/><b>- Bing :</b><br />&emsp;+ Hủy kích hoạt<br/><b>- MyMemory :</b><br />&emsp;+ Vô hiệu hóa<br/></div>
+verts,<div><b>- Google :</b><br />&emsp;+ Chỉ số<br/><b>- Bing :</b><br />&emsp;+ Xanh<br/><b>- MyMemory :</b><br />&emsp;+ Điểm đỉnh<br/></div>
+suited,<div><b>- Google :</b><br />&emsp;+ Phù hợp<br/><b>- Bing :</b><br />&emsp;+ Phù hợp với<br/><b>- MyMemory :</b><br />&emsp;+ Thích hợp với<br/></div>
+equalize,<div><b>- Google :</b><br />&emsp;+ Cân bằng<br/><b>- Bing :</b><br />&emsp;+ Cân bằng<br/><b>- MyMemory :</b><br />&emsp;+ Làm thăng bằng<br/></div>
+manufacturing,<div><b>- Google :</b><br />&emsp;+ Chế tạo<br/><b>- Bing :</b><br />&emsp;+ Sản xuất<br/><b>- MyMemory :</b><br />&emsp;+ Sản xuất, chế tạo<br/></div>
+amplitude,<div><b>- Google :</b><br />&emsp;+ Biên độ<br/><b>- Bing :</b><br />&emsp;+ Biên độ<br/><b>- MyMemory :</b><br />&emsp;+ Biên độ<br/></div>
+foldback,<div><b>- Google :</b><br />&emsp;+ Gấp lại<br/><b>- MyMemory :</b><br />&emsp;+ Sự gấp lại<br/></div>
+magnet,<div><b>- Google :</b><br />&emsp;+ Nam châm<br/><b>- Bing :</b><br />&emsp;+ Nam châm<br/><b>- MyMemory :</b><br />&emsp;+ Nam châm<br/></div>
+accelerates,<div><b>- Google :</b><br />&emsp;+ Tăng tốc<br/><b>- Bing :</b><br />&emsp;+ Tăng tốc<br/><b>- MyMemory :</b><br />&emsp;+ Tăng tốc<br/></div>
+worthwhile,<div><b>- Google :</b><br />&emsp;+ Đáng giá<br/><b>- Bing :</b><br />&emsp;+ Đáng<br/><b>- MyMemory :</b><br />&emsp;+ Đáng giá<br/></div>
+theoretically,<div><b>- Google :</b><br />&emsp;+ Về mặt lý thuyết<br/><b>- Bing :</b><br />&emsp;+ Lý thuyết<br/><b>- MyMemory :</b><br />&emsp;+ Lý thuyết là vậy.<br/></div>
+dumb,<div><b>- Google :</b><br />&emsp;+ Câm<br/><b>- Bing :</b><br />&emsp;+ Câm<br/><b>- MyMemory :</b><br />&emsp;+ Đần độn!<br/></div>
+contention,<div><b>- Google :</b><br />&emsp;+ Sự tranh cãi<br/><b>- Bing :</b><br />&emsp;+ Tranh chấp<br/><b>- MyMemory :</b><br />&emsp;+ Tới contention!<br/></div>
+contemplating,<div><b>- Google :</b><br />&emsp;+ Suy ngẫm<br/><b>- MyMemory :</b><br />&emsp;+ Đang suy ngẫm<br/></div>
+probability,<div><b>- Google :</b><br />&emsp;+ Xác suất<br/><b>- Bing :</b><br />&emsp;+ Xác suất<br/><b>- MyMemory :</b><br />&emsp;+ Xác suất<br/></div>
+marketed,<div><b>- Google :</b><br />&emsp;+ Thị trường<br/><b>- Bing :</b><br />&emsp;+ Bán<br/><b>- MyMemory :</b><br />&emsp;+ Tiếp thị<br/></div>
+heat,<div><b>- Google :</b><br />&emsp;+ Nhiệt<br/><b>- Bing :</b><br />&emsp;+ Nhiệt<br/><b>- MyMemory :</b><br />&emsp;+ Hơi nóng, sức nóng<br/></div>
+detailing,<div><b>- Google :</b><br />&emsp;+ Chi tiết<br/><b>- Bing :</b><br />&emsp;+ Chi tiết<br/><b>- MyMemory :</b><br />&emsp;+ Trang điểm.<br/></div>
+remained,<div><b>- Google :</b><br />&emsp;+ Vẫn<br/><b>- Bing :</b><br />&emsp;+ Vẫn<br/><b>- MyMemory :</b><br />&emsp;+ Vẫn<br/></div>
+erence,<div><b>- Google :</b><br />&emsp;+ Eren<br/><b>- Bing :</b><br />&emsp;+ Sai lầm<br/><b>- MyMemory :</b><br />&emsp;+ Sự xói mòn<br/></div>
+elapse,<div><b>- Google :</b><br />&emsp;+ Trôi mau<br/><b>- Bing :</b><br />&emsp;+ Trôi qua<br/><b>- MyMemory :</b><br />&emsp;+ Thời gian trôi qua<br/></div>
+spanning,<div><b>- Google :</b><br />&emsp;+ Trải dài<br/><b>- MyMemory :</b><br />&emsp;+ Trải dài<br/></div>
+masters,<div><b>- Google :</b><br />&emsp;+ Thạc sĩ<br/><b>- Bing :</b><br />&emsp;+ Thạc sĩ<br/><b>- MyMemory :</b><br />&emsp;+ Tam vị sư thúc! nhất hàng!<br/></div>
+pushd,<div><b>- Google :</b><br />&emsp;+ Đẩy<br/><b>- Bing :</b><br />&emsp;+ Đẩy<br/><b>- MyMemory :</b><br />&emsp;+ Đẩy<br/></div>
+rotations,<div><b>- Google :</b><br />&emsp;+ Vòng quay<br/><b>- Bing :</b><br />&emsp;+ Xoay vòng<br/><b>- MyMemory :</b><br />&emsp;+ Luân phiên<br/></div>
+elaborated,<div><b>- Google :</b><br />&emsp;+ Xây dựng<br/><b>- Bing :</b><br />&emsp;+ Xây dựng<br/><b>- MyMemory :</b><br />&emsp;+ Được xây dựng công phu<br/></div>
+notated,<div><b>- Google :</b><br />&emsp;+ Ghi chú<br/><b>- Bing :</b><br />&emsp;+ Được ghi chú<br/><b>- MyMemory :</b><br />&emsp;+ Ký hiệu<br/></div>
+embarked,<div><b>- Google :</b><br />&emsp;+ Bắt đầu<br/><b>- Bing :</b><br />&emsp;+ Bắt tay<br/><b>- MyMemory :</b><br />&emsp;+ Bắt tay vào<br/></div>
+screens,<div><b>- Google :</b><br />&emsp;+ Màn hình<br/><b>- Bing :</b><br />&emsp;+ Màn hình<br/><b>- MyMemory :</b><br />&emsp;+ Quá lâu rồi.<br/></div>
+clones,<div><b>- Google :</b><br />&emsp;+ Nhân bản<br/><b>- Bing :</b><br />&emsp;+ Nhái<br/><b>- MyMemory :</b><br />&emsp;+ Klum<br/></div>
+submerged,<div><b>- Google :</b><br />&emsp;+ Ngập nước<br/><b>- Bing :</b><br />&emsp;+ Ngập nước<br/><b>- MyMemory :</b><br />&emsp;+ Chìm<br/></div>
+span,<div><b>- Google :</b><br />&emsp;+ Nhịp<br/><b>- Bing :</b><br />&emsp;+ Nhịp<br/></div>
+wards,<div><b>- Google :</b><br />&emsp;+ Phường<br/><b>- Bing :</b><br />&emsp;+ Phường<br/><b>- MyMemory :</b><br />&emsp;+ Phường/xã<br/></div>
+rail,<div><b>- Google :</b><br />&emsp;+ Đường sắt<br/><b>- Bing :</b><br />&emsp;+ Lan can<br/><b>- MyMemory :</b><br />&emsp;+ Đường ray<br/></div>
+upgrading,<div><b>- Google :</b><br />&emsp;+ Nâng cấp<br/><b>- Bing :</b><br />&emsp;+ Nâng cấp<br/><b>- MyMemory :</b><br />&emsp;+ Việc đổi mới kỹ thuật công nghệ<br/></div>
+theses,<div><b>- Google :</b><br />&emsp;+ Luận văn<br/><b>- Bing :</b><br />&emsp;+ Luận án<br/><b>- MyMemory :</b><br />&emsp;+ Đồ án tốt nghiệp<br/></div>
+stalled,<div><b>- Google :</b><br />&emsp;+ Bị đình trệ<br/><b>- Bing :</b><br />&emsp;+ Bị đình trệ<br/><b>- MyMemory :</b><br />&emsp;+ Bá» ngá»«ng cháº¡y<br/></div>
+usable,<div><b>- Google :</b><br />&emsp;+ Có thể sử dụng<br/><b>- Bing :</b><br />&emsp;+ Có thể sử dụng được<br/><b>- MyMemory :</b><br />&emsp;+ Sử dụng được<br/></div>
+fetches,<div><b>- Google :</b><br />&emsp;+ Tìm nạp<br/><b>- MyMemory :</b><br />&emsp;+ Tìm nạp<br/></div>
+risking,<div><b>- Google :</b><br />&emsp;+ Rủi ro<br/><b>- Bing :</b><br />&emsp;+ Mạo hiểm<br/><b>- MyMemory :</b><br />&emsp;+ Mạo hiểm<br/></div>
+microprocessor,<div><b>- Google :</b><br />&emsp;+ Bộ vi xử lý<br/><b>- Bing :</b><br />&emsp;+ Bộ vi xử lý<br/><b>- MyMemory :</b><br />&emsp;+ Bộ vi xử lý<br/></div>
+demodulation,<div><b>- Google :</b><br />&emsp;+ Giải điều chế<br/><b>- Bing :</b><br />&emsp;+ Giáng cấp<br/><b>- MyMemory :</b><br />&emsp;+ Sự giải điều chế, sự tách sóng .<br/></div>
+positioned,<div><b>- Google :</b><br />&emsp;+ Định vị<br/><b>- Bing :</b><br />&emsp;+ Vị trí<br/><b>- MyMemory :</b><br />&emsp;+ Được định vị<br/></div>
+corrections,<div><b>- Google :</b><br />&emsp;+ Đính chính<br/><b>- Bing :</b><br />&emsp;+ Chỉnh<br/><b>- MyMemory :</b><br />&emsp;+ Chỉnh sửa<br/></div>
+ratings,<div><b>- Google :</b><br />&emsp;+ Xếp hạng<br/><b>- Bing :</b><br />&emsp;+ Xếp hạng<br/><b>- MyMemory :</b><br />&emsp;+ Xếp hạng<br/></div>
+taxing,<div><b>- Google :</b><br />&emsp;+ Đánh thuế<br/><b>- Bing :</b><br />&emsp;+ Thuế<br/><b>- MyMemory :</b><br />&emsp;+ Sự đánh thuế<br/></div>
+initiating,<div><b>- Google :</b><br />&emsp;+ Bắt đầu<br/><b>- Bing :</b><br />&emsp;+ Khởi xướng<br/><b>- MyMemory :</b><br />&emsp;+ Số thuê bao k-9-2-1 -3-4-2-0-0-1 -0.<br/></div>
+cumulative,<div><b>- Google :</b><br />&emsp;+ Tích lũy<br/><b>- Bing :</b><br />&emsp;+ Tích lũy<br/><b>- MyMemory :</b><br />&emsp;+ Tích lũy<br/></div>
+multiplicand,<div><b>- Google :</b><br />&emsp;+ Đa nhân<br/><b>- MyMemory :</b><br />&emsp;+ Bội số<br/></div>
+facto,<div><b>- Google :</b><br />&emsp;+ Thực tế<br/><b>- Bing :</b><br />&emsp;+ Điều<br/><b>- MyMemory :</b><br />&emsp;+ De facto<br/></div>
+stressing,<div><b>- Google :</b><br />&emsp;+ Căng thẳng<br/><b>- Bing :</b><br />&emsp;+ Nhấn mạnh<br/><b>- MyMemory :</b><br />&emsp;+ Sự tạo ứng suất<br/></div>
+awakened,<div><b>- Google :</b><br />&emsp;+ Đánh thức<br/><b>- MyMemory :</b><br />&emsp;+ Đã đánh thức<br/></div>
+quantifying,<div><b>- Google :</b><br />&emsp;+ Định lượng<br/><b>- Bing :</b><br />&emsp;+ Định lượng<br/><b>- MyMemory :</b><br />&emsp;+ Định lượng<br/></div>
+trigonometric,<div><b>- Google :</b><br />&emsp;+ Lượng giác<br/><b>- Bing :</b><br />&emsp;+ Lượng giác<br/><b>- MyMemory :</b><br />&emsp;+ Lượng giác<br/></div>
+agreements,<div><b>- Google :</b><br />&emsp;+ Thỏa thuận<br/><b>- Bing :</b><br />&emsp;+ Thỏa thuận<br/><b>- MyMemory :</b><br />&emsp;+ Thỏa thuận<br/></div>
+react,<div><b>- Google :</b><br />&emsp;+ Phản ứng<br/><b>- Bing :</b><br />&emsp;+ Phản ứng<br/><b>- MyMemory :</b><br />&emsp;+ Tác động trở lại, phản ứng<br/></div>
+weaken,<div><b>- Google :</b><br />&emsp;+ Suy yếu<br/><b>- Bing :</b><br />&emsp;+ Suy yếu<br/><b>- MyMemory :</b><br />&emsp;+ -: suy yếu<br/></div>
+dimension,<div><b>- Google :</b><br />&emsp;+ Kích thước<br/><b>- Bing :</b><br />&emsp;+ Kích thước<br/><b>- MyMemory :</b><br />&emsp;+ Kích thước<br/></div>
+ruled,<div><b>- Google :</b><br />&emsp;+ Cai trị<br/><b>- Bing :</b><br />&emsp;+ Cai trị<br/><b>- MyMemory :</b><br />&emsp;+ Trùm?<br/></div>
+intimately,<div><b>- Google :</b><br />&emsp;+ Thân mật<br/><b>- Bing :</b><br />&emsp;+ Thân mật<br/><b>- MyMemory :</b><br />&emsp;+ Khá thân thiết.<br/></div>
+precharge,<div><b>- Google :</b><br />&emsp;+ Trước<br/><b>- MyMemory :</b><br />&emsp;+ Phụ phí<br/></div>
+intersection,<div><b>- Google :</b><br />&emsp;+ Ngã tư<br/><b>- Bing :</b><br />&emsp;+ Ngã<br/><b>- MyMemory :</b><br />&emsp;+ Giao<br/></div>
+overfl,<div><b>- Google :</b><br />&emsp;+ Tràn ra<br/><b>- MyMemory :</b><br />&emsp;+ Sự tràn<br/></div>
+unsorted,<div><b>- Google :</b><br />&emsp;+ Chưa được phân loại<br/><b>- MyMemory :</b><br />&emsp;+ Không được sắp xếp<br/></div>
+stature,<div><b>- Google :</b><br />&emsp;+ Tầm vóc<br/><b>- Bing :</b><br />&emsp;+ Vóc dáng<br/><b>- MyMemory :</b><br />&emsp;+ Tầm vóc, tầm vóc<br/></div>
+bounce,<div><b>- Google :</b><br />&emsp;+ Nảy<br/><b>- Bing :</b><br />&emsp;+ Nảy<br/><b>- MyMemory :</b><br />&emsp;+ Nảy lên<br/></div>
+partly,<div><b>- Google :</b><br />&emsp;+ Từng phần<br/><b>- Bing :</b><br />&emsp;+ Một phần<br/><b>- MyMemory :</b><br />&emsp;+ Đến chừng mực nào đó, phần nào đó<br/></div>
+intensity,<div><b>- Google :</b><br />&emsp;+ Cường độ<br/><b>- Bing :</b><br />&emsp;+ Cường độ<br/><b>- MyMemory :</b><br />&emsp;+ Độ mạnh<br/></div>
+nite,<div><b>- Google :</b><br />&emsp;+ Đêm<br/><b>- MyMemory :</b><br />&emsp;+ Đêm<br/></div>
+channeling,<div><b>- Google :</b><br />&emsp;+ Kênh<br/><b>- MyMemory :</b><br />&emsp;+ Sự tạo rãnh<br/></div>
+invert,<div><b>- Google :</b><br />&emsp;+ Đảo ngược<br/><b>- Bing :</b><br />&emsp;+ Đảo<br/><b>- MyMemory :</b><br />&emsp;+ Nghịch chuyển<br/></div>
+grouped,<div><b>- Google :</b><br />&emsp;+ Nhóm<br/><b>- Bing :</b><br />&emsp;+ Nhóm<br/><b>- MyMemory :</b><br />&emsp;+ Nhóm<br/></div>
+foremost,<div><b>- Google :</b><br />&emsp;+ Quan trọng nhất<br/><b>- Bing :</b><br />&emsp;+ Trước tiên<br/><b>- MyMemory :</b><br />&emsp;+ Trước hết<br/></div>
+brands,<div><b>- Google :</b><br />&emsp;+ Nhãn hiệu<br/><b>- Bing :</b><br />&emsp;+ Thương hiệu<br/><b>- MyMemory :</b><br />&emsp;+ Thương hiệu<br/></div>
+waveform,<div><b>- Google :</b><br />&emsp;+ Dạng sóng<br/><b>- Bing :</b><br />&emsp;+ Dạng sóng<br/><b>- MyMemory :</b><br />&emsp;+ Dạng sóng, hình sóng<br/></div>
+capacitive,<div><b>- Google :</b><br />&emsp;+ Điện dung<br/><b>- MyMemory :</b><br />&emsp;+ Tụ điện<br/></div>
+incurring,<div><b>- Google :</b><br />&emsp;+ Phát sinh<br/><b>- MyMemory :</b><br />&emsp;+ Phát sinh<br/></div>
+afterwards,<div><b>- Google :</b><br />&emsp;+ Sau đó<br/><b>- Bing :</b><br />&emsp;+ Sau đó<br/><b>- MyMemory :</b><br />&emsp;+ Sau này, về sau, rồi thì, sau đấy<br/></div>
+framing,<div><b>- Google :</b><br />&emsp;+ Đóng khung<br/><b>- Bing :</b><br />&emsp;+ Khung<br/><b>- MyMemory :</b><br />&emsp;+ Định hình thông điệp<br/></div>
+pseudo,<div><b>- Google :</b><br />&emsp;+ Giả<br/><b>- Bing :</b><br />&emsp;+ Tên hiệu<br/><b>- MyMemory :</b><br />&emsp;+ Giả, giả<br/></div>
+squaring,<div><b>- Google :</b><br />&emsp;+ Bình phương<br/><b>- MyMemory :</b><br />&emsp;+ Konquestdescription<br/></div>
+prescribing,<div><b>- Google :</b><br />&emsp;+ Quy định<br/><b>- Bing :</b><br />&emsp;+ Quy định<br/><b>- MyMemory :</b><br />&emsp;+ Sự kê đơn<br/></div>
+integral,<div><b>- Google :</b><br />&emsp;+ Tích hợp<br/><b>- Bing :</b><br />&emsp;+ Tích phân<br/><b>- MyMemory :</b><br />&emsp;+ Tích phân<br/></div>
+arise,<div><b>- Google :</b><br />&emsp;+ Nảy sinh<br/><b>- Bing :</b><br />&emsp;+ Xuất hiện<br/><b>- MyMemory :</b><br />&emsp;+ Xuất hiện, nảy ra, nảy sinh ra<br/></div>
+leds,<div><b>- Google :</b><br />&emsp;+ Đèn led<br/><b>- Bing :</b><br />&emsp;+ Led<br/><b>- MyMemory :</b><br />&emsp;+ Đèn led<br/></div>
+education,<div><b>- Google :</b><br />&emsp;+ Giáo dục<br/><b>- Bing :</b><br />&emsp;+ Giáo dục<br/><b>- MyMemory :</b><br />&emsp;+ Giáo dục, rèn luyện<br/></div>
+proceeded,<div><b>- Google :</b><br />&emsp;+ Tiến hành<br/><b>- Bing :</b><br />&emsp;+ Tiến hành<br/><b>- MyMemory :</b><br />&emsp;+ Đã tiến hành<br/></div>
+publishing,<div><b>- Google :</b><br />&emsp;+ Xuất bản<br/><b>- MyMemory :</b><br />&emsp;+ Nghề xuất bản<br/></div>
+notme,<div><b>- Google :</b><br />&emsp;+ Không phải tôi<br/><b>- MyMemory :</b><br />&emsp;+ Không phải tôi<br/></div>
+widths,<div><b>- Google :</b><br />&emsp;+ Chiều rộng<br/><b>- Bing :</b><br />&emsp;+ Chiều rộng<br/><b>- MyMemory :</b><br />&emsp;+ Chiều rộng<br/></div>
+indian,<div><b>- Google :</b><br />&emsp;+ Người ấn độ<br/><b>- Bing :</b><br />&emsp;+ Ấn độ<br/><b>- MyMemory :</b><br />&emsp;+ Ấn độ<br/></div>
+voluntarily,<div><b>- Google :</b><br />&emsp;+ Tự nguyện<br/><b>- Bing :</b><br />&emsp;+ Tự nguyện<br/><b>- MyMemory :</b><br />&emsp;+ Tự nguyện<br/></div>
+concise,<div><b>- Google :</b><br />&emsp;+ Ngắn gọn<br/><b>- Bing :</b><br />&emsp;+ Ngắn gọn<br/><b>- MyMemory :</b><br />&emsp;+ Súc tích<br/></div>
+incorporate,<div><b>- Google :</b><br />&emsp;+ Kết hợp<br/><b>- Bing :</b><br />&emsp;+ Kết hợp<br/><b>- MyMemory :</b><br />&emsp;+ Thành lập công ty<br/></div>
+modems,<div><b>- Google :</b><br />&emsp;+ Modem<br/><b>- Bing :</b><br />&emsp;+ Modem<br/><b>- MyMemory :</b><br />&emsp;+ Modem<br/></div>
+worldwide,<div><b>- Google :</b><br />&emsp;+ Trên toàn thế giới<br/><b>- Bing :</b><br />&emsp;+ Trên toàn thế giới<br/><b>- MyMemory :</b><br />&emsp;+ Trên phạm vi thế giới<br/></div>
+redraw,<div><b>- Google :</b><br />&emsp;+ Vẽ lại<br/><b>- Bing :</b><br />&emsp;+ Vẽ lại<br/><b>- MyMemory :</b><br />&emsp;+ Vẽ lại<br/></div>
+attend,<div><b>- Google :</b><br />&emsp;+ Tham dự<br/><b>- Bing :</b><br />&emsp;+ Góp mặt<br/><b>- MyMemory :</b><br />&emsp;+ Tham dự<br/></div>
+continuous,<div><b>- Google :</b><br />&emsp;+ Tiếp diễn<br/><b>- Bing :</b><br />&emsp;+ Liên tục<br/><b>- MyMemory :</b><br />&emsp;+ Liên tục, liên tiếp<br/></div>
+craft,<div><b>- Google :</b><br />&emsp;+ Thủ công<br/><b>- Bing :</b><br />&emsp;+ Nghề<br/><b>- MyMemory :</b><br />&emsp;+ Nghề thủ công<br/></div>
+homogenous,<div><b>- Google :</b><br />&emsp;+ Đồng nhất<br/><b>- Bing :</b><br />&emsp;+ Đồng nhất<br/><b>- MyMemory :</b><br />&emsp;+ Đồng dạng, đồng tính, đồng chất<br/></div>
+companion,<div><b>- Google :</b><br />&emsp;+ Bạn đồng hành<br/><b>- Bing :</b><br />&emsp;+ Bạn<br/><b>- MyMemory :</b><br />&emsp;+ Bạn đồng hành<br/></div>
+quently,<div><b>- Google :</b><br />&emsp;+ Định giá<br/><b>- MyMemory :</b><br />&emsp;+ Một cách khẩn cấp<br/></div>
+rates,<div><b>- Google :</b><br />&emsp;+ Giá<br/><b>- Bing :</b><br />&emsp;+ Giá<br/><b>- MyMemory :</b><br />&emsp;+ Tỷ lệ<br/></div>
+arena,<div><b>- Google :</b><br />&emsp;+ Đấu trường<br/><b>- Bing :</b><br />&emsp;+ Vũ đài<br/><b>- MyMemory :</b><br />&emsp;+ Đấu trường<br/></div>
+appreciating,<div><b>- Google :</b><br />&emsp;+ Đánh giá cao<br/><b>- Bing :</b><br />&emsp;+ Đánh giá cao<br/><b>- MyMemory :</b><br />&emsp;+ Đánh giá cao<br/></div>
+insrtuction,<div><b>- Google :</b><br />&emsp;+ Hướng dẫn<br/><b>- MyMemory :</b><br />&emsp;+ Sự bán đấu giá<br/></div>
+aggravates,<div><b>- Google :</b><br />&emsp;+ Trầm trọng hơn<br/><b>- Bing :</b><br />&emsp;+ Tình tiết tăng nặng<br/><b>- MyMemory :</b><br />&emsp;+ Làm trầm trọng thêm<br/></div>
+periodic,<div><b>- Google :</b><br />&emsp;+ Định kỳ<br/><b>- MyMemory :</b><br />&emsp;+ Định kỳ<br/></div>
+replicated,<div><b>- Google :</b><br />&emsp;+ Nhân rộng<br/><b>- Bing :</b><br />&emsp;+ Sao chép<br/><b>- MyMemory :</b><br />&emsp;+ Sao chép<br/></div>
+discrete,<div><b>- Google :</b><br />&emsp;+ Rời rạc<br/><b>- Bing :</b><br />&emsp;+ Rời rạc<br/><b>- MyMemory :</b><br />&emsp;+ Rời rạc<br/></div>
+visualize,<div><b>- Google :</b><br />&emsp;+ Hình dung<br/><b>- Bing :</b><br />&emsp;+ Hình ảnh<br/><b>- MyMemory :</b><br />&emsp;+ Hình dung<br/></div>
+raging,<div><b>- Google :</b><br />&emsp;+ Hoành hành<br/><b>- Bing :</b><br />&emsp;+ Dữ dội<br/><b>- MyMemory :</b><br />&emsp;+ Giận dữ<br/></div>
+instrumental,<div><b>- Google :</b><br />&emsp;+ Công cụ<br/><b>- Bing :</b><br />&emsp;+ Cụ<br/><b>- MyMemory :</b><br />&emsp;+ Công cụ cách.<br/></div>
+positioning,<div><b>- Google :</b><br />&emsp;+ Định vị<br/><b>- Bing :</b><br />&emsp;+ Vị trí<br/><b>- MyMemory :</b><br />&emsp;+ Sự định vị<br/></div>
+ascertain,<div><b>- Google :</b><br />&emsp;+ Xác minh<br/><b>- Bing :</b><br />&emsp;+ Xác định<br/><b>- MyMemory :</b><br />&emsp;+ Xác định<br/></div>
+serving,<div><b>- Google :</b><br />&emsp;+ Phục vụ<br/><b>- Bing :</b><br />&emsp;+ Phục vụ<br/><b>- MyMemory :</b><br />&emsp;+ Khẩu phần<br/></div>
+abilities,<div><b>- Google :</b><br />&emsp;+ Khả năng<br/><b>- Bing :</b><br />&emsp;+ Khả năng<br/><b>- MyMemory :</b><br />&emsp;+ Khả năng<br/></div>
+super,<div><b>- Google :</b><br />&emsp;+ Siêu<br/><b>- Bing :</b><br />&emsp;+ Siêu<br/><b>- MyMemory :</b><br />&emsp;+ Người quản lý (khu nhà ở hoặc cao ốc văn phòng)<br/></div>
+screw,<div><b>- Google :</b><br />&emsp;+ Đinh ốc<br/><b>- Bing :</b><br />&emsp;+ Vít<br/><b>- MyMemory :</b><br />&emsp;+ Đinh vít; bắt vít<br/></div>
+inequality,<div><b>- Google :</b><br />&emsp;+ Bất bình đẳng<br/><b>- Bing :</b><br />&emsp;+ Bất đẳng thức<br/><b>- MyMemory :</b><br />&emsp;+ Bất bình đẳng<br/></div>
+ubiquitous,<div><b>- Google :</b><br />&emsp;+ Phổ cập<br/><b>- Bing :</b><br />&emsp;+ Phổ biến<br/><b>- MyMemory :</b><br />&emsp;+ Ở khắp mọi nơi<br/></div>
+unassembled,<div><b>- Google :</b><br />&emsp;+ Không được chấp nhận<br/><b>- Bing :</b><br />&emsp;+ Chưa lắp ráp<br/><b>- MyMemory :</b><br />&emsp;+ Chưa lắp ráp<br/></div>
+exhausting,<div><b>- Google :</b><br />&emsp;+ Mệt mỏi<br/><b>- Bing :</b><br />&emsp;+ Hết<br/><b>- MyMemory :</b><br />&emsp;+ Làm kiệt sức<br/></div>
+south,<div><b>- Google :</b><br />&emsp;+ Miền nam<br/><b>- Bing :</b><br />&emsp;+ Hướng nam<br/><b>- MyMemory :</b><br />&emsp;+ Hướng nam<br/></div>
+plac,<div><b>- Google :</b><br />&emsp;+ Vị trí<br/><b>- Bing :</b><br />&emsp;+ Vuông<br/></div>
+timers,<div><b>- Google :</b><br />&emsp;+ Hẹn giờ<br/><b>- MyMemory :</b><br />&emsp;+ Hẹn giờ<br/></div>
+accomplishing,<div><b>- Google :</b><br />&emsp;+ Hoàn thành<br/><b>- Bing :</b><br />&emsp;+ Hoàn thành<br/><b>- MyMemory :</b><br />&emsp;+ Hoàn thành<br/></div>
+polytechnic,<div><b>- Google :</b><br />&emsp;+ Bách khoa<br/><b>- Bing :</b><br />&emsp;+ Bách khoa<br/><b>- MyMemory :</b><br />&emsp;+ Trường đại học kỹ thuật<br/></div>
+contexts,<div><b>- Google :</b><br />&emsp;+ Bối cảnh<br/><b>- Bing :</b><br />&emsp;+ Bối cảnh<br/><b>- MyMemory :</b><br />&emsp;+ Bối cảnh.<br/></div>
+curiosity,<div><b>- Google :</b><br />&emsp;+ Sự tò mò<br/><b>- Bing :</b><br />&emsp;+ Sự tò mò<br/><b>- MyMemory :</b><br />&emsp;+ - ch#7881; m#7897;t t#7915;, t#236;nh y#234;u.<br/></div>
+intricacies,<div><b>- Google :</b><br />&emsp;+ Phức tạp<br/><b>- MyMemory :</b><br />&emsp;+ Sự phức tạp<br/></div>
+inversion,<div><b>- Google :</b><br />&emsp;+ Đảo ngược<br/><b>- Bing :</b><br />&emsp;+ Đảo ngược<br/><b>- MyMemory :</b><br />&emsp;+ Sự đảo ngược<br/></div>
+infancy,<div><b>- Google :</b><br />&emsp;+ Thời thơ ấu<br/><b>- Bing :</b><br />&emsp;+ Giai đoạn trứng nước<br/><b>- MyMemory :</b><br />&emsp;+ Trẻ sơ sinh<br/></div>
+multiplexer,<div><b>- Google :</b><br />&emsp;+ Bộ ghép kênh<br/><b>- MyMemory :</b><br />&emsp;+ Bộ dồn kênh<br/></div>
+theoretical,<div><b>- Google :</b><br />&emsp;+ Lý thuyết<br/><b>- Bing :</b><br />&emsp;+ Lý thuyết<br/><b>- MyMemory :</b><br />&emsp;+ Theo lý thuyết<br/></div>
+lending,<div><b>- Google :</b><br />&emsp;+ Cho vay<br/><b>- Bing :</b><br />&emsp;+ Cho vay<br/><b>- MyMemory :</b><br />&emsp;+ Việc cho vay<br/></div>
+observations,<div><b>- Google :</b><br />&emsp;+ Quan sát<br/><b>- Bing :</b><br />&emsp;+ Quan sát<br/><b>- MyMemory :</b><br />&emsp;+ Nhận xét<br/></div>
+technologi,<div><b>- Google :</b><br />&emsp;+ Công nghệ<br/><b>- MyMemory :</b><br />&emsp;+ Kỹ thuật công nghệ<br/></div>
+numbering,<div><b>- Google :</b><br />&emsp;+ Đánh số<br/><b>- Bing :</b><br />&emsp;+ Đánh số<br/><b>- MyMemory :</b><br />&emsp;+ Sự đánh số<br/></div>
+synchronized,<div><b>- Google :</b><br />&emsp;+ Đồng bộ hóa<br/><b>- Bing :</b><br />&emsp;+ Được đồng bộ hóa<br/><b>- MyMemory :</b><br />&emsp;+ Đồng bộ hóa<br/></div>
+alteration,<div><b>- Google :</b><br />&emsp;+ Thay đổi<br/><b>- Bing :</b><br />&emsp;+ Thay đổi<br/><b>- MyMemory :</b><br />&emsp;+ Sự thay đổi, sự sửa đổi<br/></div>
+cheaper,<div><b>- Google :</b><br />&emsp;+ Giá rẻ hơn<br/><b>- Bing :</b><br />&emsp;+ Rẻ<br/><b>- MyMemory :</b><br />&emsp;+ % rẻ hơn<br/></div>
+erefore,<div><b>- Google :</b><br />&emsp;+ Trước khi<br/><b>- MyMemory :</b><br />&emsp;+ Trước khi cương cứng<br/></div>
+erently,<div><b>- Google :</b><br />&emsp;+ Ồ ạt<br/><b>- Bing :</b><br />&emsp;+ Sai lầm<br/><b>- MyMemory :</b><br />&emsp;+ Ngay lập tức<br/></div>
+colleges,<div><b>- Google :</b><br />&emsp;+ Trường cao đẳng<br/><b>- Bing :</b><br />&emsp;+ Trường cao đẳng<br/><b>- MyMemory :</b><br />&emsp;+ Trường cao đẳng<br/></div>
+doubleword,<div><b>- Google :</b><br />&emsp;+ Từ ngữ<br/><b>- MyMemory :</b><br />&emsp;+ Từ kép<br/></div>
+locality,<div><b>- Google :</b><br />&emsp;+ Địa phương<br/><b>- Bing :</b><br />&emsp;+ Địa phương<br/><b>- MyMemory :</b><br />&emsp;+ Địa phương<br/></div>
+envisaged,<div><b>- Google :</b><br />&emsp;+ Dự tính<br/><b>- Bing :</b><br />&emsp;+ Dự<br/><b>- MyMemory :</b><br />&emsp;+ Dự tính<br/></div>
+illusion,<div><b>- Google :</b><br />&emsp;+ Ảo giác<br/><b>- MyMemory :</b><br />&emsp;+ Ảo giác<br/></div>
+instants,<div><b>- Google :</b><br />&emsp;+ Tức thời<br/><b>- Bing :</b><br />&emsp;+ Khoảnh khắc<br/><b>- MyMemory :</b><br />&emsp;+ Nội tại<br/></div>
+arrange,<div><b>- Google :</b><br />&emsp;+ Sắp xếp<br/><b>- Bing :</b><br />&emsp;+ Sắp xếp<br/><b>- MyMemory :</b><br />&emsp;+ Sắp xếp, sắp đặt<br/></div>
+arises,<div><b>- Google :</b><br />&emsp;+ Phát sinh<br/><b>- Bing :</b><br />&emsp;+ Xảy ra<br/><b>- MyMemory :</b><br />&emsp;+ Phát sinh<br/></div>
+floppy,<div><b>- Google :</b><br />&emsp;+ Mềm<br/><b>- Bing :</b><br />&emsp;+ Mềm mềm<br/><b>- MyMemory :</b><br />&emsp;+ フロッピー<br/></div>
+enhance,<div><b>- Google :</b><br />&emsp;+ Nâng cao<br/><b>- Bing :</b><br />&emsp;+ Nâng cao<br/><b>- MyMemory :</b><br />&emsp;+ Nâng cấp<br/></div>
+virtue,<div><b>- Google :</b><br />&emsp;+ Đức hạnh<br/><b>- Bing :</b><br />&emsp;+ Đức<br/><b>- MyMemory :</b><br />&emsp;+ Uy tín<br/></div>
+vectoring,<div><b>- Google :</b><br />&emsp;+ Vectơ<br/><b>- MyMemory :</b><br />&emsp;+ (sự) lợp mái, (sự)<br/></div>
+exible,<div><b>- Google :</b><br />&emsp;+ Thể hiện<br/><b>- Bing :</b><br />&emsp;+ Có thể chấp nhận được<br/><b>- MyMemory :</b><br />&emsp;+ Có thể loại trừ<br/></div>
+readily,<div><b>- Google :</b><br />&emsp;+ Dễ dàng<br/><b>- Bing :</b><br />&emsp;+ Dễ dàng<br/><b>- MyMemory :</b><br />&emsp;+ Sẵn sàng, dễ dàng<br/></div>
+semiconductor,<div><b>- Google :</b><br />&emsp;+ Chất bán dẫn<br/><b>- Bing :</b><br />&emsp;+ Chất bán dẫn<br/><b>- MyMemory :</b><br />&emsp;+ Bán dẫn<br/></div>
+polarity,<div><b>- Google :</b><br />&emsp;+ Phân cực<br/><b>- Bing :</b><br />&emsp;+ Cực<br/><b>- MyMemory :</b><br />&emsp;+ Cực tính<br/></div>
+reprogrammed,<div><b>- Google :</b><br />&emsp;+ Lập trình lại<br/><b>- Bing :</b><br />&emsp;+ Lập trình lại<br/><b>- MyMemory :</b><br />&emsp;+ Được lập trình lại<br/></div>
+simplicity,<div><b>- Google :</b><br />&emsp;+ Sự đơn giản<br/><b>- Bing :</b><br />&emsp;+ Tính đơn giản<br/><b>- MyMemory :</b><br />&emsp;+ Sự đơn giản<br/></div>
+ambiguity,<div><b>- Google :</b><br />&emsp;+ Sự mơ hồ<br/><b>- Bing :</b><br />&emsp;+ Mơ hồ<br/><b>- MyMemory :</b><br />&emsp;+ [sự; tính] nhập nhằng<br/></div>
+batch,<div><b>- Google :</b><br />&emsp;+ Lô hàng<br/><b>- Bing :</b><br />&emsp;+ Mẻ<br/><b>- MyMemory :</b><br />&emsp;+ Mớ<br/></div>
+plugging,<div><b>- Google :</b><br />&emsp;+ Cắm<br/><b>- Bing :</b><br />&emsp;+ Cắm<br/><b>- MyMemory :</b><br />&emsp;+ Sự tắc<br/></div>
+borrows,<div><b>- Google :</b><br />&emsp;+ Mượn<br/><b>- Bing :</b><br />&emsp;+ Vay mượn<br/><b>- MyMemory :</b><br />&emsp;+ Tiền vay<br/></div>
+prohibitively,<div><b>- Google :</b><br />&emsp;+ Nghiêm cấm<br/><b>- Bing :</b><br />&emsp;+ Nghiêm cấm<br/><b>- MyMemory :</b><br />&emsp;+ Nghiêm cấm, cấm đoán<br/></div>
+anode,<div><b>- Google :</b><br />&emsp;+ Cực dương<br/><b>- Bing :</b><br />&emsp;+ Dương cực<br/><b>- MyMemory :</b><br />&emsp;+ Anôt, dương cực<br/></div>
+implication,<div><b>- Google :</b><br />&emsp;+ Hàm ý<br/><b>- Bing :</b><br />&emsp;+ Ngụ ý<br/><b>- MyMemory :</b><br />&emsp;+ Sự lôi kéo, sự liên can, điểu gợi ý<br/></div>
+elaborating,<div><b>- Google :</b><br />&emsp;+ Xây dựng<br/><b>- Bing :</b><br />&emsp;+ Xây dựng<br/><b>- MyMemory :</b><br />&emsp;+ Xây dựng chi tiết<br/></div>
+handshaking,<div><b>- Google :</b><br />&emsp;+ Bắt tay<br/><b>- Bing :</b><br />&emsp;+ Bắt tay<br/><b>- MyMemory :</b><br />&emsp;+ Sự bắt tay<br/></div>
+bank,<div><b>- Google :</b><br />&emsp;+ Ngân hàng<br/><b>- Bing :</b><br />&emsp;+ Ngân hàng<br/><b>- MyMemory :</b><br />&emsp;+ Ngân hàng<br/></div>
+north,<div><b>- Google :</b><br />&emsp;+ Bắc<br/><b>- Bing :</b><br />&emsp;+ Hướng bắc<br/><b>- MyMemory :</b><br />&emsp;+ Phía bắc, phương bắc<br/></div>
+consumption,<div><b>- Google :</b><br />&emsp;+ Sự tiêu thụ<br/><b>- Bing :</b><br />&emsp;+ Tiêu thụ<br/><b>- MyMemory :</b><br />&emsp;+ Tiêu hao<br/></div>
+leak,<div><b>- Google :</b><br />&emsp;+ Hở<br/><b>- Bing :</b><br />&emsp;+ Tiết lộ<br/><b>- MyMemory :</b><br />&emsp;+ Lỗ rò<br/></div>
+synchronizer,<div><b>- Google :</b><br />&emsp;+ Đồng bộ hóa<br/><b>- MyMemory :</b><br />&emsp;+ Bộ đồng bộ hóa<br/></div>
+inactivation,<div><b>- Google :</b><br />&emsp;+ Bất hoạt<br/><b>- Bing :</b><br />&emsp;+ Bất hoạt<br/><b>- MyMemory :</b><br />&emsp;+ Sự khử hoạt tính<br/></div>
+northbridge,<div><b>- Google :</b><br />&emsp;+ Cầu phía bắc<br/><b>- Bing :</b><br />&emsp;+ Cầu bắc<br/><b>- MyMemory :</b><br />&emsp;+ Cầu bắc qua<br/></div>
+generations,<div><b>- Google :</b><br />&emsp;+ Các thế hệ<br/><b>- MyMemory :</b><br />&emsp;+ Thế hệ<br/></div>
+solvers,<div><b>- Google :</b><br />&emsp;+ Người giải quyết<br/><b>- Bing :</b><br />&emsp;+ Người giải quyết<br/><b>- MyMemory :</b><br />&emsp;+ Những người giải quyết<br/></div>
+ridden,<div><b>- Google :</b><br />&emsp;+ Cưỡi ngựa<br/><b>- MyMemory :</b><br />&emsp;+ Cưỡi ngựa<br/></div>
+propagation,<div><b>- Google :</b><br />&emsp;+ Lan truyền<br/><b>- Bing :</b><br />&emsp;+ Tuyên truyền<br/><b>- MyMemory :</b><br />&emsp;+ Sự truyền giống<br/></div>
+tampering,<div><b>- Google :</b><br />&emsp;+ Giả mạo<br/><b>- Bing :</b><br />&emsp;+ Giả mạo<br/><b>- MyMemory :</b><br />&emsp;+ Phá... phá hoại? đúng.<br/></div>
