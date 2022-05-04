@@ -98,3 +98,6 @@ for pathFile in glob.glob('pdf/*.pdf'):
                 timeNgu = random.randint(20, 30)
                 print("Sleep ", timeNgu, "s")
                 time.sleep(timeNgu)
+np.save(nameDict, dct)
+print("SAVE IN DICT")
+print("Hien co ", len(dct), "tu")
