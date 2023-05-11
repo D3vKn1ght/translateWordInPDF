@@ -1,16 +1,13 @@
 import fitz  # this is pymupdf
-from google_trans_new.google_trans_new import google_translator
+from googletranslate import translate
 from translatepython.translate import Translator
-from Bing_Translate import BingTranslate
 import re
 import numpy as np
 import time
 import random
 import os
 import glob
-googleTranslate = google_translator()
 myMemoryTranslate = Translator(to_lang="vi")
-bingTranslate = BingTranslate()
 dct = {}
 dem = 0
 nameDict = 'dict.npy'
@@ -41,8 +38,7 @@ for pathFile in glob.glob('pdf/*.pdf'):
         trans = ""
         value = "<div>"
         try:
-            resultGoogle = googleTranslate.translate(
-                word, lang_src='en', lang_tgt='vi')
+            resultGoogle = translate( word, dest='vi',  src='en' )
             resultGoogle = resultGoogle.lower().strip()
             check = True
         except Exception as e:
@@ -57,18 +53,18 @@ for pathFile in glob.glob('pdf/*.pdf'):
         else:
             continue
 
-        try:
-            resultBing = bingTranslate.translate(word)
-            resultBing = resultBing.lower().strip()
-            check = True
-        except Exception as e:
-            resultBing = word
-            print("Bing translate error: ", e)
-        if resultBing != "" and resultBing != word:
-            add += 1
-            value += "<b>- Bing :</b><br />&emsp;+ {0}<br/>".format(
-                resultBing.lower().strip().capitalize())
-            trans = trans+"Bing: " + resultBing+"\t"
+        # try:
+        #     resultBing = bingTranslate.translate(word)
+        #     resultBing = resultBing.lower().strip()
+        #     check = True
+        # except Exception as e:
+        #     resultBing = word
+        #     print("Bing translate error: ", e)
+        # if resultBing != "" and resultBing != word:
+        #     add += 1
+        #     value += "<b>- Bing :</b><br />&emsp;+ {0}<br/>".format(
+        #         resultBing.lower().strip().capitalize())
+        #     trans = trans+"Bing: " + resultBing+"\t"
 
         try:
             resultMyMemory = myMemoryTranslate.translate(word)
@@ -94,10 +90,10 @@ for pathFile in glob.glob('pdf/*.pdf'):
             np.save(nameDict, dct)
             print("SAVE IN DICT")
             print("Hien co ", len(dct), "tu")
-            if dem % 30 == 0:
-                timeNgu = random.randint(20, 30)
-                print("Sleep ", timeNgu, "s")
-                time.sleep(timeNgu)
+            # if dem % 30 == 0:
+            #     timeNgu = random.randint(20, 30)
+            #     print("Sleep ", timeNgu, "s")
+            #     time.sleep(timeNgu)
 np.save(nameDict, dct)
 print("SAVE IN DICT")
 print("Hien co ", len(dct), "tu")
