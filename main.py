@@ -1,6 +1,7 @@
 import fitz  # this is pymupdf
 from googletranslate import translate
 from translatepython.translate import Translator
+from Bing_Translate import BingTranslate
 import re
 import numpy as np
 import time
@@ -8,6 +9,7 @@ import random
 import os
 import glob
 myMemoryTranslate = Translator(to_lang="vi")
+bingTranslate = BingTranslate()
 dct = {}
 dem = 0
 nameDict = 'dict.npy'
@@ -53,18 +55,18 @@ for pathFile in glob.glob('pdf/*.pdf'):
         else:
             continue
 
-        # try:
-        #     resultBing = bingTranslate.translate(word)
-        #     resultBing = resultBing.lower().strip()
-        #     check = True
-        # except Exception as e:
-        #     resultBing = word
-        #     print("Bing translate error: ", e)
-        # if resultBing != "" and resultBing != word:
-        #     add += 1
-        #     value += "<b>- Bing :</b><br />&emsp;+ {0}<br/>".format(
-        #         resultBing.lower().strip().capitalize())
-        #     trans = trans+"Bing: " + resultBing+"\t"
+        try:
+            resultBing = bingTranslate.translate(word)
+            resultBing = resultBing.lower().strip()
+            check = True
+        except Exception as e:
+            resultBing = word
+            print("Bing translate error: ", e)
+        if resultBing != "" and resultBing != word:
+            add += 1
+            value += "<b>- Bing :</b><br />&emsp;+ {0}<br/>".format(
+                resultBing.lower().strip().capitalize())
+            trans = trans+"Bing: " + resultBing+"\t"
 
         try:
             resultMyMemory = myMemoryTranslate.translate(word)
