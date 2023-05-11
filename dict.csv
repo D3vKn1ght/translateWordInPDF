@@ -24646,3 +24646,252 @@ lighthouse,<div><b>- Google :</b><br />&emsp;+ Ngọn hải đăng<br/><b>- Bing
 errorcode,<div><b>- Google :</b><br />&emsp;+ Mã lỗi<br/><b>- Bing :</b><br />&emsp;+ Mã lỗi<br/><b>- MyMemory :</b><br />&emsp;+ Mãlỗi<br/></div>
 extractvalue,<div><b>- Google :</b><br />&emsp;+ Trích hóa giá trị<br/><b>- Bing :</b><br />&emsp;+ Giá trị trích xuất<br/><b>- MyMemory :</b><br />&emsp;+ Giá trị chiết<br/></div>
 importerror,<div><b>- Google :</b><br />&emsp;+ Nhà nhập khẩu<br/><b>- MyMemory :</b><br />&emsp;+ Lỗi nhập khẩu<br/></div>
+typeindex,<div><b>- Google :</b><br />&emsp;+ Kiểu index<br/><b>- Bing :</b><br />&emsp;+ Loạichỉ mục<br/></div>
+majorcode,<div><b>- Google :</b><br />&emsp;+ Mã ngành<br/><b>- Bing :</b><br />&emsp;+ Mã chuyên ngành<br/><b>- MyMemory :</b><br />&emsp;+ Ma ̃ chi ́ nh<br/></div>
+nameoffset,<div><b>- Google :</b><br />&emsp;+ Tên offset<br/><b>- MyMemory :</b><br />&emsp;+ Độ lệch tên<br/></div>
+instanceof,<div><b>- Google :</b><br />&emsp;+ Ví dụ<br/><b>- Bing :</b><br />&emsp;+ Trường hợp<br/><b>- MyMemory :</b><br />&emsp;+ Ví dụ<br/></div>
+modulepath,<div><b>- Google :</b><br />&emsp;+ Mô đun<br/><b>- Bing :</b><br />&emsp;+ Đường dẫn mô-đun<br/><b>- MyMemory :</b><br />&emsp;+ Đường dẫn mô-đun<br/></div>
+disclosures,<div><b>- Google :</b><br />&emsp;+ Tiết lộ<br/><b>- Bing :</b><br />&emsp;+ Tiết lộ<br/></div>
+baaaaaaaaaaaaaa,<div><b>- Google :</b><br />&emsp;+ Baaaaaaaaaaaaaaa<br/><b>- Bing :</b><br />&emsp;+ Baaaaa<br/></div>
+alphanumerics,<div><b>- Google :</b><br />&emsp;+ Chữ cái<br/><b>- Bing :</b><br />&emsp;+ Chữ và số<br/><b>- MyMemory :</b><br />&emsp;+ Chữ và số<br/></div>
+stration,<div><b>- Google :</b><br />&emsp;+ Dây<br/><b>- Bing :</b><br />&emsp;+ Phấn đấu<br/></div>
+refund,<div><b>- Google :</b><br />&emsp;+ Đền bù<br/><b>- Bing :</b><br />&emsp;+ Hoàn<br/><b>- MyMemory :</b><br />&emsp;+ Hoàn tiền<br/></div>
+aclass,<div><b>- Google :</b><br />&emsp;+ Một lớp học<br/><b>- Bing :</b><br />&emsp;+ Lớp học<br/></div>
+regularity,<div><b>- Google :</b><br />&emsp;+ Sự đều đặn<br/><b>- Bing :</b><br />&emsp;+ Đều đặn<br/><b>- MyMemory :</b><br />&emsp;+ Độ đều đặn:<br/></div>
+introduct,<div><b>- Google :</b><br />&emsp;+ Giới thiệu<br/><b>- Bing :</b><br />&emsp;+ Giới thiệu<br/><b>- MyMemory :</b><br />&emsp;+ Giới thiệu<br/></div>
+stopbuffering,<div><b>- Google :</b><br />&emsp;+ Dừng lại<br/><b>- Bing :</b><br />&emsp;+ Dừng bộ đệm<br/><b>- MyMemory :</b><br />&emsp;+ Sự ngưng trệ<br/></div>
+leupload,<div><b>- Google :</b><br />&emsp;+ Tải trọng<br/><b>- MyMemory :</b><br />&emsp;+ Thai<br/></div>
+encodeaes,<div><b>- Google :</b><br />&emsp;+ Mã hóa<br/><b>- Bing :</b><br />&emsp;+ Bộ mã hóa<br/></div>
+autoload,<div><b>- Google :</b><br />&emsp;+ Tự động tải<br/><b>- Bing :</b><br />&emsp;+ Tự động tải<br/><b>- MyMemory :</b><br />&emsp;+ Tải tự động<br/></div>
+traceme,<div><b>- Google :</b><br />&emsp;+ Theo dõi<br/><b>- Bing :</b><br />&emsp;+ Dấu vết<br/><b>- MyMemory :</b><br />&emsp;+ Dấu vết<br/></div>
+processupload,<div><b>- Google :</b><br />&emsp;+ Quá trình tăng cường<br/><b>- MyMemory :</b><br />&emsp;+ Quá trình tải lên<br/></div>
+readonly,<div><b>- Google :</b><br />&emsp;+ Chỉ đọc<br/><b>- Bing :</b><br />&emsp;+ Chỉ đọc<br/><b>- MyMemory :</b><br />&emsp;+ Chỉ đọc<br/></div>
+flask,<div><b>- Google :</b><br />&emsp;+ Bình giữ nhiệt<br/><b>- MyMemory :</b><br />&emsp;+ Ống<br/></div>
+artisan,<div><b>- Google :</b><br />&emsp;+ Nghệ nhân<br/><b>- Bing :</b><br />&emsp;+ Nghệ nhân<br/><b>- MyMemory :</b><br />&emsp;+ Thợ thủ công<br/></div>
+totalsupply,<div><b>- Google :</b><br />&emsp;+ Tổng cung<br/><b>- Bing :</b><br />&emsp;+ Tổng nguồn cung<br/><b>- MyMemory :</b><br />&emsp;+ Tổng cung<br/></div>
+startprogram,<div><b>- Google :</b><br />&emsp;+ Chương trình bắt đầu<br/><b>- Bing :</b><br />&emsp;+ Chương trình bắt đầu<br/><b>- MyMemory :</b><br />&emsp;+ Chương trình khởi động<br/></div>
+starswith,<div><b>- Google :</b><br />&emsp;+ Starlswith<br/><b>- Bing :</b><br />&emsp;+ Saovới<br/><b>- MyMemory :</b><br />&emsp;+ Starwith<br/></div>
+unselected,<div><b>- Google :</b><br />&emsp;+ Không được chọn<br/><b>- Bing :</b><br />&emsp;+ Bỏ chọn<br/><b>- MyMemory :</b><br />&emsp;+ Chưa chọn<br/></div>
+errorcide,<div><b>- Google :</b><br />&emsp;+ Lỗi<br/><b>- MyMemory :</b><br />&emsp;+ Sai sót<br/></div>
+usercontroller,<div><b>- Google :</b><br />&emsp;+ Usercontroll<br/><b>- MyMemory :</b><br />&emsp;+ Bộ điều khiển người dùng<br/></div>
+boo,<div><b>- Google :</b><br />&emsp;+ La ó<br/><b>- MyMemory :</b><br />&emsp;+ Language<br/></div>
+programfiles,<div><b>- Google :</b><br />&emsp;+ File chương trình<br/><b>- Bing :</b><br />&emsp;+ Tập tin chương trình<br/></div>
+unshelled,<div><b>- Google :</b><br />&emsp;+ Không được chia sẻ<br/><b>- Bing :</b><br />&emsp;+ Chưa bóc vỏ<br/><b>- MyMemory :</b><br />&emsp;+ Chưa bóc vỏ<br/></div>
+fortify,<div><b>- Google :</b><br />&emsp;+ Củng cố<br/><b>- Bing :</b><br />&emsp;+ Củng cố<br/><b>- MyMemory :</b><br />&emsp;+ Củng cố<br/></div>
+combo,<div><b>- Google :</b><br />&emsp;+ Kết hợp<br/><b>- MyMemory :</b><br />&emsp;+ Tổ hợp<br/></div>
+ective,<div><b>- Google :</b><br />&emsp;+ Đầu tiên<br/><b>- MyMemory :</b><br />&emsp;+ Sinh động<br/></div>
+filesmatch,<div><b>- Google :</b><br />&emsp;+ Tập tin khớp<br/><b>- MyMemory :</b><br />&emsp;+ So khớp tập tin<br/></div>
+blackly,<div><b>- Google :</b><br />&emsp;+ Đen<br/><b>- Bing :</b><br />&emsp;+ Đen<br/><b>- MyMemory :</b><br />&emsp;+ Một cách đen tối<br/></div>
+powner,<div><b>- Google :</b><br />&emsp;+ Người đánh<br/><b>- Bing :</b><br />&emsp;+ Chủ sở hữu<br/><b>- MyMemory :</b><br />&emsp;+ Người sở hữu<br/></div>
+computey,<div><b>- Google :</b><br />&emsp;+ Tính toán<br/><b>- Bing :</b><br />&emsp;+ Tính toán<br/><b>- MyMemory :</b><br />&emsp;+ Tính toán<br/></div>
+constract,<div><b>- Google :</b><br />&emsp;+ Cấu trúc<br/><b>- Bing :</b><br />&emsp;+ Tóm tắt<br/><b>- MyMemory :</b><br />&emsp;+ Co rút<br/></div>
+saver,<div><b>- Google :</b><br />&emsp;+ Tiết kiệm<br/><b>- Bing :</b><br />&emsp;+ Tiết kiệm<br/><b>- MyMemory :</b><br />&emsp;+ Người tiết kiệm<br/></div>
+webassembly,<div><b>- Google :</b><br />&emsp;+ Webassugging<br/><b>- MyMemory :</b><br />&emsp;+ Lắp ráp web<br/></div>
+chengdu,<div><b>- Google :</b><br />&emsp;+ Thành đô<br/><b>- Bing :</b><br />&emsp;+ Thành đô<br/><b>- MyMemory :</b><br />&emsp;+ Thành đô<br/></div>
+blocklist,<div><b>- Google :</b><br />&emsp;+ Danh sách chặn<br/><b>- Bing :</b><br />&emsp;+ Danh sách chặn<br/><b>- MyMemory :</b><br />&emsp;+ Danh sách chặn<br/></div>
+behavioror,<div><b>- Google :</b><br />&emsp;+ Người hành vi<br/><b>- Bing :</b><br />&emsp;+ Người hành vi<br/><b>- MyMemory :</b><br />&emsp;+ Nhân tố hành vi<br/></div>
+batches,<div><b>- Google :</b><br />&emsp;+ Đợt<br/><b>- Bing :</b><br />&emsp;+ Lô<br/><b>- MyMemory :</b><br />&emsp;+ Lô<br/></div>
+dependencym,<div><b>- Google :</b><br />&emsp;+ Phụ thuộc<br/><b>- Bing :</b><br />&emsp;+ Phụ thuộc<br/><b>- MyMemory :</b><br />&emsp;+ Phụ thuộc<br/></div>
+methodhook,<div><b>- Google :</b><br />&emsp;+ Phương pháp<br/><b>- Bing :</b><br />&emsp;+ Phương phápmóc<br/><b>- MyMemory :</b><br />&emsp;+ Phương pháp móc câu<br/></div>
+demystifying,<div><b>- Google :</b><br />&emsp;+ Làm sáng tỏ<br/><b>- Bing :</b><br />&emsp;+ Làm sáng tỏ<br/><b>- MyMemory :</b><br />&emsp;+ Làm sáng tỏ<br/></div>
+calmemory,<div><b>- Google :</b><br />&emsp;+ Bình tĩnh<br/><b>- Bing :</b><br />&emsp;+ Bộ nhớ cal<br/><b>- MyMemory :</b><br />&emsp;+ Bộ nhớ tĩnh<br/></div>
+oops,<div><b>- Google :</b><br />&emsp;+ Ối<br/><b>- Bing :</b><br />&emsp;+ Rất tiếc<br/><b>- MyMemory :</b><br />&emsp;+ Trời<br/></div>
+suppcheck,<div><b>- Google :</b><br />&emsp;+ Supceck<br/><b>- MyMemory :</b><br />&emsp;+ Kiểm tra lại<br/></div>
+mainte,<div><b>- Google :</b><br />&emsp;+ Chính<br/><b>- MyMemory :</b><br />&emsp;+ Vật liệu bảo quản<br/></div>
+asymptotes,<div><b>- Google :</b><br />&emsp;+ Tiệm cận<br/><b>- Bing :</b><br />&emsp;+ Không có triệu chứng<br/><b>- MyMemory :</b><br />&emsp;+ Đường tiệm cận<br/></div>
+addnamespace,<div><b>- Google :</b><br />&emsp;+ Không gian bổ sung<br/><b>- MyMemory :</b><br />&emsp;+ Không gian tên bổ sung<br/></div>
+registrypath,<div><b>- Google :</b><br />&emsp;+ Đăng ký<br/><b>- Bing :</b><br />&emsp;+ Đường dẫn đăng ký<br/><b>- MyMemory :</b><br />&emsp;+ Đường dẫn đăng ký<br/></div>
+waitfor,<div><b>- Google :</b><br />&emsp;+ Chờ<br/><b>- Bing :</b><br />&emsp;+ Chờ đợi<br/><b>- MyMemory :</b><br />&emsp;+ Chờ đợi<br/></div>
+faucet,<div><b>- Google :</b><br />&emsp;+ Vòi<br/><b>- Bing :</b><br />&emsp;+ Vòi<br/><b>- MyMemory :</b><br />&emsp;+ Vòi (ở thùng rượu....)<br/></div>
+contestants,<div><b>- Google :</b><br />&emsp;+ Thí sinh<br/><b>- Bing :</b><br />&emsp;+ Thí sinh<br/><b>- MyMemory :</b><br />&emsp;+ Đối tượng dự thi<br/></div>
+reinsert,<div><b>- Google :</b><br />&emsp;+ Reinst<br/><b>- Bing :</b><br />&emsp;+ Lắp lại<br/><b>- MyMemory :</b><br />&emsp;+ Chèn lại<br/></div>
+admins,<div><b>- Google :</b><br />&emsp;+ Quản trị viên<br/><b>- Bing :</b><br />&emsp;+ Quản trị viên<br/><b>- MyMemory :</b><br />&emsp;+ Quản trị viên<br/></div>
+internationally,<div><b>- Google :</b><br />&emsp;+ Thế giới quốc tế<br/><b>- Bing :</b><br />&emsp;+ Quốc tế<br/><b>- MyMemory :</b><br />&emsp;+ Quốc tế<br/></div>
+vip,<div><b>- Google :</b><br />&emsp;+ Cao cấp<br/><b>- MyMemory :</b><br />&emsp;+ Yếu nhân<br/></div>
+modate,<div><b>- Google :</b><br />&emsp;+ Sửa đổi<br/><b>- MyMemory :</b><br />&emsp;+ Điều độ<br/></div>
+incomparable,<div><b>- Google :</b><br />&emsp;+ Không thể so sánh được<br/><b>- MyMemory :</b><br />&emsp;+ Không thể so sánh được<br/></div>
+sourceware,<div><b>- Google :</b><br />&emsp;+ Phần mềm nguồn<br/><b>- Bing :</b><br />&emsp;+ Phần mềm nguồn<br/><b>- MyMemory :</b><br />&emsp;+ Phần mềm nguồn<br/></div>
+foothold,<div><b>- Google :</b><br />&emsp;+ Đỗ xe<br/><b>- Bing :</b><br />&emsp;+ Chỗ đứng<br/><b>- MyMemory :</b><br />&emsp;+ Chỗ đứng<br/></div>
+serializes,<div><b>- Google :</b><br />&emsp;+ Tuần tự hóa<br/><b>- Bing :</b><br />&emsp;+ Nối tiếp hóa<br/><b>- MyMemory :</b><br />&emsp;+ Tuần tự hóa<br/></div>
+zygote,<div><b>- Google :</b><br />&emsp;+ Hợp tử<br/><b>- Bing :</b><br />&emsp;+ Hợp tử<br/><b>- MyMemory :</b><br />&emsp;+ Hợp tử<br/></div>
+decompilers,<div><b>- Google :</b><br />&emsp;+ Người phân hủy<br/><b>- Bing :</b><br />&emsp;+ Dịch ngược<br/><b>- MyMemory :</b><br />&emsp;+ Máy dịch ngược<br/></div>
+largebin,<div><b>- Google :</b><br />&emsp;+ Lớn<br/><b>- Bing :</b><br />&emsp;+ Thùng lớn<br/><b>- MyMemory :</b><br />&emsp;+ Bigbin<br/></div>
+windows,<div><b>- Google :</b><br />&emsp;+ Các cửa sổ<br/><b>- MyMemory :</b><br />&emsp;+ Các cửa sổ<br/></div>
+createbitmap,<div><b>- Google :</b><br />&emsp;+ Createdbitmap<br/><b>- Bing :</b><br />&emsp;+ Tạobitmap<br/></div>
+shooturl,<div><b>- Google :</b><br />&emsp;+ Bắn súng<br/><b>- Bing :</b><br />&emsp;+ Bắn súng<br/><b>- MyMemory :</b><br />&emsp;+ Thai<br/></div>
+useragent,<div><b>- Google :</b><br />&emsp;+ Đại lý người dùng<br/><b>- Bing :</b><br />&emsp;+ Tác nhân người dùng<br/><b>- MyMemory :</b><br />&emsp;+ Tác nhân người dùng<br/></div>
+dependencie,<div><b>- Google :</b><br />&emsp;+ Phụ thuộc<br/><b>- Bing :</b><br />&emsp;+ Phụ thuộc<br/><b>- MyMemory :</b><br />&emsp;+ Phụ thuộc<br/></div>
+allowsessioncoo,<div><b>- Google :</b><br />&emsp;+ Cho phép<br/><b>- Bing :</b><br />&emsp;+ Cho phépsessioncoo<br/><b>- MyMemory :</b><br />&emsp;+ Cho phépessioncoo<br/></div>
+getarraylength,<div><b>- Google :</b><br />&emsp;+ Getarraylpm<br/><b>- MyMemory :</b><br />&emsp;+ Bước sóng getarraylength<br/></div>
+exchangeable,<div><b>- Google :</b><br />&emsp;+ Có thể trao đổi<br/><b>- Bing :</b><br />&emsp;+ Trao đổi<br/><b>- MyMemory :</b><br />&emsp;+ Có thể đổi chác<br/></div>
+withe,<div><b>- Google :</b><br />&emsp;+ Với<br/><b>- Bing :</b><br />&emsp;+ Với<br/><b>- MyMemory :</b><br />&emsp;+ Vách ngăn trong mương khói<br/></div>
+reversers,<div><b>- Google :</b><br />&emsp;+ Đảo ngược<br/><b>- Bing :</b><br />&emsp;+ Bộ đảo chiều<br/><b>- MyMemory :</b><br />&emsp;+ Bộ đảo chiều<br/></div>
+credentialkey,<div><b>- Google :</b><br />&emsp;+ Custidentialkey<br/><b>- Bing :</b><br />&emsp;+ Khóa thông tin xác thực<br/><b>- MyMemory :</b><br />&emsp;+ Khóa xác thực<br/></div>
+keylength,<div><b>- Google :</b><br />&emsp;+ Keyly<br/><b>- Bing :</b><br />&emsp;+ Độ dài phím<br/><b>- MyMemory :</b><br />&emsp;+ Độ dài khóa<br/></div>
+psystem,<div><b>- Google :</b><br />&emsp;+ Hệ thống psy<br/><b>- Bing :</b><br />&emsp;+ Hệ thống<br/></div>
+ioninformation,<div><b>- Google :</b><br />&emsp;+ Thông tin ion<br/><b>- Bing :</b><br />&emsp;+ Thông tin ion<br/><b>- MyMemory :</b><br />&emsp;+ Thông tin ion<br/></div>
+banners,<div><b>- Google :</b><br />&emsp;+ Băng rôn<br/><b>- Bing :</b><br />&emsp;+ Biểu ngữ<br/><b>- MyMemory :</b><br />&emsp;+ Banner<br/></div>
+mtus,<div><b>- Google :</b><br />&emsp;+ Mtu<br/><b>- Bing :</b><br />&emsp;+ Mtu<br/><b>- MyMemory :</b><br />&emsp;+ Thai<br/></div>
+decralation,<div><b>- Google :</b><br />&emsp;+ Sự phân tán<br/><b>- MyMemory :</b><br />&emsp;+ Sự phi tập trung<br/></div>
+meterpreter,<div><b>- Google :</b><br />&emsp;+ Máy đo<br/><b>- Bing :</b><br />&emsp;+ Máy đo<br/><b>- MyMemory :</b><br />&emsp;+ Dụng cụ đo<br/></div>
+proxied,<div><b>- Google :</b><br />&emsp;+ Ủy quyền<br/><b>- Bing :</b><br />&emsp;+ Ủy quyền<br/><b>- MyMemory :</b><br />&emsp;+ Được ủy quyền<br/></div>
+onleave,<div><b>- Google :</b><br />&emsp;+ Nghỉ<br/><b>- Bing :</b><br />&emsp;+ Nghỉ phép<br/><b>- MyMemory :</b><br />&emsp;+ Nghỉ phép một lần<br/></div>
+defaultly,<div><b>- Google :</b><br />&emsp;+ Mặc định<br/><b>- Bing :</b><br />&emsp;+ Mặc định<br/><b>- MyMemory :</b><br />&emsp;+ Mặc định<br/></div>
+mitre,<div><b>- Google :</b><br />&emsp;+ Miter<br/><b>- MyMemory :</b><br />&emsp;+ Sự ghép chéo góc, mộng ghép chéo góc<br/></div>
+fromimage,<div><b>- Google :</b><br />&emsp;+ Từ bức ảnh<br/><b>- Bing :</b><br />&emsp;+ Từhình ảnh<br/></div>
+newaccount,<div><b>- Google :</b><br />&emsp;+ Tài khoản mới<br/><b>- Bing :</b><br />&emsp;+ Tài khoản mới<br/><b>- MyMemory :</b><br />&emsp;+ Tài khoản mới<br/></div>
+meticulous,<div><b>- Google :</b><br />&emsp;+ Tỉ mỉ<br/><b>- Bing :</b><br />&emsp;+ Tỉ mỉ<br/><b>- MyMemory :</b><br />&emsp;+ Tỉ mỉ<br/></div>
+dvcs,<div><b>- Google :</b><br />&emsp;+ Dvc<br/><b>- Bing :</b><br />&emsp;+ Dvc<br/></div>
+conveniences,<div><b>- Google :</b><br />&emsp;+ Thuận tiện<br/><b>- Bing :</b><br />&emsp;+ Tiện nghi<br/><b>- MyMemory :</b><br />&emsp;+ Tiện nghi<br/></div>
+encase,<div><b>- Google :</b><br />&emsp;+ Bao bọc<br/><b>- Bing :</b><br />&emsp;+ Vỏ bọc<br/><b>- MyMemory :</b><br />&emsp;+ Bọc, bọc, bọc<br/></div>
+securityprovide,<div><b>- Google :</b><br />&emsp;+ Cung cấp bảo mật<br/><b>- Bing :</b><br />&emsp;+ Bảo mậtcung cấp<br/><b>- MyMemory :</b><br />&emsp;+ Cung cấp bảo mật<br/></div>
+unregister,<div><b>- Google :</b><br />&emsp;+ Unpister<br/><b>- Bing :</b><br />&emsp;+ Hủy đăng ký<br/><b>- MyMemory :</b><br />&emsp;+ Hủy đăng ký<br/></div>
+remalloced,<div><b>- Google :</b><br />&emsp;+ Được nhắc lại<br/><b>- MyMemory :</b><br />&emsp;+ Phân bổ lại<br/></div>
+dispo,<div><b>- Google :</b><br />&emsp;+ Phân phối<br/><b>- Bing :</b><br />&emsp;+ Dùng một lần<br/><b>- MyMemory :</b><br />&emsp;+ Giải tán<br/></div>
+urlpatterns,<div><b>- Google :</b><br />&emsp;+ Urlpoters<br/><b>- Bing :</b><br />&emsp;+ Mẫu url<br/><b>- MyMemory :</b><br />&emsp;+ Urlpatterns <g id="1">=</g> [<br/></div>
+pagination,<div><b>- Google :</b><br />&emsp;+ Phân trang<br/><b>- MyMemory :</b><br />&emsp;+ Phân trang (pagination)<br/></div>
+vouchers,<div><b>- Google :</b><br />&emsp;+ Chứng từ<br/><b>- Bing :</b><br />&emsp;+ Phiếu<br/><b>- MyMemory :</b><br />&emsp;+ Phiếu quà tặng<br/></div>
+requestedclassn,<div><b>- Google :</b><br />&emsp;+ Yêu cầu classn<br/><b>- Bing :</b><br />&emsp;+ Yêu cầuclassn<br/><b>- MyMemory :</b><br />&emsp;+ Lớp yêu cầu<br/></div>
+chargeback,<div><b>- Google :</b><br />&emsp;+ Bồi hoàn<br/><b>- Bing :</b><br />&emsp;+ Bồi hoàn<br/><b>- MyMemory :</b><br />&emsp;+ Hoàn tiền<br/></div>
+fromcharcode,<div><b>- Google :</b><br />&emsp;+ Từ varcode<br/><b>- Bing :</b><br />&emsp;+ Từcharcode<br/></div>
+deducted,<div><b>- Google :</b><br />&emsp;+ Khấu trừ<br/><b>- Bing :</b><br />&emsp;+ Bị khấu trừ<br/><b>- MyMemory :</b><br />&emsp;+ Khấu trừ<br/></div>
+combinatorial,<div><b>- Google :</b><br />&emsp;+ Tổ hợp<br/><b>- Bing :</b><br />&emsp;+ Tổ hợp<br/><b>- MyMemory :</b><br />&emsp;+ Toán học tổ hợp<br/></div>
+accessedon,<div><b>- Google :</b><br />&emsp;+ Truy cập vào<br/><b>- Bing :</b><br />&emsp;+ Truy cập<br/><b>- MyMemory :</b><br />&emsp;+ Accesson<br/></div>
+intellij,<div><b>- Google :</b><br />&emsp;+ Intelli<br/><b>- MyMemory :</b><br />&emsp;+ Thai<br/></div>
+decodeuri,<div><b>- Google :</b><br />&emsp;+ Giải mã<br/><b>- Bing :</b><br />&emsp;+ Giải mã uri<br/><b>- MyMemory :</b><br />&emsp;+ Giải mã<br/></div>
+myapp,<div><b>- Google :</b><br />&emsp;+ Ứng dụng của tôi<br/><b>- Bing :</b><br />&emsp;+ Ứng dụng của tôi<br/></div>
+distinctively,<div><b>- Google :</b><br />&emsp;+ Đặc biệt<br/><b>- Bing :</b><br />&emsp;+ Đặc biệt<br/><b>- MyMemory :</b><br />&emsp;+ Một cách đặc trưng<br/></div>
+remoting,<div><b>- Google :</b><br />&emsp;+ Xa xôi<br/><b>- Bing :</b><br />&emsp;+ Từ xa<br/><b>- MyMemory :</b><br />&emsp;+ Điều khiển từ xa<br/></div>
+decodeaes,<div><b>- Google :</b><br />&emsp;+ Giải mã<br/><b>- Bing :</b><br />&emsp;+ Giải mã<br/><b>- MyMemory :</b><br />&emsp;+ Bộ giải mã<br/></div>
+shelled,<div><b>- Google :</b><br />&emsp;+ Có vỏ<br/><b>- Bing :</b><br />&emsp;+ Vỏ<br/><b>- MyMemory :</b><br />&emsp;+ Bóc vỏ<br/></div>
+sect,<div><b>- Google :</b><br />&emsp;+ Giáo phái<br/><b>- Bing :</b><br />&emsp;+ Giáo phái<br/><b>- MyMemory :</b><br />&emsp;+ Các ngành.<br/></div>
+unshelling,<div><b>- Google :</b><br />&emsp;+ Không được biết<br/><b>- Bing :</b><br />&emsp;+ Tháo vỏ<br/><b>- MyMemory :</b><br />&emsp;+ Tháo dỡ<br/></div>
+changelogs,<div><b>- Google :</b><br />&emsp;+ Thay đổi<br/><b>- Bing :</b><br />&emsp;+ Nhật ký thay đổi<br/><b>- MyMemory :</b><br />&emsp;+ Nhật ký thay đổi<br/></div>
+auser,<div><b>- Google :</b><br />&emsp;+ Một người dùng<br/><b>- Bing :</b><br />&emsp;+ Người dùng<br/><b>- MyMemory :</b><br />&emsp;+ Người sử dụng<br/></div>
+dispatchsucess,<div><b>- Google :</b><br />&emsp;+ Công văn thành công<br/><b>- Bing :</b><br />&emsp;+ Công văn<br/><b>- MyMemory :</b><br />&emsp;+ Công văn thành công<br/></div>
+currentsum,<div><b>- Google :</b><br />&emsp;+ Dòng điện<br/><b>- Bing :</b><br />&emsp;+ Tổng hiện tại<br/><b>- MyMemory :</b><br />&emsp;+ Dòng chảy<br/></div>
+infura,<div><b>- Google :</b><br />&emsp;+ Insura<br/><b>- MyMemory :</b><br />&emsp;+ Vùng dưới màng cứng<br/></div>
+uploadpic,<div><b>- Google :</b><br />&emsp;+ Tải lên<br/><b>- Bing :</b><br />&emsp;+ Tải lên<br/><b>- MyMemory :</b><br />&emsp;+ Tải lênpic<br/></div>
+prepack,<div><b>- Google :</b><br />&emsp;+ Đóng gói<br/><b>- Bing :</b><br />&emsp;+ Đóng gói sẵn<br/><b>- MyMemory :</b><br />&emsp;+ Thiết bị đóng bao<br/></div>
+repalce,<div><b>- Google :</b><br />&emsp;+ Đổi lại<br/><b>- MyMemory :</b><br />&emsp;+ Sự trả lại tiền<br/></div>
+maskray,<div><b>- Google :</b><br />&emsp;+ Mặt nạ<br/><b>- Bing :</b><br />&emsp;+ Mặt nạ<br/><b>- MyMemory :</b><br />&emsp;+ Mặt nạ<br/></div>
+unrecursive,<div><b>- Google :</b><br />&emsp;+ Không được xác định<br/><b>- Bing :</b><br />&emsp;+ Không đệ quy<br/><b>- MyMemory :</b><br />&emsp;+ Không đệ quy<br/></div>
+ngrok,<div><b>- Google :</b><br />&emsp;+ Nggrok<br/><b>- MyMemory :</b><br />&emsp;+ Thong<br/></div>
+browserslist,<div><b>- Google :</b><br />&emsp;+ Danh sách trình duyệt<br/><b>- Bing :</b><br />&emsp;+ Danh sách trình duyệt<br/><b>- MyMemory :</b><br />&emsp;+ Danh sách trình duyệt<br/></div>
+recommed,<div><b>- Google :</b><br />&emsp;+ Được đề xuất<br/><b>- Bing :</b><br />&emsp;+ Được giới thiệu lại<br/><b>- MyMemory :</b><br />&emsp;+ Được giới thiệu lại<br/></div>
+symboliclink,<div><b>- Google :</b><br />&emsp;+ Liên kết tượng trưng<br/><b>- Bing :</b><br />&emsp;+ Liên kết tượng trưng<br/><b>- MyMemory :</b><br />&emsp;+ Liên kết tượng trưng<br/></div>
+builtin,<div><b>- Google :</b><br />&emsp;+ Được xây dựng trong<br/><b>- MyMemory :</b><br />&emsp;+ Được xây dựng trong<br/></div>
+preload,<div><b>- Google :</b><br />&emsp;+ Tải trước<br/><b>- Bing :</b><br />&emsp;+ Tải trước<br/><b>- MyMemory :</b><br />&emsp;+ Đặt trước tải<br/></div>
+themself,<div><b>- Google :</b><br />&emsp;+ Chính họ<br/><b>- Bing :</b><br />&emsp;+ Mình<br/><b>- MyMemory :</b><br />&emsp;+ Bản thân họ<br/></div>
+prevente,<div><b>- Google :</b><br />&emsp;+ Ngăn chặn<br/><b>- Bing :</b><br />&emsp;+ Ngăn chặn<br/><b>- MyMemory :</b><br />&emsp;+ Ngăn ngừa<br/></div>
+attackserver,<div><b>- Google :</b><br />&emsp;+ Máy chủ tấn công<br/><b>- Bing :</b><br />&emsp;+ Máy chủ tấn công<br/><b>- MyMemory :</b><br />&emsp;+ Máy chủ tấn công<br/></div>
+invokeclass,<div><b>- Google :</b><br />&emsp;+ Introkeclass<br/><b>- Bing :</b><br />&emsp;+ Gọi lớp học<br/><b>- MyMemory :</b><br />&emsp;+ Lớp dưới cùng<br/></div>
+decompilable,<div><b>- Google :</b><br />&emsp;+ Phân hủy<br/><b>- Bing :</b><br />&emsp;+ Dịch ngược<br/><b>- MyMemory :</b><br />&emsp;+ Có thể phân hủy<br/></div>
+followlocation,<div><b>- Google :</b><br />&emsp;+ Tiếp theo<br/><b>- Bing :</b><br />&emsp;+ Theo dõi vị trí<br/><b>- MyMemory :</b><br />&emsp;+ Theo dõi<br/></div>
+handyman,<div><b>- Google :</b><br />&emsp;+ Người tiện dụng<br/><b>- Bing :</b><br />&emsp;+ Người siêng năng<br/><b>- MyMemory :</b><br />&emsp;+ Người siêng năng<br/></div>
+asymptote,<div><b>- Google :</b><br />&emsp;+ Không học được<br/><b>- Bing :</b><br />&emsp;+ Đường tiệm cận<br/><b>- MyMemory :</b><br />&emsp;+ Đường tiệm cận<br/></div>
+serializing,<div><b>- Google :</b><br />&emsp;+ Tuần tự hóa<br/><b>- Bing :</b><br />&emsp;+ Nối tiếp hóa<br/><b>- MyMemory :</b><br />&emsp;+ Tuần tự hóa<br/></div>
+unsroted,<div><b>- Google :</b><br />&emsp;+ Không bị bỏng<br/><b>- Bing :</b><br />&emsp;+ Chưa thối rữa<br/><b>- MyMemory :</b><br />&emsp;+ Chưa được cày xới<br/></div>
+nosql,<div><b>- Google :</b><br />&emsp;+ Noql<br/><b>- MyMemory :</b><br />&emsp;+ Thai<br/></div>
+tournament,<div><b>- Google :</b><br />&emsp;+ Giải đấu<br/><b>- Bing :</b><br />&emsp;+ Giải đấu<br/><b>- MyMemory :</b><br />&emsp;+ Giải đấu<br/></div>
+requestmapping,<div><b>- Google :</b><br />&emsp;+ Yêu cầu<br/><b>- Bing :</b><br />&emsp;+ Yêu cầu lập bản đồ<br/><b>- MyMemory :</b><br />&emsp;+ Ánh xạ yêu cầu<br/></div>
+backslashes,<div><b>- Google :</b><br />&emsp;+ Sự chần chấu<br/><b>- Bing :</b><br />&emsp;+ Dấu gạch chéo ngược<br/><b>- MyMemory :</b><br />&emsp;+ Dấu gạch chéo ngược<br/></div>
+unobfuscated,<div><b>- Google :</b><br />&emsp;+ Không bị cản trở<br/><b>- Bing :</b><br />&emsp;+ Không bị xáo trộn<br/><b>- MyMemory :</b><br />&emsp;+ Chưa săm soi<br/></div>
+inuse,<div><b>- Google :</b><br />&emsp;+ Nhúng<br/><b>- Bing :</b><br />&emsp;+ Không sử dụng<br/><b>- MyMemory :</b><br />&emsp;+ Không sử dụng<br/></div>
+transferto,<div><b>- Google :</b><br />&emsp;+ Chuyển tới<br/><b>- Bing :</b><br />&emsp;+ Chuyển đến<br/></div>
+webpack,<div><b>- Google :</b><br />&emsp;+ Trang web<br/><b>- Bing :</b><br />&emsp;+ Gói web<br/></div>
+insensitive,<div><b>- Google :</b><br />&emsp;+ Vô cảm<br/><b>- MyMemory :</b><br />&emsp;+ - nhạy cảm?<br/></div>
+exceptioncontin,<div><b>- Google :</b><br />&emsp;+ Ngoại lệ<br/><b>- Bing :</b><br />&emsp;+ Ngoại lệcontin<br/><b>- MyMemory :</b><br />&emsp;+ Tiếp tục ngoại lệ<br/></div>
+contactsprovide,<div><b>- Google :</b><br />&emsp;+ Liên hệ cung cấp<br/><b>- Bing :</b><br />&emsp;+ Liên hệcung cấp<br/></div>
+handleentry,<div><b>- Google :</b><br />&emsp;+ Tay cầm<br/><b>- Bing :</b><br />&emsp;+ Tay cầmentry<br/><b>- MyMemory :</b><br />&emsp;+ Sự xử lý<br/></div>
+rekindled,<div><b>- Google :</b><br />&emsp;+ Nhen nhóm<br/><b>- Bing :</b><br />&emsp;+ Nhen nhóm<br/><b>- MyMemory :</b><br />&emsp;+ Nhen nhóm lại<br/></div>
+snooped,<div><b>- Google :</b><br />&emsp;+ Rình mò<br/><b>- Bing :</b><br />&emsp;+ Rình mò<br/><b>- MyMemory :</b><br />&emsp;+ Bị rình mò<br/></div>
+packetptr,<div><b>- Google :</b><br />&emsp;+ Gói<br/><b>- Bing :</b><br />&emsp;+ Gói tin<br/></div>
+prerequirements,<div><b>- Google :</b><br />&emsp;+ Điều kiện tiên quyết<br/><b>- Bing :</b><br />&emsp;+ Yêu cầu tiên quyết<br/><b>- MyMemory :</b><br />&emsp;+ Sự yêu cầu trước<br/></div>
+architec,<div><b>- Google :</b><br />&emsp;+ Kiến trúc sư<br/><b>- Bing :</b><br />&emsp;+ Kiến trúc<br/></div>
+expliot,<div><b>- Google :</b><br />&emsp;+ Tình trạng khó khăn<br/><b>- Bing :</b><br />&emsp;+ Rõ ràng<br/><b>- MyMemory :</b><br />&emsp;+ Khám phá<br/></div>
+backends,<div><b>- Google :</b><br />&emsp;+ Phụ trợ<br/><b>- Bing :</b><br />&emsp;+ Phụ trợ<br/><b>- MyMemory :</b><br />&emsp;+ Phụ trợ<br/></div>
+toolchains,<div><b>- Google :</b><br />&emsp;+ Dụng cụ<br/><b>- Bing :</b><br />&emsp;+ Chuỗi công cụ<br/><b>- MyMemory :</b><br />&emsp;+ Chuỗi công cụ<br/></div>
+physicist,<div><b>- Google :</b><br />&emsp;+ Nhà vật lý<br/><b>- Bing :</b><br />&emsp;+ Nhà vật lý<br/><b>- MyMemory :</b><br />&emsp;+ Nhà vật lý<br/></div>
+contestant,<div><b>- Google :</b><br />&emsp;+ Thí sinh<br/><b>- Bing :</b><br />&emsp;+ Thí sinh<br/><b>- MyMemory :</b><br />&emsp;+ Thí sinh<br/></div>
+richfaces,<div><b>- Google :</b><br />&emsp;+ Giàu có<br/><b>- Bing :</b><br />&emsp;+ Khuôn mặt giàu có<br/><b>- MyMemory :</b><br />&emsp;+ Richface<br/></div>
+llist,<div><b>- Google :</b><br />&emsp;+ Danh sách<br/><b>- Bing :</b><br />&emsp;+ Danh sách<br/><b>- MyMemory :</b><br />&emsp;+ Danh sách<br/></div>
+writelength,<div><b>- Google :</b><br />&emsp;+ Writength<br/><b>- Bing :</b><br />&emsp;+ Độ dài viết<br/><b>- MyMemory :</b><br />&emsp;+ Độ dài ghi<br/></div>
+choosedb,<div><b>- Google :</b><br />&emsp;+ Đã chọn<br/><b>- Bing :</b><br />&emsp;+ Đã chọndb<br/></div>
+decompilation,<div><b>- Google :</b><br />&emsp;+ Sự phân hủy<br/><b>- Bing :</b><br />&emsp;+ Dịch ngược<br/><b>- MyMemory :</b><br />&emsp;+ Sự dịch ngược<br/></div>
+negligence,<div><b>- Google :</b><br />&emsp;+ Thiếu trách nhiệm<br/><b>- Bing :</b><br />&emsp;+ Tính cẩu thả<br/><b>- MyMemory :</b><br />&emsp;+ Tính cẩu thả<br/></div>
+rsas,<div><b>- Google :</b><br />&emsp;+ Rsa<br/><b>- Bing :</b><br />&emsp;+ Rsa<br/></div>
+normlize,<div><b>- Google :</b><br />&emsp;+ Định mức<br/><b>- Bing :</b><br />&emsp;+ Định mức hóa<br/><b>- MyMemory :</b><br />&emsp;+ Chuẩn hóa<br/></div>
+registerreceive,<div><b>- Google :</b><br />&emsp;+ Đăng kýreceive<br/><b>- Bing :</b><br />&emsp;+ Đăng kýnhận<br/><b>- MyMemory :</b><br />&emsp;+ Đăng kýđược nhận<br/></div>
+filetype,<div><b>- Google :</b><br />&emsp;+ Loại tệp<br/><b>- Bing :</b><br />&emsp;+ Loại tệp<br/><b>- MyMemory :</b><br />&emsp;+ Loại tập tin<br/></div>
+imagina,<div><b>- Google :</b><br />&emsp;+ Tưởng tượng<br/><b>- Bing :</b><br />&emsp;+ Tưởng tượng<br/><b>- MyMemory :</b><br />&emsp;+ Sự tưởng tượng<br/></div>
+holistically,<div><b>- Google :</b><br />&emsp;+ Toàn diện<br/><b>- MyMemory :</b><br />&emsp;+ Một cách toàn diện<br/></div>
+rectwindow,<div><b>- Google :</b><br />&emsp;+ Ứng suất trực tràng<br/><b>- Bing :</b><br />&emsp;+ Cửa sổ trực tràng<br/><b>- MyMemory :</b><br />&emsp;+ Cửa sổ trực tiếp<br/></div>
+lepath,<div><b>- Google :</b><br />&emsp;+ Hưng phấn<br/><b>- MyMemory :</b><br />&emsp;+ Bệnh phung<br/></div>
+uage,<div><b>- Google :</b><br />&emsp;+ Tuổi của bạn<br/><b>- MyMemory :</b><br />&emsp;+ Thức ăn gia súc<br/></div>
+candownload,<div><b>- Google :</b><br />&emsp;+ Tải nang<br/><b>- Bing :</b><br />&emsp;+ Có thểtải xuống<br/><b>- MyMemory :</b><br />&emsp;+ Tải hình nến<br/></div>
+retention,<div><b>- Google :</b><br />&emsp;+ Giữ lại<br/><b>- Bing :</b><br />&emsp;+ Duy trì<br/><b>- MyMemory :</b><br />&emsp;+ Giữ<br/></div>
+hijacks,<div><b>- Google :</b><br />&emsp;+ Cướp<br/><b>- Bing :</b><br />&emsp;+ Không tặc<br/><b>- MyMemory :</b><br />&emsp;+ Cướp máy bay<br/></div>
+attributeerror,<div><b>- Google :</b><br />&emsp;+ Thuộc tính<br/><b>- Bing :</b><br />&emsp;+ Thuộc tínhlỗi<br/><b>- MyMemory :</b><br />&emsp;+ Lỗi thuộc tính<br/></div>
+blocknumber,<div><b>- Google :</b><br />&emsp;+ Chặn số<br/><b>- Bing :</b><br />&emsp;+ Số khối<br/><b>- MyMemory :</b><br />&emsp;+ Số khối<br/></div>
+updatehead,<div><b>- Google :</b><br />&emsp;+ Cập nhật<br/><b>- Bing :</b><br />&emsp;+ Đầu cập nhật<br/><b>- MyMemory :</b><br />&emsp;+ Tiêu đề cập nhật<br/></div>
+whatvalue,<div><b>- Google :</b><br />&emsp;+ Giá trị gì<br/><b>- Bing :</b><br />&emsp;+ Giá trị gì<br/><b>- MyMemory :</b><br />&emsp;+ Giá trị nào<br/></div>
+webpage,<div><b>- Google :</b><br />&emsp;+ Trang web<br/><b>- Bing :</b><br />&emsp;+ Trang web<br/></div>
+casino,<div><b>- Google :</b><br />&emsp;+ Sòng bạc<br/><b>- Bing :</b><br />&emsp;+ Sòng bạc<br/><b>- MyMemory :</b><br />&emsp;+ Sòng bạc<br/></div>
+rjust,<div><b>- Google :</b><br />&emsp;+ Đau đớn<br/><b>- MyMemory :</b><br />&emsp;+ Điều chỉnh<br/></div>
+answerer,<div><b>- Google :</b><br />&emsp;+ Người trả lời<br/><b>- Bing :</b><br />&emsp;+ Người trả lời<br/><b>- MyMemory :</b><br />&emsp;+ Người trả lời<br/></div>
+allowlist,<div><b>- Google :</b><br />&emsp;+ Danh sách cho phép<br/><b>- Bing :</b><br />&emsp;+ Danh sách cho phép<br/><b>- MyMemory :</b><br />&emsp;+ Danh sách cho phép<br/></div>
+allocatoriceeee,<div><b>- Google :</b><br />&emsp;+ Phân bổ<br/><b>- Bing :</b><br />&emsp;+ Phân bổ<br/><b>- MyMemory :</b><br />&emsp;+ Người được phân phối<br/></div>
+stacklocation,<div><b>- Google :</b><br />&emsp;+ Ngăn xếp<br/><b>- Bing :</b><br />&emsp;+ Vị trí xếp chồng<br/><b>- MyMemory :</b><br />&emsp;+ Sự sắp xếp chồng<br/></div>
+appointment,<div><b>- Google :</b><br />&emsp;+ Cuộc hẹn<br/><b>- Bing :</b><br />&emsp;+ Hẹn<br/><b>- MyMemory :</b><br />&emsp;+ Sự bồ nhiệm, người được bồ nhiệm<br/></div>
+entblock,<div><b>- Google :</b><br />&emsp;+ Bùa<br/><b>- Bing :</b><br />&emsp;+ Chặn entblock<br/></div>
+unzipped,<div><b>- Google :</b><br />&emsp;+ Giải nén<br/><b>- MyMemory :</b><br />&emsp;+ Đã giải nén<br/></div>
+vailable,<div><b>- Google :</b><br />&emsp;+ Có sẵn<br/><b>- Bing :</b><br />&emsp;+ Vô ích<br/><b>- MyMemory :</b><br />&emsp;+ Có sẵn<br/></div>
+hacker,<div><b>- Google :</b><br />&emsp;+ Tin tặc<br/><b>- Bing :</b><br />&emsp;+ Tin tặc<br/></div>
+importlib,<div><b>- Google :</b><br />&emsp;+ Nhập khẩu<br/><b>- Bing :</b><br />&emsp;+ Nhập khẩu<br/></div>
+punctuations,<div><b>- Google :</b><br />&emsp;+ Dấu chấm câu<br/><b>- Bing :</b><br />&emsp;+ Dấu câu<br/><b>- MyMemory :</b><br />&emsp;+ Chấm câu<br/></div>
+virtualizes,<div><b>- Google :</b><br />&emsp;+ Ảo hóa<br/><b>- Bing :</b><br />&emsp;+ Ảo hóa<br/><b>- MyMemory :</b><br />&emsp;+ Ảo hóa<br/></div>
+declaredclass,<div><b>- Google :</b><br />&emsp;+ Tuyên bố lớp<br/><b>- Bing :</b><br />&emsp;+ Khai báolớp<br/><b>- MyMemory :</b><br />&emsp;+ Lớp khai báo<br/></div>
+beauti,<div><b>- Google :</b><br />&emsp;+ Đẹp<br/><b>- Bing :</b><br />&emsp;+ Người đẹp<br/><b>- MyMemory :</b><br />&emsp;+ Thai<br/></div>
+watermarks,<div><b>- Google :</b><br />&emsp;+ Hình mờ<br/><b>- MyMemory :</b><br />&emsp;+ Hình mờ<br/></div>
+duces,<div><b>- Google :</b><br />&emsp;+ Đào<br/><b>- MyMemory :</b><br />&emsp;+ Duc<br/></div>
+reversely,<div><b>- Google :</b><br />&emsp;+ Đảo ngược<br/><b>- Bing :</b><br />&emsp;+ Ngược lại<br/><b>- MyMemory :</b><br />&emsp;+ Ngược<br/></div>
+shiftrows,<div><b>- Google :</b><br />&emsp;+ Dịch chuyển<br/><b>- MyMemory :</b><br />&emsp;+ Dịch chuyển<br/></div>
+victime,<div><b>- Google :</b><br />&emsp;+ Chiến thắng<br/><b>- Bing :</b><br />&emsp;+ Vùng lân cận<br/><b>- MyMemory :</b><br />&emsp;+ Chiến lợi phẩm<br/></div>
+ciently,<div><b>- Google :</b><br />&emsp;+ Một cách rõ ràng<br/><b>- Bing :</b><br />&emsp;+ Khoa học<br/></div>
+uploadcontrolle,<div><b>- Google :</b><br />&emsp;+ Tải lên<br/><b>- MyMemory :</b><br />&emsp;+ Điều khiển tải lên<br/></div>
+worawit,<div><b>- Google :</b><br />&emsp;+ Weeawit<br/><b>- MyMemory :</b><br />&emsp;+ Wormawit<br/></div>
+storesessioncoo,<div><b>- Google :</b><br />&emsp;+ Cửa hàngcoo<br/><b>- MyMemory :</b><br />&emsp;+ Storeessioncoo<br/></div>
+htmlentities,<div><b>- Google :</b><br />&emsp;+ Htmlentity<br/><b>- Bing :</b><br />&emsp;+ Thực thể html<br/></div>
+predictions,<div><b>- Google :</b><br />&emsp;+ Phỏng đoán<br/><b>- Bing :</b><br />&emsp;+ Dự đoán<br/><b>- MyMemory :</b><br />&emsp;+ Dự đoán<br/></div>
+unserialize,<div><b>- Google :</b><br />&emsp;+ Không tinh thần<br/><b>- Bing :</b><br />&emsp;+ Hủy lập số sê-ri<br/><b>- MyMemory :</b><br />&emsp;+ Không nối tiếp<br/></div>
+loopholes,<div><b>- Google :</b><br />&emsp;+ Kẽ hở<br/><b>- Bing :</b><br />&emsp;+ Sơ hở<br/><b>- MyMemory :</b><br />&emsp;+ Lỗ hổng<br/></div>
+trending,<div><b>- Google :</b><br />&emsp;+ Xu hướng<br/><b>- Bing :</b><br />&emsp;+ Xu hướng<br/><b>- MyMemory :</b><br />&emsp;+ Xu hướng<br/></div>
+registrycontext,<div><b>- Google :</b><br />&emsp;+ Đăng kýcontext<br/><b>- Bing :</b><br />&emsp;+ Ngữ cảnh đăng ký<br/></div>
+reallife,<div><b>- Google :</b><br />&emsp;+ Đời thực<br/><b>- Bing :</b><br />&emsp;+ Cuộc sống thực<br/><b>- MyMemory :</b><br />&emsp;+ Sinh vật sống lại<br/></div>
+mathemat,<div><b>- Google :</b><br />&emsp;+ Toán học<br/><b>- Bing :</b><br />&emsp;+ Toán học<br/><b>- MyMemory :</b><br />&emsp;+ Tím<br/></div>
+delims,<div><b>- Google :</b><br />&emsp;+ Xóa<br/><b>- MyMemory :</b><br />&emsp;+ Phân định ranh giới<br/></div>
+landingpage,<div><b>- Google :</b><br />&emsp;+ Trang đích<br/><b>- Bing :</b><br />&emsp;+ Trang đích<br/><b>- MyMemory :</b><br />&emsp;+ Trang chào<br/></div>
+automake,<div><b>- Google :</b><br />&emsp;+ Tự động hóa<br/><b>- Bing :</b><br />&emsp;+ Tự động tạo<br/><b>- MyMemory :</b><br />&emsp;+ Tự động hóa<br/></div>
+subscribed,<div><b>- Google :</b><br />&emsp;+ Đăng ký<br/><b>- Bing :</b><br />&emsp;+ Đăng ký<br/><b>- MyMemory :</b><br />&emsp;+ Đã đăng ký<br/></div>
+deduct,<div><b>- Google :</b><br />&emsp;+ Khấu trừ<br/><b>- Bing :</b><br />&emsp;+ Khấu<br/><b>- MyMemory :</b><br />&emsp;+ Trừ<br/></div>
+ptraced,<div><b>- Google :</b><br />&emsp;+ Ptracated<br/><b>- Bing :</b><br />&emsp;+ Truy tìm<br/></div>
+impartiality,<div><b>- Google :</b><br />&emsp;+ Vô tư<br/><b>- Bing :</b><br />&emsp;+ Vô tư<br/><b>- MyMemory :</b><br />&emsp;+ Không thiên vị<br/></div>
+redundantly,<div><b>- Google :</b><br />&emsp;+ Dư thừa<br/><b>- Bing :</b><br />&emsp;+ Dư thừa<br/><b>- MyMemory :</b><br />&emsp;+ Dự phòng<br/></div>
+whiches,<div><b>- Google :</b><br />&emsp;+ Cái nào<br/><b>- Bing :</b><br />&emsp;+ Cái nào<br/><b>- MyMemory :</b><br />&emsp;+ Thai<br/></div>
+audition,<div><b>- Google :</b><br />&emsp;+ Thử giọng<br/><b>- MyMemory :</b><br />&emsp;+ Thử giọng<br/></div>
+runned,<div><b>- Google :</b><br />&emsp;+ Chạy<br/><b>- Bing :</b><br />&emsp;+ Chạy<br/><b>- MyMemory :</b><br />&emsp;+ Chạy<br/></div>
+deactivating,<div><b>- Google :</b><br />&emsp;+ Vô hiệu hóa<br/><b>- Bing :</b><br />&emsp;+ Tắt<br/><b>- MyMemory :</b><br />&emsp;+ Đang hủy kích hoạ<br/></div>
+diversi,<div><b>- Google :</b><br />&emsp;+ Đa dạng<br/><b>- Bing :</b><br />&emsp;+ Thợ lặn<br/><b>- MyMemory :</b><br />&emsp;+ Đa dạng<br/></div>
+abstractfiltera,<div><b>- Google :</b><br />&emsp;+ Tóm tắtfiltera<br/><b>- Bing :</b><br />&emsp;+ Trừu tượngfiltera<br/><b>- MyMemory :</b><br />&emsp;+ Bộ lọc trừu tượng<br/></div>
+classmap,<div><b>- Google :</b><br />&emsp;+ Lớp học<br/><b>- Bing :</b><br />&emsp;+ Bản đồ lớp học<br/><b>- MyMemory :</b><br />&emsp;+ Bản đồ lớp<br/></div>
+execs,<div><b>- Google :</b><br />&emsp;+ Người thực hiện<br/><b>- MyMemory :</b><br />&emsp;+ Giám đốc điều hành<br/></div>
+methodname,<div><b>- Google :</b><br />&emsp;+ Tên phương thức<br/><b>- Bing :</b><br />&emsp;+ Tên phương pháp<br/><b>- MyMemory :</b><br />&emsp;+ Tên phương pháp<br/></div>
+adsecurity,<div><b>- Google :</b><br />&emsp;+ Tính an toàn<br/><b>- Bing :</b><br />&emsp;+ Bảo mật<br/><b>- MyMemory :</b><br />&emsp;+ An ninh quảng cáo<br/></div>
+tobase,<div><b>- Google :</b><br />&emsp;+ Cơ sở<br/><b>- Bing :</b><br />&emsp;+ Cơ sở<br/><b>- MyMemory :</b><br />&emsp;+ Căn cứ<br/></div>
+outbreaks,<div><b>- Google :</b><br />&emsp;+ Bùng phát<br/><b>- Bing :</b><br />&emsp;+ Dịch<br/><b>- MyMemory :</b><br />&emsp;+ Dịch bùng phát<br/></div>
+generatekeys,<div><b>- Google :</b><br />&emsp;+ Tạo rakeys<br/><b>- MyMemory :</b><br />&emsp;+ Tạo khóa<br/></div>
+apptheme,<div><b>- Google :</b><br />&emsp;+ Ứng dụng<br/><b>- Bing :</b><br />&emsp;+ Chủ đề ứng dụng<br/><b>- MyMemory :</b><br />&emsp;+ Chủ đề ứng dụng<br/></div>
+legitimacy,<div><b>- Google :</b><br />&emsp;+ Tính hợp pháp<br/><b>- Bing :</b><br />&emsp;+ Tính hợp pháp<br/><b>- MyMemory :</b><br />&emsp;+ Tính hợp pháp<br/></div>
+traceback,<div><b>- Google :</b><br />&emsp;+ Tìm lại<br/><b>- Bing :</b><br />&emsp;+ Truy xuất nguồn gốc<br/><b>- MyMemory :</b><br />&emsp;+ Truy xuất nguồn gốc<br/></div>
+paramseters,<div><b>- Google :</b><br />&emsp;+ Tham số<br/><b>- MyMemory :</b><br />&emsp;+ Tham số<br/></div>
