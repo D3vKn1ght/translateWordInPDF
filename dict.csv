@@ -24619,3 +24619,30 @@ wearefamily,<div><b>- Google :</b><br />&emsp;+ Chúng ta là gia đình<br/><b>
 repackage,<div><b>- Google :</b><br />&emsp;+ Đóng gói lại<br/><b>- Bing :</b><br />&emsp;+ Đóng gói lại<br/><b>- MyMemory :</b><br />&emsp;+ Đóng gói lại<br/></div>
 maintainers,<div><b>- Google :</b><br />&emsp;+ Người bảo trì<br/><b>- Bing :</b><br />&emsp;+ Người bảo trì<br/><b>- MyMemory :</b><br />&emsp;+ Người duy trì<br/></div>
 dissuaded,<div><b>- Google :</b><br />&emsp;+ Can thiệp<br/><b>- Bing :</b><br />&emsp;+ Can ngăn<br/><b>- MyMemory :</b><br />&emsp;+ Bị thuyết phục<br/></div>
+controllable,<div><b>- Google :</b><br />&emsp;+ Có thể kiểm soát được<br/><b>- Bing :</b><br />&emsp;+ Điều khiển<br/><b>- MyMemory :</b><br />&emsp;+ Ức chế được<br/></div>
+setattribute,<div><b>- Google :</b><br />&emsp;+ Setattribution<br/><b>- MyMemory :</b><br />&emsp;+ Thuộc tính thiết lập<br/></div>
+exibly,<div><b>- Google :</b><br />&emsp;+ Xuất hiện<br/><b>- MyMemory :</b><br />&emsp;+ Có thể chấp nhận được<br/></div>
+endfor,<div><b>- Google :</b><br />&emsp;+ Kết thúc<br/><b>- Bing :</b><br />&emsp;+ Kết thúc<br/><b>- MyMemory :</b><br />&emsp;+ {%<g id="1"> endfor</g> %}<br/></div>
+gettime,<div><b>- Google :</b><br />&emsp;+ Dành thời gian<br/><b>- Bing :</b><br />&emsp;+ Thời gian nhận được<br/></div>
+telegraph,<div><b>- Google :</b><br />&emsp;+ Điện báo<br/><b>- Bing :</b><br />&emsp;+ Máy điện báo<br/><b>- MyMemory :</b><br />&emsp;+ Máy điện báo<br/></div>
+airdrop,<div><b>- Google :</b><br />&emsp;+ Không khí<br/><b>- MyMemory :</b><br />&emsp;+ Airdrop ✔<br/></div>
+polygon,<div><b>- Google :</b><br />&emsp;+ Đa giác<br/><b>- Bing :</b><br />&emsp;+ Đa giác<br/><b>- MyMemory :</b><br />&emsp;+ ポリゴン<br/></div>
+demo,<div><b>- Google :</b><br />&emsp;+ Thử nghiệm<br/><b>- MyMemory :</b><br />&emsp;+ Bản demo<br/></div>
+modulebase,<div><b>- Google :</b><br />&emsp;+ Mô -đun<br/><b>- Bing :</b><br />&emsp;+ Cơ sở mô-đun<br/><b>- MyMemory :</b><br />&emsp;+ Cơ sở mô-đun<br/></div>
+applicationinfo,<div><b>- Google :</b><br />&emsp;+ Ứng dụng<br/><b>- Bing :</b><br />&emsp;+ Thông tin ứng dụng<br/><b>- MyMemory :</b><br />&emsp;+ Thông tin ứng dụng<br/></div>
+marshal,<div><b>- Google :</b><br />&emsp;+ Thống chế<br/><b>- Bing :</b><br />&emsp;+ Nguyên soái<br/><b>- MyMemory :</b><br />&emsp;+ Sắp đặt<br/></div>
+processs,<div><b>- Google :</b><br />&emsp;+ Quá trình<br/><b>- Bing :</b><br />&emsp;+ Quy trình<br/><b>- MyMemory :</b><br />&emsp;+ Quy trình<br/></div>
+assetmanager,<div><b>- Google :</b><br />&emsp;+ Quản lý tài sản<br/><b>- Bing :</b><br />&emsp;+ Trình quản lý tài sản<br/><b>- MyMemory :</b><br />&emsp;+ Người quản lý tài sản<br/></div>
+bordering,<div><b>- Google :</b><br />&emsp;+ Giáp ranh<br/><b>- Bing :</b><br />&emsp;+ Giáp<br/><b>- MyMemory :</b><br />&emsp;+ Đường viền<br/></div>
+affectted,<div><b>- Google :</b><br />&emsp;+ Ảnh hưởng<br/><b>- Bing :</b><br />&emsp;+ Bị ảnh hưởng<br/><b>- MyMemory :</b><br />&emsp;+ Bị ảnh hưởng<br/></div>
+speci,<div><b>- Google :</b><br />&emsp;+ Cụ thể<br/><b>- Bing :</b><br />&emsp;+ Mẫu vật<br/></div>
+eternalblue,<div><b>- Google :</b><br />&emsp;+ Vĩnh cửu<br/><b>- Bing :</b><br />&emsp;+ Màu xanh vĩnh cửu<br/><b>- MyMemory :</b><br />&emsp;+ Xanh vĩnh cửu<br/></div>
+teamspeak,<div><b>- Google :</b><br />&emsp;+ Nhóm nói<br/><b>- Bing :</b><br />&emsp;+ Nói chuyện theo nhóm<br/><b>- MyMemory :</b><br />&emsp;+ Teampeak<br/></div>
+knobcount,<div><b>- Google :</b><br />&emsp;+ Núm<br/><b>- Bing :</b><br />&emsp;+ Núm vặn<br/><b>- MyMemory :</b><br />&emsp;+ Số núm<br/></div>
+recursioncount,<div><b>- Google :</b><br />&emsp;+ Đệ quy<br/><b>- Bing :</b><br />&emsp;+ Đệ quy.<br/><b>- MyMemory :</b><br />&emsp;+ Số đếm đệ quy<br/></div>
+writeup,<div><b>- Google :</b><br />&emsp;+ Hãy viết ra giấy<br/><b>- MyMemory :</b><br />&emsp;+ Văn kiện<br/></div>
+someplace,<div><b>- Google :</b><br />&emsp;+ Nơi nào đó<br/><b>- MyMemory :</b><br />&emsp;+ Một nơi nào đó<br/></div>
+lighthouse,<div><b>- Google :</b><br />&emsp;+ Ngọn hải đăng<br/><b>- Bing :</b><br />&emsp;+ Hải đăng<br/><b>- MyMemory :</b><br />&emsp;+ Ngọn hải đăng<br/></div>
+errorcode,<div><b>- Google :</b><br />&emsp;+ Mã lỗi<br/><b>- Bing :</b><br />&emsp;+ Mã lỗi<br/><b>- MyMemory :</b><br />&emsp;+ Mãlỗi<br/></div>
+extractvalue,<div><b>- Google :</b><br />&emsp;+ Trích hóa giá trị<br/><b>- Bing :</b><br />&emsp;+ Giá trị trích xuất<br/><b>- MyMemory :</b><br />&emsp;+ Giá trị chiết<br/></div>
+importerror,<div><b>- Google :</b><br />&emsp;+ Nhà nhập khẩu<br/><b>- MyMemory :</b><br />&emsp;+ Lỗi nhập khẩu<br/></div>
