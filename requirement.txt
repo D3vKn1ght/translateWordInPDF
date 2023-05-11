@@ -1,2 +1,3 @@
 pip3 install git+https://github.com/ultrafunkamsterdam/googletranslate
-pymupdf
+pip3 install pymupdf
+pip install penelope
