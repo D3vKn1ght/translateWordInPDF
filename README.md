@@ -8,7 +8,7 @@
 *Cách dùng : 
 
 - Copy các file pdf vào folder **pdf**.
-- Chạy server js để tiến hành dùng bing translate ( node app.js) . Trước khi chạy cần cài *bing-translate-api* qua câu lệnh: **npm install bing-translate-api**.
+- Chạy server js để tiến hành dùng bing translate ( **node app.js**) . Trước khi chạy cần cài *bing-translate-api* qua câu lệnh: **npm install bing-translate-api**.
 - **pip install -r requirement.txt**
 - Chạy File main.py để tiến hành translate, dữ liệu transtlate được lưu ở tệp dict.npy
 - Chạy file **writeDictToCSV.py** để tiến hành ghi dict.npy sang csv
